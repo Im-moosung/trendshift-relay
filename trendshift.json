@@ -1,0 +1,737 @@
+{
+  "generated_at": "2026-08-20T09:36:20.005166+00:00",
+  "generated_at_kst": "2026-08-20 18:36:20",
+  "source": "trendshift.io (scraped from SSR payload)",
+  "daily": [
+    {
+      "rank": 1,
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "stars": 112048,
+      "stars_gained": 1493,
+      "language": "Python",
+      "description": "å©ç¨ AI å¤§æ¨¡ååèªå¨åå·¥ä½æµï¼æ ¹æ®ä¸»é¢æå³é®è¯ä¸é®çæé«æ¸ç­è§é¢ãGenerate HD short videos from a topic or keyword with an automated AI workflow.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2024-03-11T02:57:34Z",
+      "age_days": 892,
+      "score": 5615
+    },
+    {
+      "rank": 2,
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 170804,
+      "stars_gained": 3749,
+      "language": "TypeScript",
+      "description": "",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-08-13T11:56:32Z",
+      "age_days": 6,
+      "score": 4971
+    },
+    {
+      "rank": 3,
+      "full_name": "CopilotKit/openbot",
+      "stars": 923,
+      "stars_gained": 545,
+      "language": "TypeScript",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-08-17T00:44:59Z",
+      "age_days": 3,
+      "score": 4485
+    },
+    {
+      "rank": 4,
+      "full_name": "s1dashu/ip-as-logo-skill",
+      "stars": 2629,
+      "stars_gained": 580,
+      "language": "",
+      "description": "A compact Codex skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-08-18T13:59:23Z",
+      "age_days": 1,
+      "score": 3503
+    },
+    {
+      "rank": 5,
+      "full_name": "volcengine/OpenViking",
+      "stars": 30585,
+      "stars_gained": 505,
+      "language": "Python",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-01-05T07:11:17Z",
+      "age_days": 227,
+      "score": 2969
+    },
+    {
+      "rank": 6,
+      "full_name": "zenbu-labs/terminal-code",
+      "stars": 513,
+      "stars_gained": 364,
+      "language": "TypeScript",
+      "description": "VS Code in the terminal",
+      "social": [
+        "hackernews",
+        "reddit"
+      ],
+      "created_at": "2026-08-08T05:35:40Z",
+      "age_days": 12,
+      "score": 2940
+    },
+    {
+      "rank": 7,
+      "full_name": "andrew-waters/orchard",
+      "stars": 1060,
+      "stars_gained": 297,
+      "language": "Swift",
+      "description": "A GUI for Apple Containers, written in swift",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-06-17T08:33:30Z",
+      "age_days": 429,
+      "score": 2376
+    },
+    {
+      "rank": 8,
+      "full_name": "zenbu-labs/terminal-browser",
+      "stars": 1394,
+      "stars_gained": 295,
+      "language": "Rust",
+      "description": "A browser that runs directly inside your existing terminal",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-07-06T16:31:11Z",
+      "age_days": 44,
+      "score": 2374
+    },
+    {
+      "rank": 9,
+      "full_name": "marceloprates/prettymaps",
+      "stars": 13361,
+      "stars_gained": 300,
+      "language": "Python",
+      "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "social": [
+        "x"
+      ],
+      "created_at": "2021-03-05T12:22:05Z",
+      "age_days": 1993,
+      "score": 2240
+    },
+    {
+      "rank": 10,
+      "full_name": "vercel-labs/portless",
+      "stars": 10699,
+      "stars_gained": 276,
+      "language": "TypeScript",
+      "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-02-15T14:43:03Z",
+      "age_days": 185,
+      "score": 2224
+    },
+    {
+      "rank": 11,
+      "full_name": "apache/maka",
+      "stars": 1716,
+      "stars_gained": 273,
+      "language": "TypeScript",
+      "description": "Maka â local-first AI desktop assistant",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-05-27T15:46:05Z",
+      "age_days": 84,
+      "score": 2216
+    },
+    {
+      "rank": 12,
+      "full_name": "vercel-labs/fx",
+      "stars": 1328,
+      "stars_gained": 298,
+      "language": "Zig",
+      "description": "Unix like coding agent",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-08-11T08:57:04Z",
+      "age_days": 9,
+      "score": 2088
+    },
+    {
+      "rank": 13,
+      "full_name": "vvxw/deploy-vercel",
+      "stars": 620,
+      "stars_gained": 236,
+      "language": "JavaScript",
+      "description": "Install Commandï¼npm install",
+      "social": [],
+      "created_at": "2026-08-18T13:25:45Z",
+      "age_days": 1,
+      "score": 1988
+    },
+    {
+      "rank": 14,
+      "full_name": "amadeusprotocol/node",
+      "stars": 4883,
+      "stars_gained": 351,
+      "language": "Rust",
+      "description": "",
+      "social": [],
+      "created_at": "2024-03-07T13:31:57Z",
+      "age_days": 895,
+      "score": 1896
+    },
+    {
+      "rank": 15,
+      "full_name": "debpalash/VoiceStudio",
+      "stars": 10610,
+      "stars_gained": 232,
+      "language": "Python",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative â voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. No accounts, no API keys, no cloud.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-04-09T21:40:26Z",
+      "age_days": 132,
+      "score": 1894
+    },
+    {
+      "rank": 16,
+      "full_name": "AprilNEA/OpenLogi",
+      "stars": 10837,
+      "stars_gained": 430,
+      "language": "Rust",
+      "description": "â¡ï¸A native, local-first alternative to Logitech Options+, written in Rust ð¦ â remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-05-24T10:10:36Z",
+      "age_days": 87,
+      "score": 1852
+    },
+    {
+      "rank": 17,
+      "full_name": "mahlernim/google-timeline-visualizer",
+      "stars": 754,
+      "stars_gained": 217,
+      "language": "Kotlin",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "social": [],
+      "created_at": "2025-12-16T06:49:16Z",
+      "age_days": 247,
+      "score": 1768
+    },
+    {
+      "rank": 18,
+      "full_name": "byoungd/up",
+      "stars": 60138,
+      "stars_gained": 321,
+      "language": "JavaScript",
+      "description": "An advanced guide which might benefit you a lot ð . äººçè¿é¶æå ç¦»è°±çäººç ç¦»è°±çè±è¯­å­¦ä¹ æå/è±è¯­å­¦ä¹ æç¨/è±è¯­å­¦ä¹ /å­¦è±è¯­",
+      "social": [
+        "x"
+      ],
+      "created_at": "2017-05-30T07:18:52Z",
+      "age_days": 3369,
+      "score": 1761
+    },
+    {
+      "rank": 19,
+      "full_name": "HD838A/remote-mic-app",
+      "stars": 677,
+      "stars_gained": 188,
+      "language": "Swift",
+      "description": "æ çº¿éº¦ï¼Remote Micï¼ï¼å°å°ç±³èçé¥æ§å¨ 2 Pro / RC003 åæ Mac è¯­é³è¾å¥è®¾å¤",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-07-22T13:28:04Z",
+      "age_days": 28,
+      "score": 1521
+    },
+    {
+      "rank": 20,
+      "full_name": "santifer/career-ops",
+      "stars": 66061,
+      "stars_gained": 339,
+      "language": "JavaScript",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications â runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravityâ¦)",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-04T18:21:18Z",
+      "age_days": 137,
+      "score": 1477
+    },
+    {
+      "rank": 21,
+      "full_name": "anywhere-labs/deepseek-harness-desktop",
+      "stars": 15964,
+      "stars_gained": 838,
+      "language": "TypeScript",
+      "description": "åºäºå®æ¹ DeepSeek Harness æé ç Electron æ¡é¢ç«¯ï¼æ¯æ macOS å Windowsï¼åéç½®ãä¸è½½å³ç¨ã",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-08-13T16:30:50Z",
+      "age_days": 6,
+      "score": 1441
+    },
+    {
+      "rank": 22,
+      "full_name": "stablyai/orca",
+      "stars": 49490,
+      "stars_gained": 467,
+      "language": "TypeScript",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-17T03:28:57Z",
+      "age_days": 156,
+      "score": 1331
+    },
+    {
+      "rank": 23,
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "stars": 30087,
+      "stars_gained": 310,
+      "language": "Python",
+      "description": "817 structured cybersecurity skills for AI agents Â· Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) Â· agentskills.io standard Â· Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms Â· 29 security domains Â· Apache 2.0",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-02-25T09:47:50Z",
+      "age_days": 175,
+      "score": 1294
+    },
+    {
+      "rank": 24,
+      "full_name": "walkinglabs/learn-harness-engineering",
+      "stars": 12877,
+      "stars_gained": 272,
+      "language": "TypeScript",
+      "description": "Harness engineering beginner tutorial, from 0 to 1",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-29T12:28:19Z",
+      "age_days": 143,
+      "score": 1281
+    },
+    {
+      "rank": 25,
+      "full_name": "flaqai/backlink_skills",
+      "stars": 403,
+      "stars_gained": 144,
+      "language": "Python",
+      "description": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-08-17T06:46:51Z",
+      "age_days": 3,
+      "score": 1238
+    }
+  ],
+  "weekly": [
+    {
+      "rank": 1,
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 170804,
+      "stars_gained": 39703,
+      "language": "TypeScript",
+      "description": "",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-08-13T11:56:32Z",
+      "age_days": 6,
+      "score": 165506
+    },
+    {
+      "rank": 2,
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "stars": 112048,
+      "stars_gained": 7421,
+      "language": "Python",
+      "description": "å©ç¨ AI å¤§æ¨¡ååèªå¨åå·¥ä½æµï¼æ ¹æ®ä¸»é¢æå³é®è¯ä¸é®çæé«æ¸ç­è§é¢ãGenerate HD short videos from a topic or keyword with an automated AI workflow.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2024-03-11T02:57:34Z",
+      "age_days": 892,
+      "score": 92344
+    },
+    {
+      "rank": 3,
+      "full_name": "anywhere-labs/deepseek-harness-desktop",
+      "stars": 15964,
+      "stars_gained": 7103,
+      "language": "TypeScript",
+      "description": "åºäºå®æ¹ DeepSeek Harness æé ç Electron æ¡é¢ç«¯ï¼æ¯æ macOS å Windowsï¼åéç½®ãä¸è½½å³ç¨ã",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-08-13T16:30:50Z",
+      "age_days": 6,
+      "score": 39030
+    },
+    {
+      "rank": 4,
+      "full_name": "yjh051108/dsh-routing-suite",
+      "stars": 6385,
+      "stars_gained": 3588,
+      "language": "PowerShell",
+      "description": "dsh-routing-suite â injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-08-14T21:20:55Z",
+      "age_days": 5,
+      "score": 36168
+    },
+    {
+      "rank": 5,
+      "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": 10316,
+      "stars_gained": 5290,
+      "language": "",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) Â· DeepSeek Harness æä»¶ç²¾éåè¡¨",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-08-13T13:55:31Z",
+      "age_days": 6,
+      "score": 33426
+    },
+    {
+      "rank": 6,
+      "full_name": "Tiger3807861189/J-Space-Cognition-Suite-V3.6",
+      "stars": 2923,
+      "stars_gained": 2370,
+      "language": "Python",
+      "description": "J-Space Cognition Suite V3.5Turbo - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-07-22T00:34:24Z",
+      "age_days": 29,
+      "score": 28975
+    },
+    {
+      "rank": 7,
+      "full_name": "AprilNEA/OpenLogi",
+      "stars": 10837,
+      "stars_gained": 2388,
+      "language": "Rust",
+      "description": "â¡ï¸A native, local-first alternative to Logitech Options+, written in Rust ð¦ â remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-05-24T10:10:36Z",
+      "age_days": 87,
+      "score": 28861
+    },
+    {
+      "rank": 8,
+      "full_name": "ifixai-ai/iFixAi",
+      "stars": 11026,
+      "stars_gained": 2232,
+      "language": "Python",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-27T13:02:34Z",
+      "age_days": 114,
+      "score": 26327
+    },
+    {
+      "rank": 9,
+      "full_name": "mattpocock/skills",
+      "stars": 224401,
+      "stars_gained": 5232,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-02-03T11:15:53Z",
+      "age_days": 197,
+      "score": 26304
+    },
+    {
+      "rank": 10,
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "stars": 30087,
+      "stars_gained": 2136,
+      "language": "Python",
+      "description": "817 structured cybersecurity skills for AI agents Â· Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) Â· agentskills.io standard Â· Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms Â· 29 security domains Â· Apache 2.0",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-02-25T09:47:50Z",
+      "age_days": 175,
+      "score": 26160
+    },
+    {
+      "rank": 11,
+      "full_name": "public-apis/public-apis",
+      "stars": 466516,
+      "stars_gained": 4836,
+      "language": "Python",
+      "description": "A collective list of free APIs",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2016-03-20T23:49:42Z",
+      "age_days": 3804,
+      "score": 25949
+    },
+    {
+      "rank": 12,
+      "full_name": "yetone/cumora",
+      "stars": 2746,
+      "stars_gained": 2662,
+      "language": "TypeScript",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates â with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-08-17T09:13:52Z",
+      "age_days": 3,
+      "score": 24689
+    },
+    {
+      "rank": 13,
+      "full_name": "volcengine/OpenViking",
+      "stars": 30585,
+      "stars_gained": 1987,
+      "language": "Python",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-01-05T07:11:17Z",
+      "age_days": 227,
+      "score": 24183
+    },
+    {
+      "rank": 14,
+      "full_name": "s1dashu/ip-as-logo-skill",
+      "stars": 2629,
+      "stars_gained": 2625,
+      "language": "",
+      "description": "A compact Codex skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-08-18T13:59:23Z",
+      "age_days": 1,
+      "score": 21901
+    },
+    {
+      "rank": 15,
+      "full_name": "llm-as-a-verifier/llm-as-a-verifier",
+      "stars": 2362,
+      "stars_gained": 1735,
+      "language": "Python",
+      "description": "LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It achieves SOTA performance across coding, robotics, and medical agentic benchmarks.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-09T17:28:59Z",
+      "age_days": 132,
+      "score": 21196
+    },
+    {
+      "rank": 16,
+      "full_name": "santifer/career-ops",
+      "stars": 66061,
+      "stars_gained": 1997,
+      "language": "JavaScript",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications â runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravityâ¦)",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-04T18:21:18Z",
+      "age_days": 137,
+      "score": 21018
+    },
+    {
+      "rank": 17,
+      "full_name": "chaitanyagiri/munder-difflin",
+      "stars": 2855,
+      "stars_gained": 1663,
+      "language": "TypeScript",
+      "description": "local multi-agent harness",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-05-31T15:25:05Z",
+      "age_days": 80,
+      "score": 20355
+    },
+    {
+      "rank": 18,
+      "full_name": "truefoundry/trueforge",
+      "stars": 2123,
+      "stars_gained": 1645,
+      "language": "TypeScript",
+      "description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-07-23T09:16:13Z",
+      "age_days": 28,
+      "score": 20205
+    },
+    {
+      "rank": 19,
+      "full_name": "akitaonrails/ai-memory",
+      "stars": 3321,
+      "stars_gained": 1576,
+      "language": "Rust",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-05-21T23:23:51Z",
+      "age_days": 90,
+      "score": 19221
+    },
+    {
+      "rank": 20,
+      "full_name": "guillaumemeyer/watermarks-remover",
+      "stars": 15535,
+      "stars_gained": 4199,
+      "language": "Python",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-08-11T16:32:38Z",
+      "age_days": 8,
+      "score": 18189
+    },
+    {
+      "rank": 21,
+      "full_name": "agalwood/Motrix",
+      "stars": 54088,
+      "stars_gained": 1463,
+      "language": "TypeScript",
+      "description": "A full-featured download manager.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2018-12-18T11:45:05Z",
+      "age_days": 2801,
+      "score": 17739
+    },
+    {
+      "rank": 22,
+      "full_name": "cathrynlavery/diagram-design",
+      "stars": 23753,
+      "stars_gained": 4312,
+      "language": "HTML",
+      "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-16T18:01:16Z",
+      "age_days": 125,
+      "score": 16762
+    },
+    {
+      "rank": 23,
+      "full_name": "walkinglabs/learn-harness-engineering",
+      "stars": 12877,
+      "stars_gained": 1375,
+      "language": "TypeScript",
+      "description": "Harness engineering beginner tutorial, from 0 to 1",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-29T12:28:19Z",
+      "age_days": 143,
+      "score": 16746
+    },
+    {
+      "rank": 24,
+      "full_name": "amadeusprotocol/node",
+      "stars": 4883,
+      "stars_gained": 1802,
+      "language": "Rust",
+      "description": "",
+      "social": [],
+      "created_at": "2024-03-07T13:31:57Z",
+      "age_days": 895,
+      "score": 15029
+    },
+    {
+      "rank": 25,
+      "full_name": "jundot/omlx",
+      "stars": 19942,
+      "stars_gained": 1162,
+      "language": "Python",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon â managed from the macOS menu bar",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-02-13T14:13:27Z",
+      "age_days": 187,
+      "score": 14196
+    }
+  ]
+}
