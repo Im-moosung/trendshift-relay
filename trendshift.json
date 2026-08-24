@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T02:40:21.246202+00:00",
-  "generated_at_kst": "2026-08-24 11:40:21",
+  "generated_at": "2026-08-24T02:44:37.196584+00:00",
+  "generated_at_kst": "2026-08-24 11:44:37",
   "source": "trendshift.io (scraped from SSR payload)",
   "daily": [
     {
@@ -734,5 +734,447 @@
       "age_days": 157,
       "score": 228
     }
-  ]
+  ],
+  "huggingface": {
+    "models": [
+      {
+        "id": "Qwen/Qwen3.8-27B",
+        "likes": 12332,
+        "downloads": 2358347,
+        "pipeline_tag": "image-text-to-text",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "conversational",
+          "license:apache-2.0",
+          "eval-results",
+          "endpoints_compatible",
+          "deploy:azure",
+          "region:us",
+          "deploy:sagemaker"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+      },
+      {
+        "id": "unsloth/Qwen3.8-27B-GGUF",
+        "likes": 2741,
+        "downloads": 6674515,
+        "pipeline_tag": null,
+        "tags": [
+          "gguf",
+          "qwen3_5",
+          "unsloth",
+          "base_model:Qwen/Qwen3.8-27B",
+          "base_model:quantized:Qwen/Qwen3.8-27B",
+          "license:apache-2.0",
+          "endpoints_compatible",
+          "region:us",
+          "imatrix",
+          "conversational"
+        ],
+        "mac_ready": true,
+        "gated": false,
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF"
+      },
+      {
+        "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "likes": 962,
+        "downloads": 47098,
+        "pipeline_tag": "image-text-to-text",
+        "tags": [
+          "mlx",
+          "safetensors",
+          "qwen3_5",
+          "abliterated",
+          "qwen3.8",
+          "uncensored",
+          "ai-red-team",
+          "red-teaming",
+          "apple-silicon",
+          "quantized",
+          "4-bit",
+          "8-bit"
+        ],
+        "mac_ready": true,
+        "gated": false,
+        "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX"
+      },
+      {
+        "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "likes": 640,
+        "downloads": 244834,
+        "pipeline_tag": "text-generation",
+        "tags": [
+          "mlx",
+          "safetensors",
+          "gguf",
+          "qwen3_5",
+          "abliterated",
+          "uncensored",
+          "obliteratus",
+          "qwen3",
+          "qwen3.8",
+          "red-team",
+          "ai-safety-research",
+          "text-generation"
+        ],
+        "mac_ready": true,
+        "gated": false,
+        "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED"
+      },
+      {
+        "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "likes": 1051,
+        "downloads": 190062,
+        "pipeline_tag": "image-text-to-text",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "abliterated",
+          "qwen3.8",
+          "uncensored",
+          "ai-red-team",
+          "red-teaming",
+          "fp8",
+          "block-fp8",
+          "vllm"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8"
+      },
+      {
+        "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+        "likes": 539,
+        "downloads": 676697,
+        "pipeline_tag": "image-text-to-text",
+        "tags": [
+          "gguf",
+          "uncensored",
+          "qwen3.8",
+          "multimodal",
+          "vision",
+          "mtp",
+          "speculative-decoding",
+          "fastmtp",
+          "image-text-to-text",
+          "en",
+          "zh",
+          "multilingual"
+        ],
+        "mac_ready": true,
+        "gated": false,
+        "url": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF"
+      },
+      {
+        "id": "Lightricks/LTX-2.5",
+        "likes": 1645,
+        "downloads": 738345,
+        "pipeline_tag": "image-to-video",
+        "tags": [
+          "diffusion-single-file",
+          "image-to-video",
+          "text-to-video",
+          "video-to-video",
+          "image-text-to-video",
+          "audio-to-video",
+          "text-to-audio",
+          "video-to-audio",
+          "audio-to-audio",
+          "text-to-audio-video",
+          "image-to-audio-video",
+          "image-text-to-audio-video"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/Lightricks/LTX-2.5"
+      },
+      {
+        "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+        "likes": 652,
+        "downloads": 1334820,
+        "pipeline_tag": "text-generation",
+        "tags": [
+          "llama.cpp",
+          "gguf",
+          "uncensored",
+          "qwen3.8",
+          "mtp",
+          "speculative-decoding",
+          "imatrix",
+          "quantized",
+          "text-generation",
+          "en",
+          "zh",
+          "base_model:Qwen/Qwen3.8-27B"
+        ],
+        "mac_ready": true,
+        "gated": false,
+        "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF"
+      },
+      {
+        "id": "ornith-ai/Ornith-1.5-35B-A3B",
+        "likes": 368,
+        "downloads": 23516,
+        "pipeline_tag": "text-generation",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5_moe",
+          "image-text-to-text",
+          "text-generation",
+          "conversational",
+          "license:mit",
+          "eval-results",
+          "endpoints_compatible",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B"
+      },
+      {
+        "id": "MiniMaxAI/MiniMax-Music3",
+        "likes": 1207,
+        "downloads": 17421,
+        "pipeline_tag": "text-to-audio",
+        "tags": [
+          "diffusers",
+          "safetensors",
+          "minimax_music3",
+          "music-generation",
+          "text-to-music",
+          "pytorch",
+          "sglang-omni",
+          "text-to-audio",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3"
+      }
+    ],
+    "spaces": [
+      {
+        "id": "kulkas2pintu/wan555",
+        "likes": 1395,
+        "downloads": null,
+        "pipeline_tag": null,
+        "tags": [
+          "gradio",
+          "mcp-server",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/spaces/kulkas2pintu/wan555"
+      },
+      {
+        "id": "ReverseFaceSearch/Reverse-Face-Search",
+        "likes": 225,
+        "downloads": null,
+        "pipeline_tag": null,
+        "tags": [
+          "static",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/spaces/ReverseFaceSearch/Reverse-Face-Search"
+      },
+      {
+        "id": "agent-memory-leaderboard/leaderboard",
+        "likes": 726,
+        "downloads": null,
+        "pipeline_tag": null,
+        "tags": [
+          "static",
+          "leaderboard",
+          "benchmark",
+          "agent-memory",
+          "long-term-memory",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/spaces/agent-memory-leaderboard/leaderboard"
+      },
+      {
+        "id": "MiniMaxAI/MiniMax-Music3",
+        "likes": 264,
+        "downloads": null,
+        "pipeline_tag": null,
+        "tags": [
+          "gradio",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/spaces/MiniMaxAI/MiniMax-Music3"
+      },
+      {
+        "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+        "likes": 2659,
+        "downloads": null,
+        "pipeline_tag": null,
+        "tags": [
+          "gradio",
+          "mcp-server",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/spaces/prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast"
+      },
+      {
+        "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
+        "likes": 274,
+        "downloads": null,
+        "pipeline_tag": null,
+        "tags": [
+          "gradio",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/spaces/MiniMaxAI/MiniMax-H3-Turbo-Lora"
+      }
+    ],
+    "datasets": [
+      {
+        "id": "openbmb/Ultra-FineWeb-L1",
+        "likes": 134,
+        "downloads": 8981,
+        "pipeline_tag": null,
+        "tags": [
+          "task_categories:text-generation",
+          "language:en",
+          "license:apache-2.0",
+          "size_categories:1B<n<10B",
+          "format:parquet",
+          "modality:text",
+          "library:datasets",
+          "library:dask",
+          "library:polars",
+          "library:mlcroissant",
+          "arxiv:2505.05427",
+          "arxiv:2602.09003"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/datasets/openbmb/Ultra-FineWeb-L1"
+      },
+      {
+        "id": "Anthropic/claude-protein-binder-design",
+        "likes": 111,
+        "downloads": 22084,
+        "pipeline_tag": null,
+        "tags": [
+          "license:cc-by-4.0",
+          "size_categories:100K<n<1M",
+          "modality:image",
+          "modality:tabular",
+          "modality:text",
+          "region:us",
+          "biology",
+          "proteins",
+          "protein-design",
+          "de-novo-binders",
+          "surface-plasmon-resonance",
+          "biolayer-interferometry"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design"
+      },
+      {
+        "id": "malcolmrey/various",
+        "likes": 113,
+        "downloads": 22164,
+        "pipeline_tag": null,
+        "tags": [
+          "license:wtfpl",
+          "size_categories:n<1K",
+          "format:imagefolder",
+          "modality:image",
+          "modality:video",
+          "library:datasets",
+          "library:mlcroissant",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/datasets/malcolmrey/various"
+      },
+      {
+        "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
+        "likes": 198,
+        "downloads": 6540,
+        "pipeline_tag": null,
+        "tags": [
+          "task_categories:text-generation",
+          "language:en",
+          "language:zh",
+          "language:es",
+          "language:fr",
+          "language:de",
+          "language:ja",
+          "license:other",
+          "size_categories:10M<n<100M",
+          "format:parquet",
+          "modality:tabular",
+          "modality:text"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/datasets/r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation"
+      },
+      {
+        "id": "markov-ai/cad-1000-hours",
+        "likes": 76,
+        "downloads": 9305,
+        "pipeline_tag": null,
+        "tags": [
+          "modality:video",
+          "region:us",
+          "cad",
+          "computer-use",
+          "screen-recording",
+          "video"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/datasets/markov-ai/cad-1000-hours"
+      },
+      {
+        "id": "ChartGalaxy/ChartGalaxy",
+        "likes": 84,
+        "downloads": 112898,
+        "pipeline_tag": null,
+        "tags": [
+          "task_categories:visual-question-answering",
+          "language:en",
+          "license:cc-by-nc-4.0",
+          "size_categories:1K<n<10K",
+          "format:parquet",
+          "modality:image",
+          "modality:text",
+          "library:datasets",
+          "library:pandas",
+          "library:polars",
+          "library:mlcroissant",
+          "arxiv:2505.18668"
+        ],
+        "mac_ready": false,
+        "gated": true,
+        "url": "https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy"
+      }
+    ]
+  }
 }
