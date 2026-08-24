@@ -1,27 +1,13 @@
 {
-  "generated_at": "2026-08-24T02:44:37.196584+00:00",
-  "generated_at_kst": "2026-08-24 11:44:37",
+  "generated_at": "2026-08-24T06:10:00.397010+00:00",
+  "generated_at_kst": "2026-08-24 15:10:00",
   "source": "trendshift.io (scraped from SSR payload)",
   "daily": [
     {
       "rank": 1,
-      "full_name": "ZJU-REAL/HugAgentOS",
-      "stars": 581,
-      "stars_gained": 120,
-      "language": "Python",
-      "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-07-19T08:41:07Z",
-      "age_days": 35,
-      "score": 960
-    },
-    {
-      "rank": 2,
       "full_name": "freestylefly/awesome-gpt-image-2",
-      "stars": 12870,
-      "stars_gained": 197,
+      "stars": 13426,
+      "stars_gained": 961,
       "language": "JavaScript",
       "description": "Prompt as Code | GPT-Image2 å·¥ä¸çº§æç¤ºè¯å¼æä¸æ¨¡æ¿åºï¼470+ ä¸ªæ¡ä¾éåå·¥ç¨ï¼20+ å¥å·¥ä¸çº§æ¨¡æ¿ï¼å¹¶æç¼åºSkillsï¼æç»­æ´æ°ä¸­",
       "social": [
@@ -29,42 +15,13 @@
       ],
       "created_at": "2026-04-25T09:19:13Z",
       "age_days": 120,
-      "score": 666
+      "score": 7788
     },
     {
-      "rank": 3,
-      "full_name": "wafer-ai/gpu-perf-engineering-resources",
-      "stars": 1522,
-      "stars_gained": 68,
-      "language": "",
-      "description": "A curriculum for learning about gpu performance engineering, from scratch to what the frontier AI labs do",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-01-12T00:47:24Z",
-      "age_days": 224,
-      "score": 535
-    },
-    {
-      "rank": 4,
-      "full_name": "pixlcore/xyops",
-      "stars": 4882,
-      "stars_gained": 54,
-      "language": "JavaScript",
-      "description": "A complete workflow automation and server monitoring system.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2025-12-29T16:57:27Z",
-      "age_days": 237,
-      "score": 432
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "full_name": "openai/codex",
-      "stars": 115363,
-      "stars_gained": 248,
+      "stars": 115810,
+      "stars_gained": 811,
       "language": "Rust",
       "description": "Lightweight coding agent that runs in your terminal",
       "social": [
@@ -73,14 +30,29 @@
         "x"
       ],
       "created_at": "2025-04-13T05:37:54Z",
-      "age_days": 497,
-      "score": 419
+      "age_days": 498,
+      "score": 1934
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "full_name": "vorssaint/vorssaint-utils",
+      "stars": 9197,
+      "stars_gained": 432,
+      "language": "Swift",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-06-12T15:25:43Z",
+      "age_days": 72,
+      "score": 1430
+    },
+    {
+      "rank": 4,
       "full_name": "arvids-unavailable/openGym",
-      "stars": 2660,
-      "stars_gained": 142,
+      "stars": 2855,
+      "stars_gained": 331,
       "language": "JavaScript",
       "description": "https://github.com/DuarteSantos8/openGym",
       "social": [
@@ -88,13 +60,13 @@
       ],
       "created_at": "2026-08-03T18:16:58Z",
       "age_days": 20,
-      "score": 418
+      "score": 1395
     },
     {
-      "rank": 7,
+      "rank": 5,
       "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 188072,
-      "stars_gained": 427,
+      "stars": 188957,
+      "stars_gained": 1199,
       "language": "TypeScript",
       "description": "",
       "social": [
@@ -104,170 +76,54 @@
       ],
       "created_at": "2026-08-13T11:56:32Z",
       "age_days": 10,
-      "score": 416
+      "score": 1274
+    },
+    {
+      "rank": 6,
+      "full_name": "wafer-ai/gpu-perf-engineering-resources",
+      "stars": 1614,
+      "stars_gained": 145,
+      "language": "",
+      "description": "A curriculum for learning about gpu performance engineering, from scratch to what the frontier AI labs do",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-01-12T00:47:24Z",
+      "age_days": 224,
+      "score": 1172
+    },
+    {
+      "rank": 7,
+      "full_name": "Forsy-AI/biosecurity-agent",
+      "stars": 481,
+      "stars_gained": 146,
+      "language": "TypeScript",
+      "description": "",
+      "social": [],
+      "created_at": "2026-08-22T23:06:26Z",
+      "age_days": 1,
+      "score": 1168
     },
     {
       "rank": 8,
-      "full_name": "vorssaint/vorssaint-utils",
-      "stars": 8879,
-      "stars_gained": 164,
-      "language": "Swift",
-      "description": "Free and open-source macOS menu bar toolkit.",
+      "full_name": "pixlcore/xyops",
+      "stars": 4929,
+      "stars_gained": 133,
+      "language": "JavaScript",
+      "description": "A complete workflow automation and server monitoring system.",
       "social": [
-        "hackernews",
+        "reddit",
         "x"
       ],
-      "created_at": "2026-06-12T15:25:43Z",
-      "age_days": 72,
-      "score": 380
+      "created_at": "2025-12-29T16:57:27Z",
+      "age_days": 237,
+      "score": 1078
     },
     {
       "rank": 9,
-      "full_name": "GamePhanes/GamePhanes",
-      "stars": 151,
-      "stars_gained": 47,
-      "language": "JavaScript",
-      "description": "An open-source game coding agent environment and benchmark for Godot.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-08-21T02:57:42Z",
-      "age_days": 2,
-      "score": 376
-    },
-    {
-      "rank": 10,
-      "full_name": "inkboard/system-atlas",
-      "stars": 61,
-      "stars_gained": 46,
-      "language": "HTML",
-      "description": "An agent skill that turns an architecture discussion into an explorable isometric atlas: one data file, an interactive map and a generated SYSTEM.md",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-08-20T15:36:48Z",
-      "age_days": 3,
-      "score": 368
-    },
-    {
-      "rank": 11,
-      "full_name": "stablyai/orca",
-      "stars": 51971,
-      "stars_gained": 137,
-      "language": "TypeScript",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-03-17T03:28:57Z",
-      "age_days": 159,
-      "score": 323
-    },
-    {
-      "rank": 12,
-      "full_name": "tinyhumansai/openhuman",
-      "stars": 36789,
-      "stars_gained": 68,
-      "language": "Rust",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-02-18T20:01:27Z",
-      "age_days": 186,
-      "score": 297
-    },
-    {
-      "rank": 13,
-      "full_name": "FlashML-org/FreeToken",
-      "stars": 3399,
-      "stars_gained": 141,
-      "language": "Python",
-      "description": "",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-07-20T20:44:11Z",
-      "age_days": 34,
-      "score": 284
-    },
-    {
-      "rank": 14,
-      "full_name": "duty1g/x64dbg-mcp-server",
-      "stars": 881,
-      "stars_gained": 76,
-      "language": "Zig",
-      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig â zero dependencies, single-binary output, cros",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-08-22T14:28:41Z",
-      "age_days": 1,
-      "score": 262
-    },
-    {
-      "rank": 15,
-      "full_name": "galaxy-s10/billd-desk",
-      "stars": 7263,
-      "stars_gained": 41,
-      "language": "TypeScript",
-      "description": "åºäºVue3 + WebRTC + Nodejs + Flutteræ­å»ºçè¿ç¨æ¡é¢æ§å¶ãæ¸¸æä¸²æµ",
-      "social": [],
-      "created_at": "2024-02-27T10:48:07Z",
-      "age_days": 908,
-      "score": 250
-    },
-    {
-      "rank": 16,
-      "full_name": "anthropics/claude-plugins-community",
-      "stars": 959,
-      "stars_gained": 68,
-      "language": "Python",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror â submit plugins at clau.de/plugin-directory-submission.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-03-20T02:20:30Z",
-      "age_days": 157,
-      "score": 249
-    },
-    {
-      "rank": 17,
-      "full_name": "MengTo/threeui",
-      "stars": 2958,
-      "stars_gained": 105,
-      "language": "HTML",
-      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-08-21T11:56:39Z",
-      "age_days": 2,
-      "score": 245
-    },
-    {
-      "rank": 18,
-      "full_name": "fuxicodex/Fuxi",
-      "stars": 1885,
-      "stars_gained": 77,
-      "language": "",
-      "description": "FuXi is a fast, self-contained AI developer terminal",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-08-04T07:32:11Z",
-      "age_days": 19,
-      "score": 230
-    },
-    {
-      "rank": 19,
       "full_name": "remorses/gpuix",
-      "stars": 681,
-      "stars_gained": 62,
+      "stars": 733,
+      "stars_gained": 163,
       "language": "Rust",
       "description": "Node.js & React bindings for Zed GPUI. Very experimental and broken",
       "social": [
@@ -275,189 +131,28 @@
       ],
       "created_at": "2026-01-29T14:52:57Z",
       "age_days": 206,
-      "score": 228
+      "score": 1046
     },
     {
-      "rank": 20,
-      "full_name": "Leonxlnx/unlazy",
-      "stars": 1688,
-      "stars_gained": 72,
-      "language": "JavaScript",
-      "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-08-09T23:39:12Z",
-      "age_days": 14,
-      "score": 219
-    },
-    {
-      "rank": 21,
-      "full_name": "MddIdd/mdd-sim-gateway",
-      "stars": 267,
-      "stars_gained": 27,
-      "language": "Python",
-      "description": "Self-hosted multi-SIM communication gateway with public-edition safeguards",
-      "social": [],
-      "created_at": "2026-08-10T10:51:24Z",
-      "age_days": 13,
-      "score": 216
-    },
-    {
-      "rank": 22,
-      "full_name": "basecamp/omarchy",
-      "stars": 29177,
-      "stars_gained": 88,
-      "language": "Shell",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2025-06-01T07:26:22Z",
-      "age_days": 448,
-      "score": 205
-    },
-    {
-      "rank": 23,
-      "full_name": "Alishahryar1/free-claude-code",
-      "stars": 48010,
-      "stars_gained": 80,
-      "language": "Python",
-      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-01-28T19:02:30Z",
-      "age_days": 207,
-      "score": 198
-    },
-    {
-      "rank": 24,
-      "full_name": "fayazara/Screendrop",
-      "stars": 1015,
-      "stars_gained": 60,
-      "language": "Swift",
-      "description": "A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-04-26T18:23:31Z",
-      "age_days": 119,
-      "score": 193
-    },
-    {
-      "rank": 25,
-      "full_name": "iamsrikanthnani/pluely",
-      "stars": 2503,
-      "stars_gained": 23,
-      "language": "TypeScript",
-      "description": "The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in video calls, screen shares, and recordings.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2025-08-16T11:57:54Z",
-      "age_days": 372,
-      "score": 184
-    }
-  ],
-  "weekly": [
-    {
-      "rank": 1,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 188072,
-      "stars_gained": 427,
-      "language": "TypeScript",
-      "description": "",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-08-13T11:56:32Z",
-      "age_days": 10,
-      "score": 1290
-    },
-    {
-      "rank": 2,
-      "full_name": "openai/codex",
-      "stars": 115363,
-      "stars_gained": 248,
+      "rank": 10,
+      "full_name": "tinyhumansai/openhuman",
+      "stars": 36837,
+      "stars_gained": 144,
       "language": "Rust",
-      "description": "Lightweight coding agent that runs in your terminal",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "social": [
-        "hackernews",
         "reddit",
         "x"
       ],
-      "created_at": "2025-04-13T05:37:54Z",
-      "age_days": 497,
-      "score": 764
+      "created_at": "2026-02-18T20:01:27Z",
+      "age_days": 186,
+      "score": 1025
     },
     {
-      "rank": 3,
-      "full_name": "ZJU-REAL/HugAgentOS",
-      "stars": 581,
-      "stars_gained": 120,
-      "language": "Python",
-      "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-07-19T08:41:07Z",
-      "age_days": 35,
-      "score": 683
-    },
-    {
-      "rank": 4,
-      "full_name": "freestylefly/awesome-gpt-image-2",
-      "stars": 12870,
-      "stars_gained": 197,
-      "language": "JavaScript",
-      "description": "Prompt as Code | GPT-Image2 å·¥ä¸çº§æç¤ºè¯å¼æä¸æ¨¡æ¿åºï¼470+ ä¸ªæ¡ä¾éåå·¥ç¨ï¼20+ å¥å·¥ä¸çº§æ¨¡æ¿ï¼å¹¶æç¼åºSkillsï¼æç»­æ´æ°ä¸­",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-04-25T09:19:13Z",
-      "age_days": 120,
-      "score": 648
-    },
-    {
-      "rank": 5,
-      "full_name": "vorssaint/vorssaint-utils",
-      "stars": 8879,
-      "stars_gained": 164,
-      "language": "Swift",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "social": [
-        "hackernews",
-        "x"
-      ],
-      "created_at": "2026-06-12T15:25:43Z",
-      "age_days": 72,
-      "score": 515
-    },
-    {
-      "rank": 6,
-      "full_name": "arvids-unavailable/openGym",
-      "stars": 2660,
-      "stars_gained": 142,
-      "language": "JavaScript",
-      "description": "https://github.com/DuarteSantos8/openGym",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-08-03T18:16:58Z",
-      "age_days": 20,
-      "score": 453
-    },
-    {
-      "rank": 7,
+      "rank": 11,
       "full_name": "FlashML-org/FreeToken",
-      "stars": 3399,
-      "stars_gained": 141,
+      "stars": 3647,
+      "stars_gained": 368,
       "language": "Python",
       "description": "",
       "social": [
@@ -467,28 +162,41 @@
       ],
       "created_at": "2026-07-20T20:44:11Z",
       "age_days": 34,
-      "score": 440
+      "score": 1017
     },
     {
-      "rank": 8,
-      "full_name": "mattpocock/skills",
-      "stars": 233942,
-      "stars_gained": 141,
-      "language": "Shell",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "rank": 12,
+      "full_name": "Leonxlnx/unlazy",
+      "stars": 1819,
+      "stars_gained": 199,
+      "language": "JavaScript",
+      "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
       "social": [
-        "reddit",
         "x"
       ],
-      "created_at": "2026-02-03T11:15:53Z",
-      "age_days": 201,
-      "score": 427
+      "created_at": "2026-08-09T23:39:12Z",
+      "age_days": 14,
+      "score": 978
     },
     {
-      "rank": 9,
+      "rank": 13,
+      "full_name": "ZJU-REAL/HugAgentOS",
+      "stars": 633,
+      "stars_gained": 121,
+      "language": "Python",
+      "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-07-19T08:41:07Z",
+      "age_days": 35,
+      "score": 968
+    },
+    {
+      "rank": 14,
       "full_name": "stablyai/orca",
-      "stars": 51971,
-      "stars_gained": 137,
+      "stars": 52078,
+      "stars_gained": 305,
       "language": "TypeScript",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "social": [
@@ -496,115 +204,28 @@
         "x"
       ],
       "created_at": "2026-03-17T03:28:57Z",
-      "age_days": 159,
-      "score": 421
-    },
-    {
-      "rank": 10,
-      "full_name": "inkboard/system-atlas",
-      "stars": 61,
-      "stars_gained": 46,
-      "language": "HTML",
-      "description": "An agent skill that turns an architecture discussion into an explorable isometric atlas: one data file, an interactive map and a generated SYSTEM.md",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-08-20T15:36:48Z",
-      "age_days": 3,
-      "score": 342
-    },
-    {
-      "rank": 11,
-      "full_name": "MengTo/threeui",
-      "stars": 2958,
-      "stars_gained": 105,
-      "language": "HTML",
-      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-08-21T11:56:39Z",
-      "age_days": 2,
-      "score": 330
-    },
-    {
-      "rank": 12,
-      "full_name": "pixlcore/xyops",
-      "stars": 4882,
-      "stars_gained": 54,
-      "language": "JavaScript",
-      "description": "A complete workflow automation and server monitoring system.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2025-12-29T16:57:27Z",
-      "age_days": 237,
-      "score": 326
-    },
-    {
-      "rank": 13,
-      "full_name": "AprilNEA/OpenLogi",
-      "stars": 14952,
-      "stars_gained": 107,
-      "language": "Rust",
-      "description": "â¡ï¸A native, local-first alternative to Logitech Options+, written in Rust ð¦ â remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-05-24T10:10:36Z",
-      "age_days": 91,
-      "score": 326
-    },
-    {
-      "rank": 14,
-      "full_name": "anywhere-labs/deepseek-harness-desktop",
-      "stars": 18954,
-      "stars_gained": 102,
-      "language": "TypeScript",
-      "description": "åºäºå®æ¹ DeepSeek Harness æé ç Electron æ¡é¢ç«¯ï¼æ¯æ macOS å Windowsï¼åéç½®ãä¸è½½å³ç¨ã",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-08-13T16:30:50Z",
-      "age_days": 10,
-      "score": 309
+      "age_days": 160,
+      "score": 866
     },
     {
       "rank": 15,
-      "full_name": "GamePhanes/GamePhanes",
-      "stars": 151,
-      "stars_gained": 47,
-      "language": "JavaScript",
-      "description": "An open-source game coding agent environment and benchmark for Godot.",
+      "full_name": "anthropics/claude-plugins-community",
+      "stars": 1052,
+      "stars_gained": 142,
+      "language": "Python",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror â submit plugins at clau.de/plugin-directory-submission.",
       "social": [
         "x"
       ],
-      "created_at": "2026-08-21T02:57:42Z",
-      "age_days": 2,
-      "score": 290
+      "created_at": "2026-03-20T02:20:30Z",
+      "age_days": 157,
+      "score": 780
     },
     {
       "rank": 16,
-      "full_name": "wafer-ai/gpu-perf-engineering-resources",
-      "stars": 1522,
-      "stars_gained": 68,
-      "language": "",
-      "description": "A curriculum for learning about gpu performance engineering, from scratch to what the frontier AI labs do",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-01-12T00:47:24Z",
-      "age_days": 224,
-      "score": 288
-    },
-    {
-      "rank": 17,
       "full_name": "basecamp/omarchy",
-      "stars": 29177,
-      "stars_gained": 88,
+      "stars": 29271,
+      "stars_gained": 258,
       "language": "Shell",
       "description": "Beautiful, Modern & Opinionated Linux",
       "social": [
@@ -614,29 +235,27 @@
       ],
       "created_at": "2025-06-01T07:26:22Z",
       "age_days": 448,
-      "score": 270
+      "score": 770
+    },
+    {
+      "rank": 17,
+      "full_name": "inkboard/system-atlas",
+      "stars": 113,
+      "stars_gained": 94,
+      "language": "HTML",
+      "description": "An agent skill that turns an architecture discussion into an explorable isometric atlas: one data file, an interactive map and a generated SYSTEM.md",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-08-20T15:36:48Z",
+      "age_days": 3,
+      "score": 752
     },
     {
       "rank": 18,
-      "full_name": "zhaoxuya520/reverse-skill",
-      "stars": 27936,
-      "stars_gained": 86,
-      "language": "PowerShell",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients éå/æ¸é/å®å¨æè½è·¯ç±å - AI èªå¨è·¯ç± + æéèªä¸¾å·¥å·é¾ + èªå¨è¿åç»éªåº | æ¯æ Claude Code / Kiro / Cursor / Cline ç­ä»£ç  AI å®¢æ·ç«¯",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-05-13T14:37:57Z",
-      "age_days": 102,
-      "score": 267
-    },
-    {
-      "rank": 19,
       "full_name": "duty1g/x64dbg-mcp-server",
-      "stars": 881,
-      "stars_gained": 76,
+      "stars": 973,
+      "stars_gained": 148,
       "language": "Zig",
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig â zero dependencies, single-binary output, cros",
       "social": [
@@ -644,13 +263,13 @@
       ],
       "created_at": "2026-08-22T14:28:41Z",
       "age_days": 1,
-      "score": 251
+      "score": 713
     },
     {
-      "rank": 20,
+      "rank": 19,
       "full_name": "Alishahryar1/free-claude-code",
-      "stars": 48010,
-      "stars_gained": 80,
+      "stars": 48098,
+      "stars_gained": 210,
       "language": "Python",
       "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "social": [
@@ -659,56 +278,40 @@
       ],
       "created_at": "2026-01-28T19:02:30Z",
       "age_days": 207,
-      "score": 248
+      "score": 702
+    },
+    {
+      "rank": 20,
+      "full_name": "galaxy-s10/billd-desk",
+      "stars": 7296,
+      "stars_gained": 84,
+      "language": "TypeScript",
+      "description": "åºäºVue3 + WebRTC + Nodejs + Flutteræ­å»ºçè¿ç¨æ¡é¢æ§å¶ãæ¸¸æä¸²æµ",
+      "social": [],
+      "created_at": "2024-02-27T10:48:07Z",
+      "age_days": 908,
+      "score": 694
     },
     {
       "rank": 21,
-      "full_name": "fuxicodex/Fuxi",
-      "stars": 1885,
-      "stars_gained": 77,
+      "full_name": "VoltAgent/awesome-agent-skills",
+      "stars": 31393,
+      "stars_gained": 152,
       "language": "",
-      "description": "FuXi is a fast, self-contained AI developer terminal",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-08-04T07:32:11Z",
-      "age_days": 19,
-      "score": 247
-    },
-    {
-      "rank": 22,
-      "full_name": "tinyhumansai/openhuman",
-      "stars": 36789,
-      "stars_gained": 68,
-      "language": "Rust",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "social": [
         "reddit",
         "x"
       ],
-      "created_at": "2026-02-18T20:01:27Z",
-      "age_days": 186,
-      "score": 237
+      "created_at": "2025-10-28T08:55:32Z",
+      "age_days": 299,
+      "score": 684
     },
     {
-      "rank": 23,
-      "full_name": "Leonxlnx/unlazy",
-      "stars": 1688,
-      "stars_gained": 72,
-      "language": "JavaScript",
-      "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-08-09T23:39:12Z",
-      "age_days": 14,
-      "score": 231
-    },
-    {
-      "rank": 24,
+      "rank": 22,
       "full_name": "NousResearch/hermes-agent",
-      "stars": 235031,
-      "stars_gained": 75,
+      "stars": 235126,
+      "stars_gained": 215,
       "language": "Python",
       "description": "The agent that grows with you",
       "social": [
@@ -718,28 +321,431 @@
       ],
       "created_at": "2025-07-22T22:22:28Z",
       "age_days": 397,
-      "score": 229
+      "score": 671
     },
     {
-      "rank": 25,
-      "full_name": "anthropics/claude-plugins-community",
-      "stars": 959,
-      "stars_gained": 68,
-      "language": "Python",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror â submit plugins at clau.de/plugin-directory-submission.",
+      "rank": 23,
+      "full_name": "MengTo/threeui",
+      "stars": 3027,
+      "stars_gained": 222,
+      "language": "HTML",
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
       "social": [
         "x"
       ],
-      "created_at": "2026-03-20T02:20:30Z",
-      "age_days": 157,
-      "score": 228
+      "created_at": "2026-08-21T11:56:39Z",
+      "age_days": 2,
+      "score": 667
+    },
+    {
+      "rank": 24,
+      "full_name": "zhaoxuya520/reverse-skill",
+      "stars": 28056,
+      "stars_gained": 261,
+      "language": "PowerShell",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients éå/æ¸é/å®å¨æè½è·¯ç±å - AI èªå¨è·¯ç± + æéèªä¸¾å·¥å·é¾ + èªå¨è¿åç»éªåº | æ¯æ Claude Code / Kiro / Cursor / Cline ç­ä»£ç  AI å®¢æ·ç«¯",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-05-13T14:37:57Z",
+      "age_days": 102,
+      "score": 604
+    },
+    {
+      "rank": 25,
+      "full_name": "virgiliojr94/book-to-skill",
+      "stars": 24774,
+      "stars_gained": 191,
+      "language": "Python",
+      "description": "Turn any technical book PDF into a Claude Code skill â ready to study, reference, and use while you work.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-05-01T02:09:39Z",
+      "age_days": 115,
+      "score": 602
+    }
+  ],
+  "weekly": [
+    {
+      "rank": 1,
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "stars": 13426,
+      "stars_gained": 961,
+      "language": "JavaScript",
+      "description": "Prompt as Code | GPT-Image2 å·¥ä¸çº§æç¤ºè¯å¼æä¸æ¨¡æ¿åºï¼470+ ä¸ªæ¡ä¾éåå·¥ç¨ï¼20+ å¥å·¥ä¸çº§æ¨¡æ¿ï¼å¹¶æç¼åºSkillsï¼æç»­æ´æ°ä¸­",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-04-25T09:19:13Z",
+      "age_days": 120,
+      "score": 4315
+    },
+    {
+      "rank": 2,
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 188957,
+      "stars_gained": 1199,
+      "language": "TypeScript",
+      "description": "",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-08-13T11:56:32Z",
+      "age_days": 10,
+      "score": 3670
+    },
+    {
+      "rank": 3,
+      "full_name": "openai/codex",
+      "stars": 115810,
+      "stars_gained": 811,
+      "language": "Rust",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-04-13T05:37:54Z",
+      "age_days": 498,
+      "score": 2725
+    },
+    {
+      "rank": 4,
+      "full_name": "Forsy-AI/biosecurity-agent",
+      "stars": 481,
+      "stars_gained": 146,
+      "language": "TypeScript",
+      "description": "",
+      "social": [],
+      "created_at": "2026-08-22T23:06:26Z",
+      "age_days": 1,
+      "score": 1486
+    },
+    {
+      "rank": 5,
+      "full_name": "vorssaint/vorssaint-utils",
+      "stars": 9197,
+      "stars_gained": 432,
+      "language": "Swift",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-06-12T15:25:43Z",
+      "age_days": 72,
+      "score": 1474
+    },
+    {
+      "rank": 6,
+      "full_name": "pixlcore/xyops",
+      "stars": 4929,
+      "stars_gained": 133,
+      "language": "JavaScript",
+      "description": "A complete workflow automation and server monitoring system.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-12-29T16:57:27Z",
+      "age_days": 237,
+      "score": 1413
+    },
+    {
+      "rank": 7,
+      "full_name": "mattpocock/skills",
+      "stars": 234123,
+      "stars_gained": 408,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-02-03T11:15:53Z",
+      "age_days": 201,
+      "score": 1274
+    },
+    {
+      "rank": 8,
+      "full_name": "FlashML-org/FreeToken",
+      "stars": 3647,
+      "stars_gained": 368,
+      "language": "Python",
+      "description": "",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-07-20T20:44:11Z",
+      "age_days": 34,
+      "score": 1225
+    },
+    {
+      "rank": 9,
+      "full_name": "arvids-unavailable/openGym",
+      "stars": 2855,
+      "stars_gained": 331,
+      "language": "JavaScript",
+      "description": "https://github.com/DuarteSantos8/openGym",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-08-03T18:16:58Z",
+      "age_days": 20,
+      "score": 1143
+    },
+    {
+      "rank": 10,
+      "full_name": "inkboard/system-atlas",
+      "stars": 113,
+      "stars_gained": 94,
+      "language": "HTML",
+      "description": "An agent skill that turns an architecture discussion into an explorable isometric atlas: one data file, an interactive map and a generated SYSTEM.md",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-08-20T15:36:48Z",
+      "age_days": 3,
+      "score": 1128
+    },
+    {
+      "rank": 11,
+      "full_name": "stablyai/orca",
+      "stars": 52078,
+      "stars_gained": 305,
+      "language": "TypeScript",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-17T03:28:57Z",
+      "age_days": 160,
+      "score": 976
+    },
+    {
+      "rank": 12,
+      "full_name": "zhaoxuya520/reverse-skill",
+      "stars": 28056,
+      "stars_gained": 261,
+      "language": "PowerShell",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients éå/æ¸é/å®å¨æè½è·¯ç±å - AI èªå¨è·¯ç± + æéèªä¸¾å·¥å·é¾ + èªå¨è¿åç»éªåº | æ¯æ Claude Code / Kiro / Cursor / Cline ç­ä»£ç  AI å®¢æ·ç«¯",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-05-13T14:37:57Z",
+      "age_days": 102,
+      "score": 897
+    },
+    {
+      "rank": 13,
+      "full_name": "anywhere-labs/deepseek-harness-desktop",
+      "stars": 19156,
+      "stars_gained": 274,
+      "language": "TypeScript",
+      "description": "åºäºå®æ¹ DeepSeek Harness æé ç Electron æ¡é¢ç«¯ï¼æ¯æ macOS å Windowsï¼åéç½®ãä¸è½½å³ç¨ã",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-08-13T16:30:50Z",
+      "age_days": 10,
+      "score": 844
+    },
+    {
+      "rank": 14,
+      "full_name": "basecamp/omarchy",
+      "stars": 29271,
+      "stars_gained": 258,
+      "language": "Shell",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-06-01T07:26:22Z",
+      "age_days": 448,
+      "score": 832
+    },
+    {
+      "rank": 15,
+      "full_name": "wafer-ai/gpu-perf-engineering-resources",
+      "stars": 1614,
+      "stars_gained": 145,
+      "language": "",
+      "description": "A curriculum for learning about gpu performance engineering, from scratch to what the frontier AI labs do",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-01-12T00:47:24Z",
+      "age_days": 224,
+      "score": 827
+    },
+    {
+      "rank": 16,
+      "full_name": "AprilNEA/OpenLogi",
+      "stars": 15130,
+      "stars_gained": 255,
+      "language": "Rust",
+      "description": "â¡ï¸A native, local-first alternative to Logitech Options+, written in Rust ð¦ â remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-05-24T10:10:36Z",
+      "age_days": 91,
+      "score": 803
+    },
+    {
+      "rank": 17,
+      "full_name": "NousResearch/hermes-agent",
+      "stars": 235126,
+      "stars_gained": 215,
+      "language": "Python",
+      "description": "The agent that grows with you",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-07-22T22:22:28Z",
+      "age_days": 397,
+      "score": 744
+    },
+    {
+      "rank": 18,
+      "full_name": "MengTo/threeui",
+      "stars": 3027,
+      "stars_gained": 222,
+      "language": "HTML",
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-08-21T11:56:39Z",
+      "age_days": 2,
+      "score": 734
+    },
+    {
+      "rank": 19,
+      "full_name": "Leonxlnx/unlazy",
+      "stars": 1819,
+      "stars_gained": 199,
+      "language": "JavaScript",
+      "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-08-09T23:39:12Z",
+      "age_days": 14,
+      "score": 719
+    },
+    {
+      "rank": 20,
+      "full_name": "Alishahryar1/free-claude-code",
+      "stars": 48098,
+      "stars_gained": 210,
+      "language": "Python",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-01-28T19:02:30Z",
+      "age_days": 207,
+      "score": 701
+    },
+    {
+      "rank": 21,
+      "full_name": "ZJU-REAL/HugAgentOS",
+      "stars": 633,
+      "stars_gained": 121,
+      "language": "Python",
+      "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-07-19T08:41:07Z",
+      "age_days": 35,
+      "score": 691
+    },
+    {
+      "rank": 22,
+      "full_name": "SJTUjinmao/ArkEval",
+      "stars": 152,
+      "stars_gained": 56,
+      "language": "Python",
+      "description": "ArkEval: Benchmarking and Evaluating Automated Code Repair for ArkTS",
+      "social": [],
+      "created_at": "2025-11-14T13:19:56Z",
+      "age_days": 282,
+      "score": 672
+    },
+    {
+      "rank": 23,
+      "full_name": "remorses/gpuix",
+      "stars": 733,
+      "stars_gained": 163,
+      "language": "Rust",
+      "description": "Node.js & React bindings for Zed GPUI. Very experimental and broken",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-01-29T14:52:57Z",
+      "age_days": 206,
+      "score": 643
+    },
+    {
+      "rank": 24,
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 108976,
+      "stars_gained": 199,
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-06-12T00:52:37Z",
+      "age_days": 73,
+      "score": 629
+    },
+    {
+      "rank": 25,
+      "full_name": "virgiliojr94/book-to-skill",
+      "stars": 24774,
+      "stars_gained": 191,
+      "language": "Python",
+      "description": "Turn any technical book PDF into a Claude Code skill â ready to study, reference, and use while you work.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-05-01T02:09:39Z",
+      "age_days": 115,
+      "score": 627
     }
   ],
   "huggingface": {
     "models": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12332,
+        "likes": 12361,
         "downloads": 2358347,
         "pipeline_tag": "image-text-to-text",
         "tags": [
@@ -761,7 +767,7 @@
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2741,
+        "likes": 2753,
         "downloads": 6674515,
         "pipeline_tag": null,
         "tags": [
@@ -782,7 +788,7 @@
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 962,
+        "likes": 972,
         "downloads": 47098,
         "pipeline_tag": "image-text-to-text",
         "tags": [
@@ -805,7 +811,7 @@
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 640,
+        "likes": 649,
         "downloads": 244834,
         "pipeline_tag": "text-generation",
         "tags": [
@@ -828,7 +834,7 @@
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 1051,
+        "likes": 1053,
         "downloads": 190062,
         "pipeline_tag": "image-text-to-text",
         "tags": [
@@ -851,7 +857,7 @@
       },
       {
         "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-        "likes": 539,
+        "likes": 544,
         "downloads": 676697,
         "pipeline_tag": "image-text-to-text",
         "tags": [
@@ -874,7 +880,7 @@
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 1645,
+        "likes": 1653,
         "downloads": 738345,
         "pipeline_tag": "image-to-video",
         "tags": [
@@ -897,7 +903,7 @@
       },
       {
         "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-        "likes": 652,
+        "likes": 654,
         "downloads": 1334820,
         "pipeline_tag": "text-generation",
         "tags": [
@@ -920,7 +926,7 @@
       },
       {
         "id": "ornith-ai/Ornith-1.5-35B-A3B",
-        "likes": 368,
+        "likes": 370,
         "downloads": 23516,
         "pipeline_tag": "text-generation",
         "tags": [
@@ -941,7 +947,7 @@
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1207,
+        "likes": 1211,
         "downloads": 17421,
         "pipeline_tag": "text-to-audio",
         "tags": [
@@ -963,7 +969,7 @@
     "spaces": [
       {
         "id": "kulkas2pintu/wan555",
-        "likes": 1395,
+        "likes": 1397,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -990,7 +996,7 @@
       },
       {
         "id": "agent-memory-leaderboard/leaderboard",
-        "likes": 726,
+        "likes": 727,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -1007,7 +1013,7 @@
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 264,
+        "likes": 265,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -1020,7 +1026,7 @@
       },
       {
         "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-        "likes": 2659,
+        "likes": 2661,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -1033,17 +1039,20 @@
         "url": "https://huggingface.co/spaces/prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast"
       },
       {
-        "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-        "likes": 274,
+        "id": "Saravutw/Omni-videos-custom",
+        "likes": 145,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
           "gradio",
+          "text-to-video",
+          "image-to-video",
+          "video-generation",
           "region:us"
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/spaces/MiniMaxAI/MiniMax-H3-Turbo-Lora"
+        "url": "https://huggingface.co/spaces/Saravutw/Omni-videos-custom"
       }
     ],
     "datasets": [
@@ -1072,7 +1081,7 @@
       },
       {
         "id": "Anthropic/claude-protein-binder-design",
-        "likes": 111,
+        "likes": 115,
         "downloads": 22084,
         "pipeline_tag": null,
         "tags": [
@@ -1095,7 +1104,7 @@
       },
       {
         "id": "malcolmrey/various",
-        "likes": 113,
+        "likes": 114,
         "downloads": 22164,
         "pipeline_tag": null,
         "tags": [
@@ -1114,7 +1123,7 @@
       },
       {
         "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
-        "likes": 198,
+        "likes": 199,
         "downloads": 6540,
         "pipeline_tag": null,
         "tags": [
@@ -1137,7 +1146,7 @@
       },
       {
         "id": "markov-ai/cad-1000-hours",
-        "likes": 76,
+        "likes": 81,
         "downloads": 9305,
         "pipeline_tag": null,
         "tags": [
