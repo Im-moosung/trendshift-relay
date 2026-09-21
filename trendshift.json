@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T01:09:25.389101+00:00",
-  "generated_at_kst": "2026-09-21 10:09:25",
+  "generated_at": "2026-09-21T01:11:01.237985+00:00",
+  "generated_at_kst": "2026-09-21 10:11:01",
   "source": "trendshift.io (scraped from SSR payload)",
   "huggingface": {
     "models": [
@@ -26,12 +26,12 @@
         "mac_ready": true,
         "gated": false,
         "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "convaiinnovations/laya",
-        "likes": 1102,
+        "likes": 1103,
         "downloads": 0,
         "pipeline_tag": "text-classification",
         "tags": [
@@ -51,12 +51,12 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/convaiinnovations/laya",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 1
       },
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-        "likes": 3433,
+        "likes": 3434,
         "downloads": 496684,
         "pipeline_tag": "image-text-to-text",
         "tags": [
@@ -75,8 +75,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 1
       },
       {
         "id": "XingChen-AGI/Xing4.0-29B-A4B",
@@ -98,8 +98,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "Qwen/Qwen-Image-2.1",
@@ -121,8 +121,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "Qwen/Qwen3.8-27B",
@@ -145,8 +145,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "m-a-p/YuE2-3B",
@@ -170,8 +170,8 @@
         "mac_ready": false,
         "gated": true,
         "url": "https://huggingface.co/m-a-p/YuE2-3B",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
@@ -195,8 +195,8 @@
         "mac_ready": true,
         "gated": false,
         "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "harshatheg/Qwen-2.5-1B-RLCD",
@@ -220,8 +220,8 @@
         "mac_ready": true,
         "gated": false,
         "url": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "Lightricks/LTX-2.5",
@@ -245,8 +245,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       }
     ],
     "spaces": [
@@ -262,8 +262,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/spaces/Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "observantdistressed/wan2-2-i2v-v3",
@@ -278,8 +278,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/spaces/observantdistressed/wan2-2-i2v-v3",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "kulkas2pintu/QWEN_EDIT_IMAGE",
@@ -294,8 +294,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/spaces/kulkas2pintu/QWEN_EDIT_IMAGE",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "Lynote/ai-notes",
@@ -319,8 +319,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/spaces/Lynote/ai-notes",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "mrfakename/yue2-3b",
@@ -334,8 +334,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/spaces/mrfakename/yue2-3b",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
@@ -350,8 +350,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       }
     ],
     "datasets": [
@@ -377,8 +377,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/datasets/secemp9/arxiv-complete",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "openbmb/UltraData-SFT-Agent-2609",
@@ -402,8 +402,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "Yootta/World-SimReady-Home",
@@ -427,8 +427,8 @@
         "mac_ready": false,
         "gated": true,
         "url": "https://huggingface.co/datasets/Yootta/World-SimReady-Home",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "markov-ai/cad-1000-hours",
@@ -443,8 +443,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/datasets/markov-ai/cad-1000-hours",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x",
@@ -468,8 +468,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       },
       {
         "id": "wikimedia/wikipedia",
@@ -493,8 +493,8 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/datasets/wikimedia/wikipedia",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 0
       }
     ]
   },
@@ -510,10 +510,15 @@
       "created_at": "2026-08-20T19:50:25Z",
       "age_days": 31,
       "score": 1048,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "생성 31일 · 스타 103"
+      ],
+      "rank_prev": 1,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 2,
@@ -526,10 +531,17 @@
       "created_at": "2026-08-07T10:16:29Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 2,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 3,
@@ -542,10 +554,17 @@
       "created_at": "2026-08-07T10:12:37Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 206",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 3,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 4,
@@ -558,10 +577,17 @@
       "created_at": "2026-08-07T10:09:36Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 4,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 5,
@@ -574,10 +600,17 @@
       "created_at": "2026-08-07T10:09:25Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 90",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 5,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 6,
@@ -590,10 +623,16 @@
       "created_at": "2026-08-07T10:06:13Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205"
+      ],
+      "rank_prev": 6,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 7,
@@ -606,10 +645,17 @@
       "created_at": "2026-08-07T08:58:36Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 7,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 8,
@@ -622,10 +668,17 @@
       "created_at": "2026-08-07T08:58:33Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 8,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 9,
@@ -638,10 +691,16 @@
       "created_at": "2026-08-07T08:48:36Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205"
+      ],
+      "rank_prev": 9,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 10,
@@ -654,10 +713,16 @@
       "created_at": "2026-08-07T08:40:54Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205"
+      ],
+      "rank_prev": 10,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 11,
@@ -670,10 +735,17 @@
       "created_at": "2026-08-07T08:40:34Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 11,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 12,
@@ -686,10 +758,16 @@
       "created_at": "2026-08-07T08:37:06Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205"
+      ],
+      "rank_prev": 12,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 13,
@@ -702,10 +780,17 @@
       "created_at": "2026-08-07T08:31:15Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 13,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 14,
@@ -718,10 +803,17 @@
       "created_at": "2026-08-07T08:27:54Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 14,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 15,
@@ -734,10 +826,17 @@
       "created_at": "2026-08-07T07:06:56Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 15,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 16,
@@ -750,10 +849,16 @@
       "created_at": "2026-08-07T07:06:05Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205"
+      ],
+      "rank_prev": 16,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 17,
@@ -766,10 +871,17 @@
       "created_at": "2026-08-07T07:02:28Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 17,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 18,
@@ -782,10 +894,17 @@
       "created_at": "2026-08-07T06:54:58Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 18,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 19,
@@ -798,10 +917,17 @@
       "created_at": "2026-08-07T06:54:19Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 19,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 20,
@@ -814,10 +940,17 @@
       "created_at": "2026-08-07T06:51:05Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 20,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 21,
@@ -830,10 +963,17 @@
       "created_at": "2026-08-07T04:43:00Z",
       "age_days": 44,
       "score": 920,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 20개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 21,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 22,
@@ -846,10 +986,16 @@
       "created_at": "2026-08-07T09:59:30Z",
       "age_days": 44,
       "score": 864,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 22,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 23,
@@ -865,10 +1011,12 @@
       "created_at": "2026-03-30T17:55:01Z",
       "age_days": 174,
       "score": 615,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 23,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 24,
@@ -883,10 +1031,12 @@
       "created_at": "2026-09-03T15:55:54Z",
       "age_days": 17,
       "score": 347,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 24,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     },
     {
       "rank": 25,
@@ -899,10 +1049,14 @@
       "created_at": "2026-09-11T09:40:02Z",
       "age_days": 9,
       "score": 184,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": false,
+      "suspect_reasons": [
+        "생성 9일 · 스타 100"
+      ],
+      "rank_prev": 25,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
     }
   ],
   "weekly": [
@@ -910,20 +1064,160 @@
       "rank": 1,
       "full_name": "Serpentiutriumph/DLSS5-Neural-Suite",
       "stars": 103,
-      "stars_gained": 131,
+      "stars_gained": 200,
       "language": "Python",
       "description": "DLSS5-Neural-Suite â one-click DLSS 5 neural rendering suite with swapper, feeder, optiscaler & renodx. RTX 20/30/40/50, AMD RDNA, Intel Arc. DX8/9/10/11/12, Vulkan, OpenGL & emulators.",
       "social": [],
       "created_at": "2026-08-20T19:50:25Z",
       "age_days": 31,
-      "score": 1572,
+      "score": 2400,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "생성 31일 · 스타 103"
+      ],
+      "rank_prev": 1,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 0
+    },
+    {
+      "rank": 2,
+      "full_name": "DrizzleStreamSurvive/Fix-0x80073712",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "",
+      "description": "â­ï¸ Discover Fix 0x80073712 Error the advanced Troubleshoot Windows Issues solution. This powerful tool helps you Repair Corrupt Files, perform System Restore, Update Components, Fix Windows Update, and Install Missing Packages with ease. The package includes Activation Key and Full Version Installer for the Latest Build Pro 2026. â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T10:39:58Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90"
+      ],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
       "stars_delta": null
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "full_name": "LaneConquerorChant/Fix-0x80070057",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "",
+      "description": "â­ï¸ Discover Fix 0x80070057 Error the powerful Setup Installer v1.0 with Activation Keygen and License Key Pre-Activated for instant access to the Full Version and Latest Build Pro. This reliable Windows 10/11 Desktop Fixer helps you easily Resolve 0x80070057 Issue using the Quick Repair Tool. â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T10:28:25Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 4,
+      "full_name": "Grandeurvyachasm/Euro-Truck-Simulator-2",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "",
+      "description": "â­ï¸ Discover Euro Truck Simulator 2 v1.46 the Trucking Simulation Game 2026. This release comes with Download Setup Installer, Patch Activator Keygen, and License Key Pre-Activated giving you instant access to the Full Version Latest Build Pro. Enjoy full support for Get Desktop Working Steam Windows 10/11. â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T10:27:27Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 5,
+      "full_name": "hunterdragonsolve/Graphify-Desktop-2026",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "Shell",
+      "description": "â­ï¸ Discover Graphify the advanced Graph Visualization Tool 2026 with Setup Installer v1.5. This release includes Patch Activator Keygen and License Key Pre-Activated giving you instant access to the Full Version Serial and Latest Build Pro Updated. Perfect for Get Desktop Working Windows 10/11 PC. Get the Direct Genuine Original. â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T10:23:47Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 6,
+      "full_name": "SheenArcherIdentify/GTA-V-Chaos-Mod",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "Python",
+      "description": "â­ï¸ Discover GTA V Chaos the Random Events Trainer featuring Vehicle Chaos and NPC Mayhem. This powerful tool includes Super Jump Speedhack, Infinite Ammo Triggerbot, Gravity Manipulation, and NoClip Fly Mode along with and Undetected. Get the Latest Update 2026 fully compatible. â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T10:20:31Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 7,
+      "full_name": "OctagonCrewmanBerth/Google-Drive-for-Desktop",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "",
+      "description": "â­ï¸ Discover Google Drive for Desktop the reliable File Sync Tool v1.0 with Setup Installer for Cloud Storage. This release includes Latest Build Pro Updated, Activation Key Pre-Activated, and Full Version Serial for instant access. Enjoy seamless Sync Files Backup, Access Documents Anywhere, and Cloud Collaboration on Windows 11 PC. â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T10:16:41Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 8,
       "full_name": "FormFlamingoShed/Defraggler-Pro-Desktop-2026",
       "stars": 205,
       "stars_gained": 115,
@@ -933,13 +1227,20 @@
       "created_at": "2026-08-07T10:16:29Z",
       "age_days": 44,
       "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 2,
+      "rank_delta": -6,
+      "status": "down",
+      "stars_delta": 0
     },
     {
-      "rank": 3,
+      "rank": 9,
       "full_name": "ActivistStrait/DMDE-Professional",
       "stars": 206,
       "stars_gained": 115,
@@ -949,13 +1250,20 @@
       "created_at": "2026-08-07T10:12:37Z",
       "age_days": 44,
       "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 206",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 3,
+      "rank_delta": -6,
+      "status": "down",
+      "stars_delta": 0
     },
     {
-      "rank": 4,
+      "rank": 10,
       "full_name": "stonefightersilo/CS2-Mod-Menu",
       "stars": 205,
       "stars_gained": 115,
@@ -965,13 +1273,20 @@
       "created_at": "2026-08-07T10:09:36Z",
       "age_days": 44,
       "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 4,
+      "rank_delta": -6,
+      "status": "down",
+      "stars_delta": 0
     },
     {
-      "rank": 5,
+      "rank": 11,
       "full_name": "SergeantQuest/Error-0x80070005-Fix",
       "stars": 90,
       "stars_gained": 115,
@@ -981,13 +1296,20 @@
       "created_at": "2026-08-07T10:09:25Z",
       "age_days": 44,
       "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 5,
+      "rank_delta": -6,
+      "status": "down",
+      "stars_delta": 0
     },
     {
-      "rank": 6,
+      "rank": 12,
       "full_name": "UltimateCryomancer/Boris-FX-Optics",
       "stars": 205,
       "stars_gained": 115,
@@ -997,13 +1319,110 @@
       "created_at": "2026-08-07T10:06:13Z",
       "age_days": 44,
       "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 205"
+      ],
+      "rank_prev": 6,
+      "rank_delta": -6,
+      "status": "down",
+      "stars_delta": 0
+    },
+    {
+      "rank": 13,
+      "full_name": "Emeraldiojoist/Error-0x80004005-Fix",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "",
+      "description": "â­ï¸ Discover Error 0x80004005 Fix the advanced Windows Error Troubleshooter with complete Installation Setup Guide. This release includes Activation Keygen Repair, Full Version Update Patch, and License Key Pre-Activated for instant access to the Latest Build Pro Solutions. the Easy Fix Tool and use the powerful. â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T10:02:50Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90",
+        "크랙·치트 미끼 이름"
+      ],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
       "stars_delta": null
     },
     {
-      "rank": 7,
+      "rank": 14,
+      "full_name": "LevelDivinerLink/GTA-5-Menyoo",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "",
+      "description": "â­ï¸ Discover GTA 5 Menyoo the powerful Trainer packed with Teleportation Speedhack, Vehicle Spawner NoClip, and extensive Customization Options. This release includes Aimbot ESP Wallhack along with Full Undetected, and all Key Features. Get the Latest Build 2026. â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T09:09:28Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 15,
+      "full_name": "prideanemonespirit/Geometry-Dash-External",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "C++",
+      "description": "â­ï¸ Geometry Dash unlocks all levels, icons, and secret content. Get the full version with license key, pre-activated activation, keygen and latest build. Enjoy unlimited attempts and features on Windows 10/11. â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T09:06:07Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 16,
+      "full_name": "AzureSponsorYank77/Error-0x80070002-Fix",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "",
+      "description": "â­ï¸ Error 0x80070002 Fix | Windows 10/11 Troubleshooter | Setup Installer v1.0 | Activation Key | License Key Pre-Activated | Full Version Serial | Latest Build Pro Updated | Resolve Missing Files | Quick Repair Tool | Desktop Support Software | Get Error Resolution | Instant Solution for PC â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T09:05:45Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 17,
       "full_name": "Toothflutrek73/ChatGPT-Plus-Desktop-2026",
       "stars": 205,
       "stars_gained": 115,
@@ -1013,13 +1432,20 @@
       "created_at": "2026-08-07T08:58:36Z",
       "age_days": 44,
       "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 7,
+      "rank_delta": -10,
+      "status": "down",
+      "stars_delta": 0
     },
     {
-      "rank": 8,
+      "rank": 18,
       "full_name": "lacqueraxeimprove/CS2-skinchanger-2026",
       "stars": 205,
       "stars_gained": 115,
@@ -1029,13 +1455,64 @@
       "created_at": "2026-08-07T08:58:33Z",
       "age_days": 44,
       "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 205",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": 8,
+      "rank_delta": -10,
+      "status": "down",
+      "stars_delta": 0
+    },
+    {
+      "rank": 19,
+      "full_name": "pulsevicedream/Fix-0x80070643",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "",
+      "description": "â­ï¸ Discover Fix 0x80070643 Error the advanced Windows Installer Troubleshooter and Setup Repair Tool. This release provides Activation Issues Fix along with License Key Resolver for instant Full Version and Latest Build Pro 2026. Get the complete Error Code Solution with Quick Install Guide, Update Patch Installer. â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T08:54:58Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90"
+      ],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
       "stars_delta": null
     },
     {
-      "rank": 9,
+      "rank": 20,
+      "full_name": "BlizzardToneBlade/Fabric-Minecraft-Modloader",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "",
+      "description": "â­ï¸ Discover Fabric Minecraft Modloader v1.19.2 the powerful Setup Installer and Full Version with Latest Build Pro. This release includes, Custom Mods Creato for advanced modding capabilities. Enjoy Easy Installation on Windows 10/11 PC with the Game Enhancer Tool. â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T08:52:03Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 21,
       "full_name": "purpleevokertie/Driver-Easy-Pro",
       "stars": 205,
       "stars_gained": 115,
@@ -1045,13 +1522,88 @@
       "created_at": "2026-08-07T08:48:36Z",
       "age_days": 44,
       "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 205"
+      ],
+      "rank_prev": 9,
+      "rank_delta": -12,
+      "status": "down",
+      "stars_delta": 0
+    },
+    {
+      "rank": 22,
+      "full_name": "Metalnemarina/Factorio-Even-Distribution",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "",
+      "description": "â­ï¸ Discover Factorio Even Distribution the essential Full Version v1.1 with Latest Build 2026. This release includes Setup Installer Keygen and Activator Loader Serial for instant activation. Perfect for advanced Game Resource Management, Balanced Item Distribution, Easy Conveyor Setup, and Efficient Logistics. â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T08:47:41Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90",
+        "크랙·치트 미끼 이름"
+      ],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
       "stars_delta": null
     },
     {
-      "rank": 10,
+      "rank": 23,
+      "full_name": "Tailkroseparator/Google-Gemini-2026",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "",
+      "description": "â­ï¸ Discover Google Gemini the powerful AI Assistant v1.0. This release includes Setup Installer with Keygen Activation and License Key Pre-Activated giving you instant access to the Latest Build Pro 2026 and Full Version. Enjoy seamless Desktop App Installation and Smart Features Integration on Windows 10/11 PC. Get the Direct Original. â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T08:44:59Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 24,
+      "full_name": "Millikrueliminate/Error-0x80072ee7-Fix",
+      "stars": 90,
+      "stars_gained": 115,
+      "language": "",
+      "description": "â­ï¸ Discover Error 0x80072ee7 Fix the powerful Windows 10/11 Troubleshooter and Setup Repair Tool. This release helps you Install Latest Build with Activation Keygen and License Serial Pre-Activated for instant Full Version Guide access. Includes Patch Installer for Desktop to easily Resolve Network Issues and Get Genuine Connection Updated.â­ï¸",
+      "social": [],
+      "created_at": "2026-08-07T08:44:08Z",
+      "age_days": 44,
+      "score": 1380,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 90",
+        "크랙·치트 미끼 이름"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 25,
       "full_name": "rapidlieutenantfix43/Boris-FX-Sapphire",
       "stars": 205,
       "stars_gained": 115,
@@ -1061,261 +1613,85 @@
       "created_at": "2026-08-07T08:40:54Z",
       "age_days": 44,
       "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 11,
-      "full_name": "wraithmosquitoarm/Blender-Desktop-2026",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Blender â powerful 3D modeling software v3.5 with setup installer. Includes keygen license key, patch activator pre-activated, full version serial, latest build Pro updated. Get desktop working on Windows 10/11 PC. Open source animation tool for render, design, sculpting, and texture. 2026 release. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:40:34Z",
-      "age_days": 44,
-      "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 12,
-      "full_name": "ProtonGiverFreeze64/Everything-Claude-Code",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers the Full Version Latest Build 2026 complete with Activation Key Pre-Activated, and Script Macro for advanced Customizable Features. Enjoy excellent Cross-Platform Compatibility on Windows 10/11 PC.â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:37:06Z",
-      "age_days": 44,
-      "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 13,
-      "full_name": "FreeToneCelebrate/ClickUp-Business-Plus",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ ClickUp Business Plus â project management software v3.2 with setup installer keygen and activation license key. Includes version, latest build Pro updated 2026. Get desktop working on Windows 10/11 PC. Powerful task automation, collaboration tools, productivity tracker, and reporting dashboard. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:31:15Z",
-      "age_days": 44,
-      "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 14,
-      "full_name": "BrandAnemone/Autodesk-Revit-Desktop-2026",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "C#",
-      "description": "â­ï¸ Autodesk Revit 2026 is a professional BIM software for Windows 10/11 PC focused on architectural design, 3D modeling, visualization, structural analysis and collaboration tools. This full Pro version includes setup installer, keygen activation, pre-activated license serial and latest build so you can get after installation on x64 desktop. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:27:54Z",
-      "age_days": 44,
-      "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 15,
-      "full_name": "RaikageBridge/FabFilter-Total-Bundle",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover FabFilter Total Bundle the complete Audio Plugins Collection v2026 for professional sound design and mixing. This release comes with Setup Installer Pro, Keygen Activator License, Full Version Patch, and Latest Build Serial for instant access to the Effects Editor. Fully compatible with Pro Tools Logic Ableton. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T07:06:56Z",
-      "age_days": 44,
-      "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 16,
-      "full_name": "GoliathSensei/CyberGhost-VPN",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "Python",
-      "description": "â­ï¸ CyberGhost VPN | Secure Private Connection | Fast Anonymous Browsing | Bandwidth | Global Servers Access | High-Speed Streaming | Military-Grade Encryption | No Logs Policy | Setup Installer v2026 | Full Version Key | Latest Build Pro Windows 10/11 PC | Get Access â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T07:06:05Z",
-      "age_days": 44,
-      "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 17,
-      "full_name": "SectionPeasantHut/Cherax-Mod-Menu",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Cherax â powerful for PC Steam with Aimbot, ESP, WH, Wallhack, Triggerbot, NoRecoil, Glow, Skin Changer, RageHack, Legit, Speedhack, Fly, NoClip, Auto Farm, Heal, Macro and latest build v2026. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T07:02:28Z",
-      "age_days": 44,
-      "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 18,
-      "full_name": "Cementnuuncouple/Assetto-Corsa-Competizione",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "C#",
-      "description": "â­ï¸ Assetto Corsa Competizione | Racing Simulation Game v1.8 | Setup Installer 2026 | Patch Activator Keygen | License Key Pre-Activated | Full Version Serial | Latest Build Pro Updated | Get Desktop Working PC | Genuine Original Windows 10/11 Steam â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T06:54:58Z",
-      "age_days": 44,
-      "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 19,
-      "full_name": "momentumotokagetreat/Capture-Card-Driver",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "GLSL",
-      "description": "â­ï¸ Capture Card Driver with setup installer v1.0. Includes patch activator keygen, license key pre-activated, full version latest build. Get desktop working on Windows 10/11 PC. Direct genuine original x64 with improved performance and enhanced compatibility. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T06:54:19Z",
-      "age_days": 44,
-      "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 20,
-      "full_name": "ShatterPythonConceal/Avira-Prime-Desktop-2026",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Avira Prime â antivirus security suite 2026 with setup installer v15. Includes activation key, pre-activated license, full version serial, latest build Pro updated. Get protection with malware remover, firewall suite, and device optimization for Windows 10/11 PC. Direct genuine original x64. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T06:51:05Z",
-      "age_days": 44,
-      "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 21,
-      "full_name": "surfacejudgetent/Boris-FX-Continuum",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Boris FX Continuum | Visual Effects Software v2026 | Setup Installer | Full Version Pro | Latest Build Updated | Keygen Activation | License Key Pre-Activated | Video Editing Toolkit | Professional Filters & Transitions | Advanced Motion Graphics | Desktop Windows 10/11 PC | Get Creative Today â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T04:43:00Z",
-      "age_days": 44,
-      "score": 1380,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 22,
-      "full_name": "ScreenPillage/Assassin-s-Creed-Black-Flag",
-      "stars": 205,
-      "stars_gained": 108,
-      "language": "C++",
-      "description": "â­ï¸ Assassinâs Creed Black Flag v4.5 | Action Adventure Game | Full Version Setup Installer | Latest Build 2026 | Pre-Activated Keygen | PC Windows 10/11 | Explore Open World | Pirate Adventure | Naval Combat | Storyline Quest | Single Player Experience | Get Epic Adventure â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T09:59:30Z",
-      "age_days": 44,
-      "score": 1296,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 23,
-      "full_name": "google/ax",
-      "stars": 2946,
-      "stars_gained": 144,
-      "language": "Go",
-      "description": "Google's open agentic orchestrator",
-      "social": [
-        "hackernews",
-        "x"
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "같은 증가분(+115) 리포 24개",
+        "생성 44일 · 스타 205"
       ],
-      "created_at": "2026-03-30T17:55:01Z",
-      "age_days": 174,
-      "score": 502,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 24,
-      "full_name": "NandhaKishorM/laya",
-      "stars": 3868,
-      "stars_gained": 74,
-      "language": "Python",
-      "description": "",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-09-18T04:46:33Z",
-      "age_days": 2,
-      "score": 226,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 25,
-      "full_name": "Albert-Weasker/niubigeo",
-      "stars": 2531,
-      "stars_gained": 54,
-      "language": "TypeScript",
-      "description": "Open-source AI brand visibility and competitor reports",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-09-03T15:55:54Z",
-      "age_days": 17,
-      "score": 224,
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "rank_prev": 10,
+      "rank_delta": -15,
+      "status": "down",
+      "stars_delta": 0
     }
   ],
-  "prev_generated_at_kst": null,
+  "daily_suspect_count": 22,
+  "daily_clean_count": 3,
+  "weekly_suspect_count": 25,
+  "weekly_clean_count": 0,
+  "note": "weekly는 주 시작 직후에는 daily와 거의 동일하다. suspect=true 항목은 스타 농장 스팸 의심이니 리포트에서 제외하거나 따로 표시할 것.",
+  "prev_generated_at_kst": "2026-09-21 10:09:25",
   "daily_dropped": [],
-  "weekly_dropped": []
+  "weekly_dropped": [
+    {
+      "full_name": "wraithmosquitoarm/Blender-Desktop-2026",
+      "rank_prev": 11
+    },
+    {
+      "full_name": "ProtonGiverFreeze64/Everything-Claude-Code",
+      "rank_prev": 12
+    },
+    {
+      "full_name": "FreeToneCelebrate/ClickUp-Business-Plus",
+      "rank_prev": 13
+    },
+    {
+      "full_name": "BrandAnemone/Autodesk-Revit-Desktop-2026",
+      "rank_prev": 14
+    },
+    {
+      "full_name": "RaikageBridge/FabFilter-Total-Bundle",
+      "rank_prev": 15
+    },
+    {
+      "full_name": "GoliathSensei/CyberGhost-VPN",
+      "rank_prev": 16
+    },
+    {
+      "full_name": "SectionPeasantHut/Cherax-Mod-Menu",
+      "rank_prev": 17
+    },
+    {
+      "full_name": "Cementnuuncouple/Assetto-Corsa-Competizione",
+      "rank_prev": 18
+    },
+    {
+      "full_name": "momentumotokagetreat/Capture-Card-Driver",
+      "rank_prev": 19
+    },
+    {
+      "full_name": "ShatterPythonConceal/Avira-Prime-Desktop-2026",
+      "rank_prev": 20
+    },
+    {
+      "full_name": "surfacejudgetent/Boris-FX-Continuum",
+      "rank_prev": 21
+    },
+    {
+      "full_name": "ScreenPillage/Assassin-s-Creed-Black-Flag",
+      "rank_prev": 22
+    },
+    {
+      "full_name": "google/ax",
+      "rank_prev": 23
+    },
+    {
+      "full_name": "NandhaKishorM/laya",
+      "rank_prev": 24
+    },
+    {
+      "full_name": "Albert-Weasker/niubigeo",
+      "rank_prev": 25
+    }
+  ]
 }
