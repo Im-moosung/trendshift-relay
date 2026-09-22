@@ -1,37 +1,12 @@
 {
-  "generated_at": "2026-09-21T01:11:01.237985+00:00",
-  "generated_at_kst": "2026-09-21 10:11:01",
+  "generated_at": "2026-09-22T23:50:01.195828+00:00",
+  "generated_at_kst": "2026-09-23 08:50:01",
   "source": "trendshift.io (scraped from SSR payload)",
   "huggingface": {
     "models": [
       {
-        "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "likes": 1496,
-        "downloads": 1908396,
-        "pipeline_tag": "text-generation",
-        "tags": [
-          "llama.cpp",
-          "gguf",
-          "ternary",
-          "2-bit",
-          "llama-cpp",
-          "cuda",
-          "metal",
-          "on-device",
-          "hybrid-attention",
-          "prismml",
-          "bonsai",
-          "text-generation"
-        ],
-        "mac_ready": true,
-        "gated": false,
-        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "status": "same",
-        "likes_delta": 0
-      },
-      {
         "id": "convaiinnovations/laya",
-        "likes": 1103,
+        "likes": 2532,
         "downloads": 0,
         "pipeline_tag": "text-classification",
         "tags": [
@@ -52,12 +27,106 @@
         "gated": false,
         "url": "https://huggingface.co/convaiinnovations/laya",
         "status": "same",
-        "likes_delta": 1
+        "likes_delta": 1429
+      },
+      {
+        "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "likes": 1880,
+        "downloads": 2569604,
+        "pipeline_tag": "text-generation",
+        "tags": [
+          "llama.cpp",
+          "gguf",
+          "ternary",
+          "2-bit",
+          "llama-cpp",
+          "cuda",
+          "metal",
+          "on-device",
+          "hybrid-attention",
+          "prismml",
+          "bonsai",
+          "text-generation"
+        ],
+        "mac_ready": true,
+        "gated": false,
+        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "status": "same",
+        "likes_delta": 384
+      },
+      {
+        "id": "Qwen/Qwen-Image-2.1",
+        "likes": 1792,
+        "downloads": 16242,
+        "pipeline_tag": "text-to-image",
+        "tags": [
+          "diffusers",
+          "safetensors",
+          "qwen",
+          "image-generation",
+          "image-editing",
+          "rgba",
+          "text-to-image",
+          "license:other",
+          "diffusers:QwenImage21Pipeline",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+        "status": "same",
+        "likes_delta": 1027
+      },
+      {
+        "id": "XingChen-AGI/Xing4.0-29B-A4B",
+        "likes": 1383,
+        "downloads": 30627,
+        "pipeline_tag": "text-generation",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "xing4_0",
+          "text-generation",
+          "conversational",
+          "custom_code",
+          "arxiv:2512.24157",
+          "arxiv:2507.18013",
+          "license:apache-2.0",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+        "status": "same",
+        "likes_delta": 492
+      },
+      {
+        "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "likes": 1086,
+        "downloads": 182313,
+        "pipeline_tag": "text-to-image",
+        "tags": [
+          "gguf",
+          "qwen",
+          "image-generation",
+          "comfyui",
+          "comfyui-gguf",
+          "text-to-image",
+          "base_model:Qwen/Qwen-Image-2.1",
+          "base_model:quantized:Qwen/Qwen-Image-2.1",
+          "license:other",
+          "region:us"
+        ],
+        "mac_ready": true,
+        "gated": false,
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "status": "new",
+        "likes_delta": null
       },
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-        "likes": 3434,
-        "downloads": 496684,
+        "likes": 3608,
+        "downloads": 542014,
         "pipeline_tag": "image-text-to-text",
         "tags": [
           "transformers",
@@ -76,58 +145,12 @@
         "gated": false,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
         "status": "same",
-        "likes_delta": 1
-      },
-      {
-        "id": "XingChen-AGI/Xing4.0-29B-A4B",
-        "likes": 891,
-        "downloads": 12617,
-        "pipeline_tag": "text-generation",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "xing4_0",
-          "text-generation",
-          "conversational",
-          "custom_code",
-          "arxiv:2512.24157",
-          "arxiv:2507.18013",
-          "license:apache-2.0",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
-        "status": "same",
-        "likes_delta": 0
-      },
-      {
-        "id": "Qwen/Qwen-Image-2.1",
-        "likes": 765,
-        "downloads": 183,
-        "pipeline_tag": "text-to-image",
-        "tags": [
-          "diffusers",
-          "safetensors",
-          "qwen",
-          "image-generation",
-          "image-editing",
-          "rgba",
-          "text-to-image",
-          "license:other",
-          "diffusers:QwenImage21Pipeline",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-        "status": "same",
-        "likes_delta": 0
+        "likes_delta": 174
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 15862,
-        "downloads": 7331932,
+        "likes": 16073,
+        "downloads": 7079646,
         "pipeline_tag": "image-text-to-text",
         "tags": [
           "transformers",
@@ -146,61 +169,30 @@
         "gated": false,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "status": "same",
-        "likes_delta": 0
+        "likes_delta": 211
       },
       {
-        "id": "m-a-p/YuE2-3B",
-        "likes": 916,
-        "downloads": 17403,
-        "pipeline_tag": "text-to-audio",
+        "id": "Comfy-Org/Qwen-Image-2.1",
+        "likes": 568,
+        "downloads": 1429925,
+        "pipeline_tag": null,
         "tags": [
-          "safetensors",
-          "yue2",
-          "music-generation",
-          "symbolic-planning",
-          "agentic-editing",
-          "custom_code",
-          "text-to-audio",
-          "zh",
-          "en",
-          "arxiv:2503.08638",
-          "license:cc-by-nc-4.0",
+          "diffusion-single-file",
+          "comfyui",
+          "base_model:Qwen/Qwen-Image-2.1",
+          "base_model:finetune:Qwen/Qwen-Image-2.1",
+          "license:other",
           "region:us"
         ],
         "mac_ready": false,
-        "gated": true,
-        "url": "https://huggingface.co/m-a-p/YuE2-3B",
-        "status": "same",
-        "likes_delta": 0
-      },
-      {
-        "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-        "likes": 1480,
-        "downloads": 1217204,
-        "pipeline_tag": "image-text-to-text",
-        "tags": [
-          "gguf",
-          "gsq",
-          "rco",
-          "quantization",
-          "mixed-precision",
-          "ist-daslab",
-          "multimodal",
-          "vision",
-          "image-text-to-text",
-          "arxiv:2604.18556",
-          "arxiv:2605.00649",
-          "base_model:Qwen/Qwen3.8-27B"
-        ],
-        "mac_ready": true,
         "gated": false,
-        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-        "status": "same",
-        "likes_delta": 0
+        "url": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
+        "status": "new",
+        "likes_delta": null
       },
       {
         "id": "harshatheg/Qwen-2.5-1B-RLCD",
-        "likes": 477,
+        "likes": 544,
         "downloads": 0,
         "pipeline_tag": "text-generation",
         "tags": [
@@ -221,53 +213,38 @@
         "gated": false,
         "url": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
         "status": "same",
-        "likes_delta": 0
+        "likes_delta": 67
       },
       {
-        "id": "Lightricks/LTX-2.5",
-        "likes": 4554,
-        "downloads": 1609559,
-        "pipeline_tag": "image-to-video",
+        "id": "Altworld/Hemmingway-1",
+        "likes": 493,
+        "downloads": 2745,
+        "pipeline_tag": "text-generation",
         "tags": [
-          "diffusion-single-file",
-          "image-to-video",
-          "text-to-video",
-          "video-to-video",
-          "image-text-to-video",
-          "audio-to-video",
-          "text-to-audio",
-          "video-to-audio",
-          "audio-to-audio",
-          "text-to-audio-video",
-          "image-to-audio-video",
-          "image-text-to-audio-video"
+          "transformers",
+          "safetensors",
+          "qwen3_5_text",
+          "text-generation",
+          "qwen3.8",
+          "chat",
+          "creative-writing",
+          "altworld",
+          "conversational",
+          "en",
+          "base_model:Qwen/Qwen3.8-27B",
+          "base_model:finetune:Qwen/Qwen3.8-27B"
         ],
         "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "status": "same",
-        "likes_delta": 0
+        "gated": true,
+        "url": "https://huggingface.co/Altworld/Hemmingway-1",
+        "status": "new",
+        "likes_delta": null
       }
     ],
     "spaces": [
       {
-        "id": "Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
-        "likes": 542,
-        "downloads": null,
-        "pipeline_tag": null,
-        "tags": [
-          "gradio",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/spaces/Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
-        "status": "same",
-        "likes_delta": 0
-      },
-      {
         "id": "observantdistressed/wan2-2-i2v-v3",
-        "likes": 259,
+        "likes": 383,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -279,11 +256,41 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/observantdistressed/wan2-2-i2v-v3",
         "status": "same",
-        "likes_delta": 0
+        "likes_delta": 124
+      },
+      {
+        "id": "Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
+        "likes": 640,
+        "downloads": null,
+        "pipeline_tag": null,
+        "tags": [
+          "gradio",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/spaces/Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
+        "status": "same",
+        "likes_delta": 98
+      },
+      {
+        "id": "convaiinnovations/laya-demo",
+        "likes": 150,
+        "downloads": null,
+        "pipeline_tag": null,
+        "tags": [
+          "gradio",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/spaces/convaiinnovations/laya-demo",
+        "status": "new",
+        "likes_delta": null
       },
       {
         "id": "kulkas2pintu/QWEN_EDIT_IMAGE",
-        "likes": 452,
+        "likes": 498,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -295,36 +302,26 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/kulkas2pintu/QWEN_EDIT_IMAGE",
         "status": "same",
-        "likes_delta": 0
+        "likes_delta": 46
       },
       {
-        "id": "Lynote/ai-notes",
-        "likes": 136,
+        "id": "multimodalart/jev-decision-index",
+        "likes": 137,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
           "static",
-          "ai-notes",
-          "note-taker",
-          "text-analysis",
-          "source-grounded",
-          "citations",
-          "rag",
-          "local-first",
-          "bilingual",
-          "open-source",
-          "python",
-          "cli"
+          "region:us"
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/spaces/Lynote/ai-notes",
-        "status": "same",
-        "likes_delta": 0
+        "url": "https://huggingface.co/spaces/multimodalart/jev-decision-index",
+        "status": "new",
+        "likes_delta": null
       },
       {
-        "id": "mrfakename/yue2-3b",
-        "likes": 145,
+        "id": "Qwen/Qwen-Image-2.1",
+        "likes": 143,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -333,32 +330,16 @@
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/spaces/mrfakename/yue2-3b",
-        "status": "same",
-        "likes_delta": 0
-      },
-      {
-        "id": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-        "likes": 262,
-        "downloads": null,
-        "pipeline_tag": null,
-        "tags": [
-          "gradio",
-          "mcp-server",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-        "status": "same",
-        "likes_delta": 0
+        "url": "https://huggingface.co/spaces/Qwen/Qwen-Image-2.1",
+        "status": "new",
+        "likes_delta": null
       }
     ],
     "datasets": [
       {
         "id": "secemp9/arxiv-complete",
-        "likes": 249,
-        "downloads": 1992,
+        "likes": 387,
+        "downloads": 19589,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-generation",
@@ -378,12 +359,37 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/secemp9/arxiv-complete",
         "status": "same",
-        "likes_delta": 0
+        "likes_delta": 138
+      },
+      {
+        "id": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x",
+        "likes": 119,
+        "downloads": 2085,
+        "pipeline_tag": null,
+        "tags": [
+          "task_categories:text-generation",
+          "task_categories:question-answering",
+          "language:en",
+          "license:apache-2.0",
+          "size_categories:1K<n<10K",
+          "format:json",
+          "library:datasets",
+          "library:pandas",
+          "library:polars",
+          "library:mlcroissant",
+          "region:us",
+          "fable 5.1"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x",
+        "status": "same",
+        "likes_delta": 35
       },
       {
         "id": "openbmb/UltraData-SFT-Agent-2609",
-        "likes": 204,
-        "downloads": 18261,
+        "likes": 220,
+        "downloads": 20635,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-generation",
@@ -403,78 +409,12 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609",
         "status": "same",
-        "likes_delta": 0
-      },
-      {
-        "id": "Yootta/World-SimReady-Home",
-        "likes": 51,
-        "downloads": 11454,
-        "pipeline_tag": null,
-        "tags": [
-          "task_categories:robotics",
-          "language:en",
-          "license:cc-by-nc-sa-4.0",
-          "modality:3d",
-          "modality:image",
-          "modality:video",
-          "modality:timeseries",
-          "region:us",
-          "robotics",
-          "embodied-ai",
-          "simulation",
-          "openusd"
-        ],
-        "mac_ready": false,
-        "gated": true,
-        "url": "https://huggingface.co/datasets/Yootta/World-SimReady-Home",
-        "status": "same",
-        "likes_delta": 0
-      },
-      {
-        "id": "markov-ai/cad-1000-hours",
-        "likes": 492,
-        "downloads": 155080,
-        "pipeline_tag": null,
-        "tags": [
-          "modality:document",
-          "modality:video",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/datasets/markov-ai/cad-1000-hours",
-        "status": "same",
-        "likes_delta": 0
-      },
-      {
-        "id": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x",
-        "likes": 84,
-        "downloads": 1689,
-        "pipeline_tag": null,
-        "tags": [
-          "task_categories:text-generation",
-          "task_categories:question-answering",
-          "language:en",
-          "license:apache-2.0",
-          "size_categories:1K<n<10K",
-          "format:json",
-          "modality:text",
-          "library:datasets",
-          "library:pandas",
-          "library:polars",
-          "library:mlcroissant",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x",
-        "status": "same",
-        "likes_delta": 0
+        "likes_delta": 16
       },
       {
         "id": "wikimedia/wikipedia",
-        "likes": 1490,
-        "downloads": 258176,
+        "likes": 1515,
+        "downloads": 268649,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-generation",
@@ -494,860 +434,864 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/wikimedia/wikipedia",
         "status": "same",
-        "likes_delta": 0
+        "likes_delta": 25
+      },
+      {
+        "id": "Yootta/World-SimReady-Home",
+        "likes": 71,
+        "downloads": 19065,
+        "pipeline_tag": null,
+        "tags": [
+          "task_categories:robotics",
+          "language:en",
+          "license:cc-by-nc-sa-4.0",
+          "modality:3d",
+          "modality:image",
+          "modality:video",
+          "modality:timeseries",
+          "region:us",
+          "robotics",
+          "embodied-ai",
+          "simulation",
+          "openusd"
+        ],
+        "mac_ready": false,
+        "gated": true,
+        "url": "https://huggingface.co/datasets/Yootta/World-SimReady-Home",
+        "status": "same",
+        "likes_delta": 20
+      },
+      {
+        "id": "zgcagi/ZGCM-1-Data",
+        "likes": 57,
+        "downloads": 23718,
+        "pipeline_tag": null,
+        "tags": [
+          "task_categories:text-generation",
+          "task_categories:question-answering",
+          "language:zh",
+          "language:en",
+          "license:other",
+          "size_categories:1B<n<10B",
+          "format:parquet",
+          "modality:text",
+          "library:datasets",
+          "library:dask",
+          "library:polars",
+          "library:mlcroissant"
+        ],
+        "mac_ready": false,
+        "gated": true,
+        "url": "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data",
+        "status": "new",
+        "likes_delta": null
       }
     ]
   },
   "daily": [
     {
       "rank": 1,
-      "full_name": "Serpentiutriumph/DLSS5-Neural-Suite",
-      "stars": 103,
-      "stars_gained": 131,
+      "full_name": "NandhaKishorM/laya",
+      "stars": 16395,
+      "stars_gained": 6341,
       "language": "Python",
-      "description": "DLSS5-Neural-Suite â one-click DLSS 5 neural rendering suite with swapper, feeder, optiscaler & renodx. RTX 20/30/40/50, AMD RDNA, Intel Arc. DX8/9/10/11/12, Vulkan, OpenGL & emulators.",
-      "social": [],
-      "created_at": "2026-08-20T19:50:25Z",
-      "age_days": 31,
-      "score": 1048,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "생성 31일 · 스타 103"
+      "description": "",
+      "social": [
+        "reddit",
+        "x"
       ],
-      "rank_prev": 1,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
+      "created_at": "2026-09-18T04:46:33Z",
+      "age_days": 4,
+      "score": 39726,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 2,
-      "full_name": "FormFlamingoShed/Defraggler-Pro-Desktop-2026",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Defraggler Pro v2.22 is a powerful disk defragmenter for Windows 10/11. Optimize HDD and SSD performance, speed up file access, and boost overall system efficiency with the full pre-activated version. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:16:29Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
+      "full_name": "jev-chat/jev-chat-jarvis",
+      "stars": 3677,
+      "stars_gained": 2772,
+      "language": "Kotlin",
+      "description": "",
+      "social": [
+        "x"
       ],
-      "rank_prev": 2,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
+      "created_at": "2026-09-21T11:12:53Z",
+      "age_days": 1,
+      "score": 22840,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 3,
-      "full_name": "ActivistStrait/DMDE-Professional",
-      "stars": 206,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ DMDE Professional â powerful data recovery software v5.5 with setup installer for Windows 10/11. Includes full version keygen license pre-activated, disk editor, partition manager, recover lost files, clone drive backup, latest build Pro updated. Get desktop PC tool and powerful file recovery solution. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:12:37Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 206",
-        "크랙·치트 미끼 이름"
+      "full_name": "jaredpalmer/kev",
+      "stars": 4096,
+      "stars_gained": 1749,
+      "language": "Python",
+      "description": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
       ],
-      "rank_prev": 3,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
+      "created_at": "2026-09-17T20:49:39Z",
+      "age_days": 5,
+      "score": 14036,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 4,
-      "full_name": "stonefightersilo/CS2-Mod-Menu",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "AutoHotkey",
-      "description": "â­ï¸ CS2 External delivers powerful aimbot, ESP wallhack, triggerbot, no-recoil, skin changer, and rage/legit features. Latest 2026 build with support for Windows 10/11 Steam. Undetected. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:09:36Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
+      "full_name": "mizorewww/laya-mlx",
+      "stars": 5409,
+      "stars_gained": 1665,
+      "language": "Python",
+      "description": "Native MLX runtime for Laya typed decision models â 7â14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
       ],
-      "rank_prev": 4,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
+      "created_at": "2026-09-19T13:50:26Z",
+      "age_days": 3,
+      "score": 11712,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 5,
-      "full_name": "SergeantQuest/Error-0x80070005-Fix",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover Error 0x80070005 Fix the advanced Windows Access Denied Troubleshoot with complete Installation Error Resolution. This powerful Setup Repair Tool includes Activation Keygen Recovery along with Pro Full Version Update, Latest Build Patch, and License Key Pre-Activated for instant access. Get Desktop Working. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:09:25Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 90",
-        "크랙·치트 미끼 이름"
+      "full_name": "Mak5er/AirCard",
+      "stars": 2757,
+      "stars_gained": 1415,
+      "language": "Swift",
+      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "social": [
+        "reddit",
+        "x"
       ],
-      "rank_prev": 5,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
+      "created_at": "2026-09-16T22:20:15Z",
+      "age_days": 6,
+      "score": 11416,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 6,
-      "full_name": "UltimateCryomancer/Boris-FX-Optics",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Boris FX Optics 2026 is a photo editor and visual effects plugin for creating cinematic looks, lens effects, and advanced color grading. This full pre-activated version includes the latest build with easy installer for Windows 10/11 x64. Delivers powerful tools and features for high-end editing. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:06:13Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205"
-      ],
-      "rank_prev": 6,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 7,
-      "full_name": "Toothflutrek73/ChatGPT-Plus-Desktop-2026",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "Shell",
-      "description": "â­ï¸ ChatGPT Plus 2026 - Advanced AI Text Generator. Full Version with Pre-Activated License. Latest Pro Build with all features unlocked. Works perfectly on Windows 10/11 PC. Direct Genuine Installer. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:58:36Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": 7,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 8,
-      "full_name": "lacqueraxeimprove/CS2-skinchanger-2026",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ CS2 Skin Changer | Counter-Strike 2 Menu | Aimbot ESP Triggerbot | Wallhack NoRecoil Glow | Auto Skin Switcher RageHack | Legit Injector | Latest Build v2026 | Steam PC | Get Full Version | Setup Installer | Keygen Activation | Pre-Activated Pro â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:58:33Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": 8,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 9,
-      "full_name": "purpleevokertie/Driver-Easy-Pro",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "Batchfile",
-      "description": "â­ï¸ Driver Easy Pro â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:48:36Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205"
-      ],
-      "rank_prev": 9,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 10,
-      "full_name": "rapidlieutenantfix43/Boris-FX-Sapphire",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "Java",
-      "description": "â­ï¸ Boris FX Sapphire | Visual Effects Plugin | Setup Installer v2026 | Full Version Pro | Pre-Activated License Key | Latest Build Updated | Serial Activation Loader | Get Desktop Working | Windows 10/11 PC | After Effects, Premiere Pro, Avid Media Composer | Professional Video Editing Tool â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:40:54Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205"
-      ],
-      "rank_prev": 10,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 11,
-      "full_name": "wraithmosquitoarm/Blender-Desktop-2026",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Blender â powerful 3D modeling software v3.5 with setup installer. Includes keygen license key, patch activator pre-activated, full version serial, latest build Pro updated. Get desktop working on Windows 10/11 PC. Open source animation tool for render, design, sculpting, and texture. 2026 release. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:40:34Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": 11,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 12,
-      "full_name": "ProtonGiverFreeze64/Everything-Claude-Code",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers the Full Version Latest Build 2026 complete with Activation Key Pre-Activated, and Script Macro for advanced Customizable Features. Enjoy excellent Cross-Platform Compatibility on Windows 10/11 PC.â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:37:06Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205"
-      ],
-      "rank_prev": 12,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 13,
-      "full_name": "FreeToneCelebrate/ClickUp-Business-Plus",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ ClickUp Business Plus â project management software v3.2 with setup installer keygen and activation license key. Includes version, latest build Pro updated 2026. Get desktop working on Windows 10/11 PC. Powerful task automation, collaboration tools, productivity tracker, and reporting dashboard. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:31:15Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": 13,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 14,
-      "full_name": "BrandAnemone/Autodesk-Revit-Desktop-2026",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "C#",
-      "description": "â­ï¸ Autodesk Revit 2026 is a professional BIM software for Windows 10/11 PC focused on architectural design, 3D modeling, visualization, structural analysis and collaboration tools. This full Pro version includes setup installer, keygen activation, pre-activated license serial and latest build so you can get after installation on x64 desktop. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:27:54Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": 14,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 15,
-      "full_name": "RaikageBridge/FabFilter-Total-Bundle",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover FabFilter Total Bundle the complete Audio Plugins Collection v2026 for professional sound design and mixing. This release comes with Setup Installer Pro, Keygen Activator License, Full Version Patch, and Latest Build Serial for instant access to the Effects Editor. Fully compatible with Pro Tools Logic Ableton. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T07:06:56Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": 15,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 16,
-      "full_name": "GoliathSensei/CyberGhost-VPN",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "Python",
-      "description": "â­ï¸ CyberGhost VPN | Secure Private Connection | Fast Anonymous Browsing | Bandwidth | Global Servers Access | High-Speed Streaming | Military-Grade Encryption | No Logs Policy | Setup Installer v2026 | Full Version Key | Latest Build Pro Windows 10/11 PC | Get Access â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T07:06:05Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205"
-      ],
-      "rank_prev": 16,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 17,
-      "full_name": "SectionPeasantHut/Cherax-Mod-Menu",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Cherax â powerful for PC Steam with Aimbot, ESP, WH, Wallhack, Triggerbot, NoRecoil, Glow, Skin Changer, RageHack, Legit, Speedhack, Fly, NoClip, Auto Farm, Heal, Macro and latest build v2026. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T07:02:28Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": 17,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 18,
-      "full_name": "Cementnuuncouple/Assetto-Corsa-Competizione",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "C#",
-      "description": "â­ï¸ Assetto Corsa Competizione | Racing Simulation Game v1.8 | Setup Installer 2026 | Patch Activator Keygen | License Key Pre-Activated | Full Version Serial | Latest Build Pro Updated | Get Desktop Working PC | Genuine Original Windows 10/11 Steam â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T06:54:58Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": 18,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 19,
-      "full_name": "momentumotokagetreat/Capture-Card-Driver",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "GLSL",
-      "description": "â­ï¸ Capture Card Driver with setup installer v1.0. Includes patch activator keygen, license key pre-activated, full version latest build. Get desktop working on Windows 10/11 PC. Direct genuine original x64 with improved performance and enhanced compatibility. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T06:54:19Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": 19,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 20,
-      "full_name": "ShatterPythonConceal/Avira-Prime-Desktop-2026",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Avira Prime â antivirus security suite 2026 with setup installer v15. Includes activation key, pre-activated license, full version serial, latest build Pro updated. Get protection with malware remover, firewall suite, and device optimization for Windows 10/11 PC. Direct genuine original x64. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T06:51:05Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": 20,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 21,
-      "full_name": "surfacejudgetent/Boris-FX-Continuum",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Boris FX Continuum | Visual Effects Software v2026 | Setup Installer | Full Version Pro | Latest Build Updated | Keygen Activation | License Key Pre-Activated | Video Editing Toolkit | Professional Filters & Transitions | Advanced Motion Graphics | Desktop Windows 10/11 PC | Get Creative Today â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T04:43:00Z",
-      "age_days": 44,
-      "score": 920,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 20개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": 21,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 22,
-      "full_name": "ScreenPillage/Assassin-s-Creed-Black-Flag",
-      "stars": 205,
-      "stars_gained": 108,
-      "language": "C++",
-      "description": "â­ï¸ Assassinâs Creed Black Flag v4.5 | Action Adventure Game | Full Version Setup Installer | Latest Build 2026 | Pre-Activated Keygen | PC Windows 10/11 | Explore Open World | Pirate Adventure | Naval Combat | Storyline Quest | Single Player Experience | Get Epic Adventure â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T09:59:30Z",
-      "age_days": 44,
-      "score": 864,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": 22,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 23,
       "full_name": "google/ax",
-      "stars": 2946,
-      "stars_gained": 144,
+      "stars": 7519,
+      "stars_gained": 1595,
       "language": "Go",
       "description": "Google's open agentic orchestrator",
       "social": [
         "hackernews",
+        "reddit",
         "x"
       ],
       "created_at": "2026-03-30T17:55:01Z",
-      "age_days": 174,
-      "score": 615,
+      "age_days": 176,
+      "score": 10658,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 23,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
+      "rank_delta": 17,
+      "status": "up",
+      "stars_delta": 4573
+    },
+    {
+      "rank": 7,
+      "full_name": "ChenLiu-1996/figures4papers",
+      "stars": 6377,
+      "stars_gained": 937,
+      "language": "Python",
+      "description": "My Python scripts to make high-quality figures for publications in top AI conferences and journals.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2025-04-29T02:37:54Z",
+      "age_days": 511,
+      "score": 7516,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 8,
+      "full_name": "browser-use/jev-ultrafast",
+      "stars": 17991,
+      "stars_gained": 2416,
+      "language": "Python",
+      "description": "",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-16T21:30:12Z",
+      "age_days": 6,
+      "score": 6278,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 9,
+      "full_name": "dream-num/univer",
+      "stars": 15346,
+      "stars_gained": 659,
+      "language": "TypeScript",
+      "description": "The Office Harness for AI Agents â Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2022-09-29T12:09:14Z",
+      "age_days": 1454,
+      "score": 5296,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 10,
+      "full_name": "vectorize-io/hindsight",
+      "stars": 25242,
+      "stars_gained": 536,
+      "language": "Python",
+      "description": "Hindsight: Agent Memory That Learns",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-10-30T11:49:48Z",
+      "age_days": 327,
+      "score": 4328,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 11,
+      "full_name": "jbiaojerry/ebook-treasure-chest",
+      "stars": 19171,
+      "stars_gained": 529,
+      "language": "Python",
+      "description": "æ¬¢è¿æ¥å°çµå­ä¹¦ä¸è½½å®åºï¼ä¸ä¸ªæ±èäºåç±»çµå­ä¹¦ä¸è½½é¾æ¥çå°æ¹ãæ è®ºä½ æ¯åæ¬¢éè¯»ç»å¸æå­¦ãç»ç®¡å±å¿ãç»èº«å­¦ä¹ ãèåºåä¸ãææ¯æåè¿æ¯å¶ä»ç±»åçä¹¦ç±ï¼è¿éé½è½æ»¡è¶³ä½ çéæ±ã è¯¥åºæ¶µçäºå¸ä¹¦app(åæ¨ç»è¯»ä¹¦)ãå¾®ä¿¡è¯»ä¹¦ãäº¬ä¸è¯»ä¹¦ãåé©¬æéç­è¯»ä¹¦appçå¤§é¨åçµå­ä¹¦ã",
+      "social": [
+        "x"
+      ],
+      "created_at": "2023-09-13T12:22:09Z",
+      "age_days": 1105,
+      "score": 4266,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 12,
+      "full_name": "shengjidaguai-china/goutoujunshi",
+      "stars": 3555,
+      "stars_gained": 521,
+      "language": "Python",
+      "description": "ä¸ä¸ªåæ¥ä½æç»ªãååæå³ç³»å¹¶ç»åºå¯æ§è¡ç­ç¥ç Codex æç±åå¸ï¼åç½®å¿çãæ³å¾ãç¤¾ä¼ãäººæãå²å­¦ãå©å§»å®¶åº­ä¸æ§å­¦ç¥è¯åºï¼æ¯æå¤åå³ç³»ã",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-07-20T14:58:48Z",
+      "age_days": 64,
+      "score": 4172,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 13,
+      "full_name": "ruanyf/weekly",
+      "stars": 104458,
+      "stars_gained": 551,
+      "language": "",
+      "description": "ç§æç±å¥½èå¨åï¼æ¯å¨äºåå¸",
+      "social": [
+        "x"
+      ],
+      "created_at": "2018-10-13T12:36:07Z",
+      "age_days": 2901,
+      "score": 4156,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 14,
+      "full_name": "zhouxiaoka/autoclip",
+      "stars": 8708,
+      "stars_gained": 505,
+      "language": "Python",
+      "description": "AutoClip : AI-powered video clipping and highlight generation Â· ä¸æ¬¾æºè½é«åæåä¸åªè¾çäºåå·¥å·",
+      "social": [
+        "x"
+      ],
+      "created_at": "2025-07-08T04:51:15Z",
+      "age_days": 441,
+      "score": 4063,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 15,
+      "full_name": "anthropics/financial-services",
+      "stars": 36289,
+      "stars_gained": 501,
+      "language": "Python",
+      "description": null,
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-02-23T19:24:50Z",
+      "age_days": 211,
+      "score": 4016,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 16,
+      "full_name": "mvt-project/mvt",
+      "stars": 14059,
+      "stars_gained": 494,
+      "language": "Python",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2021-07-16T05:50:44Z",
+      "age_days": 1894,
+      "score": 3964,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 17,
+      "full_name": "stablyai/orca",
+      "stars": 75569,
+      "stars_gained": 913,
+      "language": "TypeScript",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-17T03:28:57Z",
+      "age_days": 189,
+      "score": 3798,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 18,
+      "full_name": "laoma2053/awesome-zhuiju-free",
+      "stars": 9758,
+      "stars_gained": 470,
+      "language": "JavaScript",
+      "description": "åè´¹æ å¹¿åçè¿½å§èµæºå¯¼èªä¸å½±è§å·¥å·æåï¼æ¶å½æ å¹¿åå¨çº¿å½±è§ãå½±è§Appãç½çæç´¢ãç£åä¸ BTãå­å¹ãTVBoxãå½±è§ä»éç½®å°åãIPTV è®¢éæºåä¼åæ¼å¢ï¼æ¯æ¥å¯ç¨æ§æ£æµã",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-06-05T18:14:45Z",
+      "age_days": 109,
+      "score": 3780,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 19,
+      "full_name": "browserbase/stagehand",
+      "stars": 25198,
+      "stars_gained": 458,
+      "language": "TypeScript",
+      "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2024-03-24T19:19:44Z",
+      "age_days": 912,
+      "score": 3664,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 20,
+      "full_name": "pacifio/atlas",
+      "stars": 6028,
+      "stars_gained": 480,
+      "language": "Rust",
+      "description": "Source control for agents",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-05-14T16:48:52Z",
+      "age_days": 131,
+      "score": 3589,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 21,
+      "full_name": "heyjunpenn/awesome-jev",
+      "stars": 528,
+      "stars_gained": 447,
+      "language": "Astro",
+      "description": "A verified, community-maintained catalog of 433 open-source projects built with Jev.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-09-19T05:14:36Z",
+      "age_days": 3,
+      "score": 3576,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "생성 3일 · 스타 528"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 22,
+      "full_name": "mizorewww/laya-coreml",
+      "stars": 1277,
+      "stars_gained": 438,
+      "language": "Python",
+      "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-09-19T23:14:13Z",
+      "age_days": 3,
+      "score": 3538,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 23,
+      "full_name": "can1357/oh-my-pi",
+      "stars": 32771,
+      "stars_gained": 464,
+      "language": "TypeScript",
+      "description": "â¥ Coding agent with the IDE wired in",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-12-31T14:01:28Z",
+      "age_days": 265,
+      "score": 3517,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 24,
+      "full_name": "BuilderIO/agent-native",
+      "stars": 6315,
+      "stars_gained": 449,
+      "language": "TypeScript",
+      "description": "A framework for building agentic apps",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-12T14:57:10Z",
+      "age_days": 194,
+      "score": 3502,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 25,
+      "full_name": "anmolkapil/plexo",
+      "stars": 699,
+      "stars_gained": 433,
+      "language": "TypeScript",
+      "description": "Speed up downloads by combining multiple network connections in parallel",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-15T09:41:57Z",
+      "age_days": 7,
+      "score": 3492,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "생성 7일 · 스타 699"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    }
+  ],
+  "weekly": [
+    {
+      "rank": 1,
+      "full_name": "NandhaKishorM/laya",
+      "stars": 16395,
+      "stars_gained": 12418,
+      "language": "Python",
+      "description": "",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-18T04:46:33Z",
+      "age_days": 4,
+      "score": 151308,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 2,
+      "full_name": "google/ax",
+      "stars": 7519,
+      "stars_gained": 4628,
+      "language": "Go",
+      "description": "Google's open agentic orchestrator",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-30T17:55:01Z",
+      "age_days": 176,
+      "score": 55902,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 3,
+      "full_name": "zai-org/ZCode",
+      "stars": 6275,
+      "stars_gained": 5340,
+      "language": "TypeScript",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-20T12:01:16Z",
+      "age_days": 2,
+      "score": 51961,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 4,
+      "full_name": "mizorewww/laya-mlx",
+      "stars": 5409,
+      "stars_gained": 3786,
+      "language": "Python",
+      "description": "Native MLX runtime for Laya typed decision models â 7â14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-19T13:50:26Z",
+      "age_days": 3,
+      "score": 38454,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 5,
+      "full_name": "jaredpalmer/kev",
+      "stars": 4096,
+      "stars_gained": 3153,
+      "language": "Python",
+      "description": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-17T20:49:39Z",
+      "age_days": 5,
+      "score": 38097,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 6,
+      "full_name": "jev-chat/jev-chat-jarvis",
+      "stars": 3677,
+      "stars_gained": 3630,
+      "language": "Kotlin",
+      "description": "",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-09-21T11:12:53Z",
+      "age_days": 1,
+      "score": 34294,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 7,
+      "full_name": "browser-use/jev-ultrafast",
+      "stars": 17991,
+      "stars_gained": 6255,
+      "language": "Python",
+      "description": "",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-16T21:30:12Z",
+      "age_days": 6,
+      "score": 29289,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 8,
       "full_name": "Albert-Weasker/niubigeo",
-      "stars": 2531,
-      "stars_gained": 54,
+      "stars": 4833,
+      "stars_gained": 2302,
       "language": "TypeScript",
       "description": "Open-source AI brand visibility and competitor reports",
       "social": [
         "x"
       ],
       "created_at": "2026-09-03T15:55:54Z",
-      "age_days": 17,
-      "score": 347,
+      "age_days": 19,
+      "score": 28131,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 24,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 25,
-      "full_name": "qiz029/dscode",
-      "stars": 100,
-      "stars_gained": 23,
-      "language": "JavaScript",
-      "description": "A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry",
-      "social": [],
-      "created_at": "2026-09-11T09:40:02Z",
-      "age_days": 9,
-      "score": 184,
-      "suspect": false,
-      "suspect_reasons": [
-        "생성 9일 · 스타 100"
-      ],
-      "rank_prev": 25,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    }
-  ],
-  "weekly": [
-    {
-      "rank": 1,
-      "full_name": "Serpentiutriumph/DLSS5-Neural-Suite",
-      "stars": 103,
-      "stars_gained": 200,
-      "language": "Python",
-      "description": "DLSS5-Neural-Suite â one-click DLSS 5 neural rendering suite with swapper, feeder, optiscaler & renodx. RTX 20/30/40/50, AMD RDNA, Intel Arc. DX8/9/10/11/12, Vulkan, OpenGL & emulators.",
-      "social": [],
-      "created_at": "2026-08-20T19:50:25Z",
-      "age_days": 31,
-      "score": 2400,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "생성 31일 · 스타 103"
-      ],
-      "rank_prev": 1,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 0
-    },
-    {
-      "rank": 2,
-      "full_name": "DrizzleStreamSurvive/Fix-0x80073712",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover Fix 0x80073712 Error the advanced Troubleshoot Windows Issues solution. This powerful tool helps you Repair Corrupt Files, perform System Restore, Update Components, Fix Windows Update, and Install Missing Packages with ease. The package includes Activation Key and Full Version Installer for the Latest Build Pro 2026. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:39:58Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90"
-      ],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
       "stars_delta": null
-    },
-    {
-      "rank": 3,
-      "full_name": "LaneConquerorChant/Fix-0x80070057",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover Fix 0x80070057 Error the powerful Setup Installer v1.0 with Activation Keygen and License Key Pre-Activated for instant access to the Full Version and Latest Build Pro. This reliable Windows 10/11 Desktop Fixer helps you easily Resolve 0x80070057 Issue using the Quick Repair Tool. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:28:25Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 4,
-      "full_name": "Grandeurvyachasm/Euro-Truck-Simulator-2",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover Euro Truck Simulator 2 v1.46 the Trucking Simulation Game 2026. This release comes with Download Setup Installer, Patch Activator Keygen, and License Key Pre-Activated giving you instant access to the Full Version Latest Build Pro. Enjoy full support for Get Desktop Working Steam Windows 10/11. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:27:27Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 5,
-      "full_name": "hunterdragonsolve/Graphify-Desktop-2026",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "Shell",
-      "description": "â­ï¸ Discover Graphify the advanced Graph Visualization Tool 2026 with Setup Installer v1.5. This release includes Patch Activator Keygen and License Key Pre-Activated giving you instant access to the Full Version Serial and Latest Build Pro Updated. Perfect for Get Desktop Working Windows 10/11 PC. Get the Direct Genuine Original. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:23:47Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 6,
-      "full_name": "SheenArcherIdentify/GTA-V-Chaos-Mod",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "Python",
-      "description": "â­ï¸ Discover GTA V Chaos the Random Events Trainer featuring Vehicle Chaos and NPC Mayhem. This powerful tool includes Super Jump Speedhack, Infinite Ammo Triggerbot, Gravity Manipulation, and NoClip Fly Mode along with and Undetected. Get the Latest Update 2026 fully compatible. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:20:31Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 7,
-      "full_name": "OctagonCrewmanBerth/Google-Drive-for-Desktop",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover Google Drive for Desktop the reliable File Sync Tool v1.0 with Setup Installer for Cloud Storage. This release includes Latest Build Pro Updated, Activation Key Pre-Activated, and Full Version Serial for instant access. Enjoy seamless Sync Files Backup, Access Documents Anywhere, and Cloud Collaboration on Windows 11 PC. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:16:41Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 8,
-      "full_name": "FormFlamingoShed/Defraggler-Pro-Desktop-2026",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Defraggler Pro v2.22 is a powerful disk defragmenter for Windows 10/11. Optimize HDD and SSD performance, speed up file access, and boost overall system efficiency with the full pre-activated version. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:16:29Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
-      ],
-      "rank_prev": 2,
-      "rank_delta": -6,
-      "status": "down",
-      "stars_delta": 0
     },
     {
       "rank": 9,
-      "full_name": "ActivistStrait/DMDE-Professional",
-      "stars": 206,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ DMDE Professional â powerful data recovery software v5.5 with setup installer for Windows 10/11. Includes full version keygen license pre-activated, disk editor, partition manager, recover lost files, clone drive backup, latest build Pro updated. Get desktop PC tool and powerful file recovery solution. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:12:37Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 206",
-        "크랙·치트 미끼 이름"
+      "full_name": "Mak5er/AirCard",
+      "stars": 2757,
+      "stars_gained": 2205,
+      "language": "Swift",
+      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "social": [
+        "reddit",
+        "x"
       ],
-      "rank_prev": 3,
-      "rank_delta": -6,
-      "status": "down",
-      "stars_delta": 0
+      "created_at": "2026-09-16T22:20:15Z",
+      "age_days": 6,
+      "score": 26706,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 10,
-      "full_name": "stonefightersilo/CS2-Mod-Menu",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "AutoHotkey",
-      "description": "â­ï¸ CS2 External delivers powerful aimbot, ESP wallhack, triggerbot, no-recoil, skin changer, and rage/legit features. Latest 2026 build with support for Windows 10/11 Steam. Undetected. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:09:36Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
+      "full_name": "eternity4719/HowToLiveBetter",
+      "stars": 12296,
+      "stars_gained": 3769,
+      "language": "HTML",
+      "description": "354 æ¡å¾ªè¯å»ºè®®ï¼è¦çé¿å¯¿é²çãæ¥æãçé±çè´¢ãæ³å¾çº¢çº¿ãå¤±ä¸ä¸å·¥ä¼¤ãå»ä¿ç¤¾ä¿ãæç±å©è²ãåºå½ä¸æè½ãæ¯æ¡åæææ¬ãæ¶çãè¯æ®ç­çº§ååå§åºå¤ï¼åªå¼æåè®ºæä¸å®æ¹æä»¶ã",
+      "social": [
+        "reddit",
+        "x"
       ],
-      "rank_prev": 4,
-      "rank_delta": -6,
-      "status": "down",
-      "stars_delta": 0
+      "created_at": "2026-09-07T01:53:36Z",
+      "age_days": 15,
+      "score": 16643,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 11,
-      "full_name": "SergeantQuest/Error-0x80070005-Fix",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover Error 0x80070005 Fix the advanced Windows Access Denied Troubleshoot with complete Installation Error Resolution. This powerful Setup Repair Tool includes Activation Keygen Recovery along with Pro Full Version Update, Latest Build Patch, and License Key Pre-Activated for instant access. Get Desktop Working. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:09:25Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90",
-        "크랙·치트 미끼 이름"
+      "full_name": "hydra-db/hydradb",
+      "stars": 4193,
+      "stars_gained": 1004,
+      "language": "Rust",
+      "description": "HydraDB - fast graph database on object storage",
+      "social": [
+        "x"
       ],
-      "rank_prev": 5,
-      "rank_delta": -6,
-      "status": "down",
-      "stars_delta": 0
+      "created_at": "2026-07-03T05:34:15Z",
+      "age_days": 81,
+      "score": 13473,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 12,
-      "full_name": "UltimateCryomancer/Boris-FX-Optics",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Boris FX Optics 2026 is a photo editor and visual effects plugin for creating cinematic looks, lens effects, and advanced color grading. This full pre-activated version includes the latest build with easy installer for Windows 10/11 x64. Delivers powerful tools and features for high-end editing. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:06:13Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 205"
+      "full_name": "rocketride-org/rocketride-server",
+      "stars": 9432,
+      "stars_gained": 956,
+      "language": "Python",
+      "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
+      "social": [
+        "x"
       ],
-      "rank_prev": 6,
-      "rank_delta": -6,
-      "status": "down",
-      "stars_delta": 0
+      "created_at": "2026-02-11T17:02:53Z",
+      "age_days": 223,
+      "score": 12738,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 13,
-      "full_name": "Emeraldiojoist/Error-0x80004005-Fix",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover Error 0x80004005 Fix the advanced Windows Error Troubleshooter with complete Installation Setup Guide. This release includes Activation Keygen Repair, Full Version Update Patch, and License Key Pre-Activated for instant access to the Latest Build Pro Solutions. the Easy Fix Tool and use the powerful. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T10:02:50Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90",
-        "크랙·치트 미끼 이름"
+      "full_name": "ChenLiu-1996/figures4papers",
+      "stars": 6377,
+      "stars_gained": 1042,
+      "language": "Python",
+      "description": "My Python scripts to make high-quality figures for publications in top AI conferences and journals.",
+      "social": [
+        "x"
       ],
+      "created_at": "2025-04-29T02:37:54Z",
+      "age_days": 511,
+      "score": 12570,
+      "suspect": false,
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -1355,22 +1299,19 @@
     },
     {
       "rank": 14,
-      "full_name": "LevelDivinerLink/GTA-5-Menyoo",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover GTA 5 Menyoo the powerful Trainer packed with Teleportation Speedhack, Vehicle Spawner NoClip, and extensive Customization Options. This release includes Aimbot ESP Wallhack along with Full Undetected, and all Key Features. Get the Latest Build 2026. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T09:09:28Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90",
-        "크랙·치트 미끼 이름"
+      "full_name": "Nasiko-Labs/nasiko",
+      "stars": 7618,
+      "stars_gained": 952,
+      "language": "Python",
+      "description": "Developer Control Plane for your AI Agents",
+      "social": [
+        "x"
       ],
+      "created_at": "2026-02-12T10:45:29Z",
+      "age_days": 222,
+      "score": 12384,
+      "suspect": false,
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -1378,22 +1319,20 @@
     },
     {
       "rank": 15,
-      "full_name": "prideanemonespirit/Geometry-Dash-External",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "C++",
-      "description": "â­ï¸ Geometry Dash unlocks all levels, icons, and secret content. Get the full version with license key, pre-activated activation, keygen and latest build. Enjoy unlimited attempts and features on Windows 10/11. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T09:06:07Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90",
-        "크랙·치트 미끼 이름"
+      "full_name": "vectorize-io/hindsight",
+      "stars": 25242,
+      "stars_gained": 1173,
+      "language": "Python",
+      "description": "Hindsight: Agent Memory That Learns",
+      "social": [
+        "reddit",
+        "x"
       ],
+      "created_at": "2025-10-30T11:49:48Z",
+      "age_days": 327,
+      "score": 12168,
+      "suspect": false,
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -1401,21 +1340,20 @@
     },
     {
       "rank": 16,
-      "full_name": "AzureSponsorYank77/Error-0x80070002-Fix",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Error 0x80070002 Fix | Windows 10/11 Troubleshooter | Setup Installer v1.0 | Activation Key | License Key Pre-Activated | Full Version Serial | Latest Build Pro Updated | Resolve Missing Files | Quick Repair Tool | Desktop Support Software | Get Error Resolution | Instant Solution for PC â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T09:05:45Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90"
+      "full_name": "BuilderIO/agent-native",
+      "stars": 6315,
+      "stars_gained": 1132,
+      "language": "TypeScript",
+      "description": "A framework for building agentic apps",
+      "social": [
+        "reddit",
+        "x"
       ],
+      "created_at": "2026-03-12T14:57:10Z",
+      "age_days": 194,
+      "score": 12023,
+      "suspect": false,
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -1423,67 +1361,59 @@
     },
     {
       "rank": 17,
-      "full_name": "Toothflutrek73/ChatGPT-Plus-Desktop-2026",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "Shell",
-      "description": "â­ï¸ ChatGPT Plus 2026 - Advanced AI Text Generator. Full Version with Pre-Activated License. Latest Pro Build with all features unlocked. Works perfectly on Windows 10/11 PC. Direct Genuine Installer. â­ï¸",
+      "full_name": "CraterSerpentGlow/Discord-Server-Raider",
+      "stars": 1691,
+      "stars_gained": 1122,
+      "language": "",
+      "description": "",
       "social": [],
-      "created_at": "2026-08-07T08:58:36Z",
-      "age_days": 44,
-      "score": 1380,
+      "created_at": "2026-06-13T12:06:07Z",
+      "age_days": 101,
+      "score": 11916,
       "suspect": true,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
+        "설명·언어 없음"
       ],
-      "rank_prev": 7,
-      "rank_delta": -10,
-      "status": "down",
-      "stars_delta": 0
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 18,
-      "full_name": "lacqueraxeimprove/CS2-skinchanger-2026",
-      "stars": 205,
-      "stars_gained": 115,
+      "full_name": "BeastStokerSouk/Better-Discord",
+      "stars": 1659,
+      "stars_gained": 1112,
       "language": "",
-      "description": "â­ï¸ CS2 Skin Changer | Counter-Strike 2 Menu | Aimbot ESP Triggerbot | Wallhack NoRecoil Glow | Auto Skin Switcher RageHack | Legit Injector | Latest Build v2026 | Steam PC | Get Full Version | Setup Installer | Keygen Activation | Pre-Activated Pro â­ï¸",
+      "description": "",
       "social": [],
-      "created_at": "2026-08-07T08:58:33Z",
-      "age_days": 44,
-      "score": 1380,
+      "created_at": "2026-06-13T12:06:12Z",
+      "age_days": 101,
+      "score": 11828,
       "suspect": true,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 205",
-        "크랙·치트 미끼 이름"
+        "설명·언어 없음"
       ],
-      "rank_prev": 8,
-      "rank_delta": -10,
-      "status": "down",
-      "stars_delta": 0
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 19,
-      "full_name": "pulsevicedream/Fix-0x80070643",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover Fix 0x80070643 Error the advanced Windows Installer Troubleshooter and Setup Repair Tool. This release provides Activation Issues Fix along with License Key Resolver for instant Full Version and Latest Build Pro 2026. Get the complete Error Code Solution with Quick Install Guide, Update Patch Installer. â­ï¸",
+      "full_name": "flexprice/flexprice",
+      "stars": 6320,
+      "stars_gained": 810,
+      "language": "Go",
+      "description": "Usage-based pricing and billing for developers ð Cloud or self-hosted âï¸ No-code UI ð° Realtime usage metering ð Credits & top-ups ð Control feature access",
       "social": [],
-      "created_at": "2026-08-07T08:54:58Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90"
-      ],
+      "created_at": "2024-11-05T14:42:18Z",
+      "age_days": 686,
+      "score": 10651,
+      "suspect": false,
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -1491,21 +1421,20 @@
     },
     {
       "rank": 20,
-      "full_name": "BlizzardToneBlade/Fabric-Minecraft-Modloader",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover Fabric Minecraft Modloader v1.19.2 the powerful Setup Installer and Full Version with Latest Build Pro. This release includes, Custom Mods Creato for advanced modding capabilities. Enjoy Easy Installation on Windows 10/11 PC with the Game Enhancer Tool. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:52:03Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90"
+      "full_name": "dream-num/univer",
+      "stars": 15346,
+      "stars_gained": 845,
+      "language": "TypeScript",
+      "description": "The Office Harness for AI Agents â Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "social": [
+        "reddit",
+        "x"
       ],
+      "created_at": "2022-09-29T12:09:14Z",
+      "age_days": 1454,
+      "score": 10270,
+      "suspect": false,
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -1513,43 +1442,41 @@
     },
     {
       "rank": 21,
-      "full_name": "purpleevokertie/Driver-Easy-Pro",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "Batchfile",
-      "description": "â­ï¸ Driver Easy Pro â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:48:36Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 205"
+      "full_name": "mvt-project/mvt",
+      "stars": 14059,
+      "stars_gained": 771,
+      "language": "Python",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "social": [
+        "x"
       ],
-      "rank_prev": 9,
-      "rank_delta": -12,
-      "status": "down",
-      "stars_delta": 0
+      "created_at": "2021-07-16T05:50:44Z",
+      "age_days": 1894,
+      "score": 9321,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 22,
-      "full_name": "Metalnemarina/Factorio-Even-Distribution",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover Factorio Even Distribution the essential Full Version v1.1 with Latest Build 2026. This release includes Setup Installer Keygen and Activator Loader Serial for instant activation. Perfect for advanced Game Resource Management, Balanced Item Distribution, Easy Conveyor Setup, and Efficient Logistics. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:47:41Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
+      "full_name": "mizorewww/laya-coreml",
+      "stars": 1277,
+      "stars_gained": 895,
+      "language": "Python",
+      "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-09-19T23:14:13Z",
+      "age_days": 3,
+      "score": 9173,
+      "suspect": false,
       "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90",
-        "크랙·치트 미끼 이름"
+        "하루 증가분이 총 스타의 절반 이상"
       ],
       "rank_prev": null,
       "rank_delta": null,
@@ -1558,21 +1485,21 @@
     },
     {
       "rank": 23,
-      "full_name": "Tailkroseparator/Google-Gemini-2026",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover Google Gemini the powerful AI Assistant v1.0. This release includes Setup Installer with Keygen Activation and License Key Pre-Activated giving you instant access to the Latest Build Pro 2026 and Full Version. Enjoy seamless Desktop App Installation and Smart Features Integration on Windows 10/11 PC. Get the Direct Original. â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:44:59Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
+      "full_name": "QwenLM/Qwen-Image-2.1",
+      "stars": 1246,
+      "stars_gained": 851,
+      "language": "Python",
+      "description": "Qwen's most powerful open-source image generation model",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-14T04:12:17Z",
+      "age_days": 8,
+      "score": 9150,
+      "suspect": false,
       "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90",
-        "크랙·치트 미끼 이름"
+        "하루 증가분이 총 스타의 절반 이상"
       ],
       "rank_prev": null,
       "rank_delta": null,
@@ -1581,22 +1508,21 @@
     },
     {
       "rank": 24,
-      "full_name": "Millikrueliminate/Error-0x80072ee7-Fix",
-      "stars": 90,
-      "stars_gained": 115,
-      "language": "",
-      "description": "â­ï¸ Discover Error 0x80072ee7 Fix the powerful Windows 10/11 Troubleshooter and Setup Repair Tool. This release helps you Install Latest Build with Activation Keygen and License Serial Pre-Activated for instant Full Version Guide access. Includes Patch Installer for Desktop to easily Resolve Network Issues and Get Genuine Connection Updated.â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:44:08Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 90",
-        "크랙·치트 미끼 이름"
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 233388,
+      "stars_gained": 2209,
+      "language": "TypeScript",
+      "description": "",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
       ],
+      "created_at": "2026-08-13T11:56:32Z",
+      "age_days": 40,
+      "score": 8551,
+      "suspect": false,
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -1604,35 +1530,73 @@
     },
     {
       "rank": 25,
-      "full_name": "rapidlieutenantfix43/Boris-FX-Sapphire",
-      "stars": 205,
-      "stars_gained": 115,
-      "language": "Java",
-      "description": "â­ï¸ Boris FX Sapphire | Visual Effects Plugin | Setup Installer v2026 | Full Version Pro | Pre-Activated License Key | Latest Build Updated | Serial Activation Loader | Get Desktop Working | Windows 10/11 PC | After Effects, Premiere Pro, Avid Media Composer | Professional Video Editing Tool â­ï¸",
-      "social": [],
-      "created_at": "2026-08-07T08:40:54Z",
-      "age_days": 44,
-      "score": 1380,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "같은 증가분(+115) 리포 24개",
-        "생성 44일 · 스타 205"
+      "full_name": "stablyai/orca",
+      "stars": 75569,
+      "stars_gained": 2020,
+      "language": "TypeScript",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "social": [
+        "reddit",
+        "x"
       ],
-      "rank_prev": 10,
-      "rank_delta": -15,
-      "status": "down",
-      "stars_delta": 0
+      "created_at": "2026-03-17T03:28:57Z",
+      "age_days": 189,
+      "score": 8266,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     }
   ],
-  "daily_suspect_count": 22,
-  "daily_clean_count": 3,
-  "weekly_suspect_count": 25,
-  "weekly_clean_count": 0,
+  "daily_suspect_count": 2,
+  "daily_clean_count": 23,
+  "weekly_suspect_count": 2,
+  "weekly_clean_count": 23,
   "note": "weekly는 주 시작 직후에는 daily와 거의 동일하다. suspect=true 항목은 스타 농장 스팸 의심이니 리포트에서 제외하거나 따로 표시할 것.",
-  "prev_generated_at_kst": "2026-09-21 10:09:25",
-  "daily_dropped": [],
-  "weekly_dropped": [
+  "prev_generated_at_kst": "2026-09-21 10:11:01",
+  "daily_dropped": [
+    {
+      "full_name": "Serpentiutriumph/DLSS5-Neural-Suite",
+      "rank_prev": 1
+    },
+    {
+      "full_name": "FormFlamingoShed/Defraggler-Pro-Desktop-2026",
+      "rank_prev": 2
+    },
+    {
+      "full_name": "ActivistStrait/DMDE-Professional",
+      "rank_prev": 3
+    },
+    {
+      "full_name": "stonefightersilo/CS2-Mod-Menu",
+      "rank_prev": 4
+    },
+    {
+      "full_name": "SergeantQuest/Error-0x80070005-Fix",
+      "rank_prev": 5
+    },
+    {
+      "full_name": "UltimateCryomancer/Boris-FX-Optics",
+      "rank_prev": 6
+    },
+    {
+      "full_name": "Toothflutrek73/ChatGPT-Plus-Desktop-2026",
+      "rank_prev": 7
+    },
+    {
+      "full_name": "lacqueraxeimprove/CS2-skinchanger-2026",
+      "rank_prev": 8
+    },
+    {
+      "full_name": "purpleevokertie/Driver-Easy-Pro",
+      "rank_prev": 9
+    },
+    {
+      "full_name": "rapidlieutenantfix43/Boris-FX-Sapphire",
+      "rank_prev": 10
+    },
     {
       "full_name": "wraithmosquitoarm/Blender-Desktop-2026",
       "rank_prev": 11
@@ -1682,15 +1646,113 @@
       "rank_prev": 22
     },
     {
-      "full_name": "google/ax",
-      "rank_prev": 23
-    },
-    {
-      "full_name": "NandhaKishorM/laya",
+      "full_name": "Albert-Weasker/niubigeo",
       "rank_prev": 24
     },
     {
-      "full_name": "Albert-Weasker/niubigeo",
+      "full_name": "qiz029/dscode",
+      "rank_prev": 25
+    }
+  ],
+  "weekly_dropped": [
+    {
+      "full_name": "Serpentiutriumph/DLSS5-Neural-Suite",
+      "rank_prev": 1
+    },
+    {
+      "full_name": "DrizzleStreamSurvive/Fix-0x80073712",
+      "rank_prev": 2
+    },
+    {
+      "full_name": "LaneConquerorChant/Fix-0x80070057",
+      "rank_prev": 3
+    },
+    {
+      "full_name": "Grandeurvyachasm/Euro-Truck-Simulator-2",
+      "rank_prev": 4
+    },
+    {
+      "full_name": "hunterdragonsolve/Graphify-Desktop-2026",
+      "rank_prev": 5
+    },
+    {
+      "full_name": "SheenArcherIdentify/GTA-V-Chaos-Mod",
+      "rank_prev": 6
+    },
+    {
+      "full_name": "OctagonCrewmanBerth/Google-Drive-for-Desktop",
+      "rank_prev": 7
+    },
+    {
+      "full_name": "FormFlamingoShed/Defraggler-Pro-Desktop-2026",
+      "rank_prev": 8
+    },
+    {
+      "full_name": "ActivistStrait/DMDE-Professional",
+      "rank_prev": 9
+    },
+    {
+      "full_name": "stonefightersilo/CS2-Mod-Menu",
+      "rank_prev": 10
+    },
+    {
+      "full_name": "SergeantQuest/Error-0x80070005-Fix",
+      "rank_prev": 11
+    },
+    {
+      "full_name": "UltimateCryomancer/Boris-FX-Optics",
+      "rank_prev": 12
+    },
+    {
+      "full_name": "Emeraldiojoist/Error-0x80004005-Fix",
+      "rank_prev": 13
+    },
+    {
+      "full_name": "LevelDivinerLink/GTA-5-Menyoo",
+      "rank_prev": 14
+    },
+    {
+      "full_name": "prideanemonespirit/Geometry-Dash-External",
+      "rank_prev": 15
+    },
+    {
+      "full_name": "AzureSponsorYank77/Error-0x80070002-Fix",
+      "rank_prev": 16
+    },
+    {
+      "full_name": "Toothflutrek73/ChatGPT-Plus-Desktop-2026",
+      "rank_prev": 17
+    },
+    {
+      "full_name": "lacqueraxeimprove/CS2-skinchanger-2026",
+      "rank_prev": 18
+    },
+    {
+      "full_name": "pulsevicedream/Fix-0x80070643",
+      "rank_prev": 19
+    },
+    {
+      "full_name": "BlizzardToneBlade/Fabric-Minecraft-Modloader",
+      "rank_prev": 20
+    },
+    {
+      "full_name": "purpleevokertie/Driver-Easy-Pro",
+      "rank_prev": 21
+    },
+    {
+      "full_name": "Metalnemarina/Factorio-Even-Distribution",
+      "rank_prev": 22
+    },
+    {
+      "full_name": "Tailkroseparator/Google-Gemini-2026",
+      "rank_prev": 23
+    },
+    {
+      "full_name": "Millikrueliminate/Error-0x80072ee7-Fix",
+      "rank_prev": 24
+    },
+    {
+      "full_name": "rapidlieutenantfix43/Boris-FX-Sapphire",
       "rank_prev": 25
     }
   ]
