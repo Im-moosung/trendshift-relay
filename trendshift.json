@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-27T23:50:01.318219+00:00",
-  "generated_at_kst": "2026-09-28 08:50:01",
+  "generated_at": "2026-09-28T23:50:01.358388+00:00",
+  "generated_at_kst": "2026-09-29 08:50:01",
   "source": "trendshift.io (scraped from SSR payload)",
   "huggingface": {
     "models": [
       {
         "id": "convaiinnovations/laya",
-        "likes": 4087,
+        "likes": 4301,
         "downloads": 0,
         "pipeline_tag": "text-classification",
         "tags": [
@@ -27,12 +27,12 @@
         "gated": false,
         "url": "https://huggingface.co/convaiinnovations/laya",
         "status": "same",
-        "likes_delta": 195
+        "likes_delta": 214
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 2078,
-        "downloads": 964220,
+        "likes": 2264,
+        "downloads": 1062921,
         "pipeline_tag": "text-to-image",
         "tags": [
           "gguf",
@@ -50,35 +50,12 @@
         "gated": false,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "status": "same",
-        "likes_delta": 149
-      },
-      {
-        "id": "Qwen/Qwen-Image-2.1",
-        "likes": 2487,
-        "downloads": 52804,
-        "pipeline_tag": "text-to-image",
-        "tags": [
-          "diffusers",
-          "safetensors",
-          "qwen",
-          "image-generation",
-          "image-editing",
-          "rgba",
-          "text-to-image",
-          "license:other",
-          "diffusers:QwenImage21Pipeline",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-        "status": "same",
-        "likes_delta": 88
+        "likes_delta": 186
       },
       {
         "id": "Edge0/Audio8-ASR-Infinite",
-        "likes": 1007,
-        "downloads": 19434,
+        "likes": 1385,
+        "downloads": 19963,
         "pipeline_tag": "automatic-speech-recognition",
         "tags": [
           "transformers",
@@ -98,12 +75,60 @@
         "gated": false,
         "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
         "status": "same",
-        "likes_delta": 243
+        "likes_delta": 378
+      },
+      {
+        "id": "Qwen/Qwen-Image-2.1",
+        "likes": 2589,
+        "downloads": 58693,
+        "pipeline_tag": "text-to-image",
+        "tags": [
+          "diffusers",
+          "safetensors",
+          "qwen",
+          "image-generation",
+          "image-editing",
+          "rgba",
+          "text-to-image",
+          "license:other",
+          "diffusers:QwenImage21Pipeline",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+        "status": "same",
+        "likes_delta": 102
+      },
+      {
+        "id": "XingChen-AGI/TeleOCR",
+        "likes": 778,
+        "downloads": 27904,
+        "pipeline_tag": "image-text-to-text",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen2_5_vl",
+          "image-text-to-text",
+          "ocr",
+          "document-parsing",
+          "multimodal",
+          "conversational",
+          "custom_code",
+          "zh",
+          "en",
+          "arxiv:2608.12898"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
+        "status": "new",
+        "likes_delta": null
       },
       {
         "id": "XingChen-AGI/Xing4.0-29B-A4B",
-        "likes": 1780,
-        "downloads": 45028,
+        "likes": 1799,
+        "downloads": 45834,
         "pipeline_tag": "text-generation",
         "tags": [
           "transformers",
@@ -121,12 +146,62 @@
         "gated": false,
         "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
         "status": "same",
-        "likes_delta": 55
+        "likes_delta": 19
+      },
+      {
+        "id": "TaichuAI/ZDTaichu5.0-9B",
+        "likes": 1705,
+        "downloads": 11738,
+        "pipeline_tag": "image-text-to-text",
+        "tags": [
+          "safetensors",
+          "zdtaichu5_0",
+          "multimodal",
+          "vision-language-model",
+          "spatial-reasoning",
+          "agent",
+          "video-understanding",
+          "image-text-to-text",
+          "conversational",
+          "custom_code",
+          "en",
+          "zh"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
+        "status": "new",
+        "likes_delta": null
+      },
+      {
+        "id": "Contrastive-LM/CLM-v0.1-8B",
+        "likes": 470,
+        "downloads": 1271,
+        "pipeline_tag": "text-ranking",
+        "tags": [
+          "contrastive-lm",
+          "clm",
+          "contrastive-learning",
+          "verifier",
+          "reranker",
+          "agents",
+          "text-ranking",
+          "en",
+          "base_model:Qwen/Qwen3-8B",
+          "base_model:finetune:Qwen/Qwen3-8B",
+          "license:apache-2.0",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+        "status": "new",
+        "likes_delta": null
       },
       {
         "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "likes": 2189,
-        "downloads": 3343748,
+        "likes": 2233,
+        "downloads": 3457124,
         "pipeline_tag": "text-generation",
         "tags": [
           "llama.cpp",
@@ -146,62 +221,12 @@
         "gated": false,
         "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
         "status": "same",
-        "likes_delta": 57
-      },
-      {
-        "id": "Altworld/Hemmingway-1",
-        "likes": 737,
-        "downloads": 5904,
-        "pipeline_tag": "text-generation",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5_text",
-          "text-generation",
-          "qwen3.8",
-          "chat",
-          "creative-writing",
-          "altworld",
-          "conversational",
-          "en",
-          "base_model:Qwen/Qwen3.8-27B",
-          "base_model:finetune:Qwen/Qwen3.8-27B"
-        ],
-        "mac_ready": false,
-        "gated": true,
-        "url": "https://huggingface.co/Altworld/Hemmingway-1",
-        "status": "same",
-        "likes_delta": 28
-      },
-      {
-        "id": "XiaomiMiMo/MiMo-V2.6-Pro-RL",
-        "likes": 556,
-        "downloads": 75079,
-        "pipeline_tag": "text-generation",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "mimo_v2",
-          "text-generation",
-          "multimodal",
-          "vision-language",
-          "audio",
-          "agent",
-          "video-understanding",
-          "long-context",
-          "conversational",
-          "custom_code"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
-        "status": "same",
-        "likes_delta": 31
+        "likes_delta": 44
       },
       {
         "id": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
-        "likes": 521,
-        "downloads": 8839,
+        "likes": 550,
+        "downloads": 9994,
         "pipeline_tag": "image-text-to-text",
         "tags": [
           "transformers",
@@ -221,32 +246,13 @@
         "gated": false,
         "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
         "status": "same",
-        "likes_delta": 24
-      },
-      {
-        "id": "Comfy-Org/Qwen-Image-2.1",
-        "likes": 806,
-        "downloads": 3987373,
-        "pipeline_tag": null,
-        "tags": [
-          "diffusion-single-file",
-          "comfyui",
-          "base_model:Qwen/Qwen-Image-2.1",
-          "base_model:finetune:Qwen/Qwen-Image-2.1",
-          "license:other",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
-        "status": "same",
-        "likes_delta": 30
+        "likes_delta": 29
       }
     ],
     "spaces": [
       {
         "id": "observantdistressed/wan2-2-i2v-v3",
-        "likes": 685,
+        "likes": 750,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -258,41 +264,11 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/observantdistressed/wan2-2-i2v-v3",
         "status": "same",
-        "likes_delta": 63
-      },
-      {
-        "id": "Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
-        "likes": 805,
-        "downloads": null,
-        "pipeline_tag": null,
-        "tags": [
-          "gradio",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/spaces/Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
-        "status": "same",
-        "likes_delta": 35
-      },
-      {
-        "id": "Qwen/Qwen-Image-2.1",
-        "likes": 264,
-        "downloads": null,
-        "pipeline_tag": null,
-        "tags": [
-          "gradio",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/spaces/Qwen/Qwen-Image-2.1",
-        "status": "same",
-        "likes_delta": 34
+        "likes_delta": 65
       },
       {
         "id": "multimodalart/jev-decision-index",
-        "likes": 273,
+        "likes": 308,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -303,11 +279,41 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/multimodalart/jev-decision-index",
         "status": "same",
-        "likes_delta": 23
+        "likes_delta": 35
+      },
+      {
+        "id": "Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
+        "likes": 831,
+        "downloads": null,
+        "pipeline_tag": null,
+        "tags": [
+          "gradio",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/spaces/Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
+        "status": "same",
+        "likes_delta": 26
+      },
+      {
+        "id": "Qwen/Qwen-Image-2.1",
+        "likes": 289,
+        "downloads": null,
+        "pipeline_tag": null,
+        "tags": [
+          "gradio",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/spaces/Qwen/Qwen-Image-2.1",
+        "status": "same",
+        "likes_delta": 25
       },
       {
         "id": "convaiinnovations/laya-demo",
-        "likes": 227,
+        "likes": 241,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -318,11 +324,11 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/convaiinnovations/laya-demo",
         "status": "same",
-        "likes_delta": 13
+        "likes_delta": 14
       },
       {
-        "id": "hugging-apps/qwen-image-2-1",
-        "likes": 150,
+        "id": "kulkas2pintu/QWEN_EDIT_IMAGE",
+        "likes": 586,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -332,7 +338,7 @@
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
+        "url": "https://huggingface.co/spaces/kulkas2pintu/QWEN_EDIT_IMAGE",
         "status": "new",
         "likes_delta": null
       }
@@ -340,8 +346,8 @@
     "datasets": [
       {
         "id": "XiaomiMiMo/MiMo-V2.6-RL-oss",
-        "likes": 424,
-        "downloads": 8294,
+        "likes": 508,
+        "downloads": 22597,
         "pipeline_tag": null,
         "tags": [
           "license:apache-2.0",
@@ -360,12 +366,12 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
         "status": "same",
-        "likes_delta": 122
+        "likes_delta": 84
       },
       {
         "id": "secemp9/arxiv-complete",
-        "likes": 477,
-        "downloads": 90154,
+        "likes": 496,
+        "downloads": 98613,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-generation",
@@ -385,12 +391,12 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/secemp9/arxiv-complete",
         "status": "same",
-        "likes_delta": 12
+        "likes_delta": 19
       },
       {
         "id": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
-        "likes": 189,
-        "downloads": 3283,
+        "likes": 198,
+        "downloads": 3552,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-generation",
@@ -410,12 +416,12 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
         "status": "same",
-        "likes_delta": 11
+        "likes_delta": 9
       },
       {
         "id": "wikimedia/wikipedia",
-        "likes": 1572,
-        "downloads": 276794,
+        "likes": 1586,
+        "downloads": 278210,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-generation",
@@ -435,12 +441,12 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/wikimedia/wikipedia",
         "status": "same",
-        "likes_delta": 13
+        "likes_delta": 14
       },
       {
         "id": "nisten/opus5-5-doctor-patient-conversations-all-human-diseases",
-        "likes": 56,
-        "downloads": 47,
+        "likes": 69,
+        "downloads": 265,
         "pipeline_tag": null,
         "tags": [
           "task_categories:question-answering",
@@ -459,103 +465,42 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/datasets/nisten/opus5-5-doctor-patient-conversations-all-human-diseases",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 13
       },
       {
-        "id": "eidon-ai/tracker-pov",
+        "id": "FineEnvs/SmolDataEnvs",
         "likes": 55,
-        "downloads": 48052,
+        "downloads": 2460,
         "pipeline_tag": null,
         "tags": [
-          "task_categories:robotics",
-          "task_categories:video-classification",
-          "license:cc-by-4.0",
-          "size_categories:10K<n<100K",
+          "task_categories:question-answering",
+          "task_categories:table-question-answering",
+          "license:mit",
+          "size_categories:1K<n<10K",
+          "format:parquet",
           "modality:tabular",
           "modality:text",
-          "modality:video",
           "library:datasets",
+          "library:pandas",
+          "library:polars",
           "library:mlcroissant",
-          "region:us",
-          "egocentric",
-          "imu"
+          "region:us"
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/datasets/eidon-ai/tracker-pov",
-        "status": "same",
-        "likes_delta": 4
+        "url": "https://huggingface.co/datasets/FineEnvs/SmolDataEnvs",
+        "status": "new",
+        "likes_delta": null
       }
     ]
   },
   "daily": [
     {
       "rank": 1,
-      "full_name": "vectorize-io/hindsight",
-      "stars": 37177,
-      "stars_gained": 5056,
-      "language": "Python",
-      "description": "Hindsight: Agent Memory That Learns",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2025-10-30T11:49:48Z",
-      "age_days": 332,
-      "score": 28681,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 2,
-      "rank_delta": 1,
-      "status": "up",
-      "stars_delta": 5082
-    },
-    {
-      "rank": 2,
-      "full_name": "rocketride-org/rocketride-server",
-      "stars": 15828,
-      "stars_gained": 2776,
-      "language": "Python",
-      "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-02-11T17:02:53Z",
-      "age_days": 228,
-      "score": 22530,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 9,
-      "rank_delta": 7,
-      "status": "up",
-      "stars_delta": 2779
-    },
-    {
-      "rank": 3,
-      "full_name": "hydra-db/hydradb",
-      "stars": 10883,
-      "stars_gained": 2894,
-      "language": "Rust",
-      "description": "HydraDB - fast graph database on object storage",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-07-03T05:34:15Z",
-      "age_days": 86,
-      "score": 21622,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 12,
-      "rank_delta": 9,
-      "status": "up",
-      "stars_delta": 2894
-    },
-    {
-      "rank": 4,
       "full_name": "debpalash/VoiceStudio",
-      "stars": 39877,
-      "stars_gained": 3236,
+      "stars": 43732,
+      "stars_gained": 3848,
       "language": "Python",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative â voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "social": [
@@ -564,20 +509,62 @@
         "x"
       ],
       "created_at": "2026-04-09T21:40:26Z",
-      "age_days": 171,
-      "score": 14267,
+      "age_days": 172,
+      "score": 16130,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 4,
+      "rank_delta": 3,
+      "status": "up",
+      "stars_delta": 3855
+    },
+    {
+      "rank": 2,
+      "full_name": "eternity4719/HowToLiveBetter",
+      "stars": 24459,
+      "stars_gained": 3884,
+      "language": "HTML",
+      "description": "354 æ¡å¾ªè¯å»ºè®®ï¼è¦çé¿å¯¿é²çãæ¥æãçé±çè´¢ãæ³å¾çº¢çº¿ãå¤±ä¸ä¸å·¥ä¼¤ãå»ä¿ç¤¾ä¿ãæç±å©è²ãåºå½ä¸æè½ãæ¯æ¡åæææ¬ãæ¶çãè¯æ®ç­çº§ååå§åºå¤ï¼åªå¼æåè®ºæä¸å®æ¹æä»¶ã",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-07T01:53:36Z",
+      "age_days": 21,
+      "score": 15696,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 8,
-      "rank_delta": 4,
+      "rank_delta": 6,
       "status": "up",
-      "stars_delta": 3368
+      "stars_delta": 3908
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "full_name": "vectorize-io/hindsight",
+      "stars": 40891,
+      "stars_gained": 3682,
+      "language": "Python",
+      "description": "Hindsight: Agent Memory That Learns",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-10-30T11:49:48Z",
+      "age_days": 333,
+      "score": 14320,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 1,
+      "rank_delta": -2,
+      "status": "down",
+      "stars_delta": 3714
+    },
+    {
+      "rank": 4,
       "full_name": "paperclipai/paperclip",
-      "stars": 89714,
-      "stars_gained": 2489,
+      "stars": 92668,
+      "stars_gained": 2919,
       "language": "TypeScript",
       "description": "The open-source app everyone uses to manage agents at work",
       "social": [
@@ -586,127 +573,40 @@
         "x"
       ],
       "created_at": "2026-03-02T15:01:51Z",
-      "age_days": 209,
-      "score": 13541,
+      "age_days": 210,
+      "score": 12938,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 1,
-      "rank_delta": -4,
-      "status": "down",
-      "stars_delta": 2534
+      "rank_prev": 5,
+      "rank_delta": 1,
+      "status": "up",
+      "stars_delta": 2954
     },
     {
-      "rank": 6,
+      "rank": 5,
       "full_name": "cdyforever/how-to-live-better",
-      "stars": 2257,
-      "stars_gained": 1134,
+      "stars": 3834,
+      "stars_gained": 1572,
       "language": "HTML",
       "description": "ãé«æ§ä»·æ¯äººçæåãå¨ä¹¦ 528 æ¡çå¨çº¿åé¡µéè¯»çï¼ææºå¯è¯»ãå¯æç´¢ãé¶ä¾èµãæ¯æç¦»çº¿",
       "social": [
         "x"
       ],
       "created_at": "2026-09-18T14:35:08Z",
-      "age_days": 9,
-      "score": 9164,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": 20,
-      "rank_delta": 14,
-      "status": "up",
-      "stars_delta": 1137
-    },
-    {
-      "rank": 7,
-      "full_name": "mexicat/pdoom-video",
-      "stars": 1039,
-      "stars_gained": 983,
-      "language": "TypeScript",
-      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-09-24T21:33:53Z",
-      "age_days": 3,
-      "score": 7972,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 8,
-      "full_name": "eternity4719/HowToLiveBetter",
-      "stars": 20551,
-      "stars_gained": 2357,
-      "language": "HTML",
-      "description": "354 æ¡å¾ªè¯å»ºè®®ï¼è¦çé¿å¯¿é²çãæ¥æãçé±çè´¢ãæ³å¾çº¢çº¿ãå¤±ä¸ä¸å·¥ä¼¤ãå»ä¿ç¤¾ä¿ãæç±å©è²ãåºå½ä¸æè½ãæ¯æ¡åæææ¬ãæ¶çãè¯æ®ç­çº§ååå§åºå¤ï¼åªå¼æåè®ºæä¸å®æ¹æä»¶ã",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-09-07T01:53:36Z",
-      "age_days": 20,
-      "score": 6859,
+      "age_days": 10,
+      "score": 12736,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 6,
-      "rank_delta": -2,
-      "status": "down",
-      "stars_delta": 2380
-    },
-    {
-      "rank": 9,
-      "full_name": "juspay/hyperswitch",
-      "stars": 44885,
-      "stars_gained": 651,
-      "language": "Rust",
-      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
-      "social": [
-        "x"
-      ],
-      "created_at": "2022-10-17T11:18:28Z",
-      "age_days": 1441,
-      "score": 5218,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 10,
-      "full_name": "newliver666/apk-reverse",
-      "stars": 2697,
-      "stars_gained": 652,
-      "language": "Python",
-      "description": "Suitable for Android APK reverse engineering analysis",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-09-19T13:12:54Z",
-      "age_days": 8,
-      "score": 5153,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 11,
       "rank_delta": 1,
       "status": "up",
-      "stars_delta": 672
+      "stars_delta": 1577
     },
     {
-      "rank": 11,
+      "rank": 6,
       "full_name": "rohitg00/ai-engineering-from-scratch",
-      "stars": 59218,
-      "stars_gained": 876,
+      "stars": 60356,
+      "stars_gained": 1122,
       "language": "Python",
       "description": "Learn it. Build it. Ship it for others.",
       "social": [
@@ -714,41 +614,169 @@
         "x"
       ],
       "created_at": "2026-03-18T18:38:02Z",
-      "age_days": 193,
-      "score": 5018,
+      "age_days": 194,
+      "score": 6543,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 4,
-      "rank_delta": -7,
-      "status": "down",
-      "stars_delta": 889
+      "rank_prev": 11,
+      "rank_delta": 5,
+      "status": "up",
+      "stars_delta": 1138
     },
     {
-      "rank": 12,
-      "full_name": "latent-spaces/brag",
-      "stars": 10762,
-      "stars_gained": 987,
+      "rank": 7,
+      "full_name": "mvschwarz/openrig",
+      "stars": 1649,
+      "stars_gained": 742,
+      "language": "TypeScript",
+      "description": "Multi-agent harness that runs Claude Code and  Codex together as one system",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-01T06:22:40Z",
+      "age_days": 180,
+      "score": 5960,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 23,
+      "rank_delta": 16,
+      "status": "up",
+      "stars_delta": 744
+    },
+    {
+      "rank": 8,
+      "full_name": "rocketride-org/rocketride-server",
+      "stars": 17206,
+      "stars_gained": 1378,
       "language": "Python",
-      "description": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+      "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-02-11T17:02:53Z",
+      "age_days": 229,
+      "score": 5567,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 2,
+      "rank_delta": -6,
+      "status": "down",
+      "stars_delta": 1378
+    },
+    {
+      "rank": 9,
+      "full_name": "mexicat/pdoom-video",
+      "stars": 1750,
+      "stars_gained": 671,
+      "language": "TypeScript",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-24T21:33:53Z",
+      "age_days": 4,
+      "score": 5440,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 7,
+      "rank_delta": -2,
+      "status": "down",
+      "stars_delta": 711
+    },
+    {
+      "rank": 10,
+      "full_name": "dzhng/jevgrep",
+      "stars": 1367,
+      "stars_gained": 668,
+      "language": "TypeScript",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-26T04:06:56Z",
+      "age_days": 2,
+      "score": 5370,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 19,
+      "rank_delta": 9,
+      "status": "up",
+      "stars_delta": 672
+    },
+    {
+      "rank": 11,
+      "full_name": "stablyai/orca",
+      "stars": 80666,
+      "stars_gained": 1132,
+      "language": "TypeScript",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "social": [
         "reddit",
         "x"
       ],
-      "created_at": "2026-06-16T19:36:36Z",
-      "age_days": 103,
-      "score": 4700,
+      "created_at": "2026-03-17T03:28:57Z",
+      "age_days": 195,
+      "score": 5277,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 12,
+      "full_name": "hydra-db/hydradb",
+      "stars": 12271,
+      "stars_gained": 1388,
+      "language": "Rust",
+      "description": "HydraDB - fast graph database on object storage",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-07-03T05:34:15Z",
+      "age_days": 87,
+      "score": 5005,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 3,
       "rank_delta": -9,
       "status": "down",
-      "stars_delta": 1007
+      "stars_delta": 1388
     },
     {
       "rank": 13,
+      "full_name": "ifixai-ai/iFixAi",
+      "stars": 16323,
+      "stars_gained": 618,
+      "language": "Python",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-27T13:02:34Z",
+      "age_days": 154,
+      "score": 4952,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 14,
       "full_name": "togg53192-cmd/jailbreaks",
-      "stars": 1099,
-      "stars_gained": 570,
+      "stars": 1705,
+      "stars_gained": 584,
       "language": "",
       "description": "LIST OF ALL MY JAILBREAKS",
       "social": [
@@ -756,8 +784,51 @@
         "x"
       ],
       "created_at": "2026-06-18T18:21:25Z",
-      "age_days": 101,
-      "score": 4638,
+      "age_days": 102,
+      "score": 4766,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 13,
+      "rank_delta": -1,
+      "status": "down",
+      "stars_delta": 606
+    },
+    {
+      "rank": 15,
+      "full_name": "oblien/openship",
+      "stars": 13416,
+      "stars_gained": 578,
+      "language": "TypeScript",
+      "description": "Self-hosted deployment platform",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-05T20:16:56Z",
+      "age_days": 207,
+      "score": 4636,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 16,
+      "full_name": "Niko1221/Strata",
+      "stars": 1021,
+      "stars_gained": 575,
+      "language": "C++",
+      "description": "Qwen3.8-Flash-Next (125B MoE) on a 12-24 GB NVIDIA GPU + 64 GB RAM: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-24T16:40:20Z",
+      "age_days": 4,
+      "score": 4620,
       "suspect": false,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상"
@@ -768,75 +839,30 @@
       "stars_delta": null
     },
     {
-      "rank": 14,
-      "full_name": "mobile-next/mobile-mcp",
-      "stars": 7889,
-      "stars_gained": 564,
-      "language": "TypeScript",
-      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-      "social": [
-        "x"
-      ],
-      "created_at": "2025-03-28T16:21:06Z",
-      "age_days": 548,
-      "score": 4524,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 21,
-      "rank_delta": 7,
-      "status": "up",
-      "stars_delta": 597
-    },
-    {
-      "rank": 15,
-      "full_name": "reladraw/reladraw",
-      "stars": 770,
-      "stars_gained": 563,
-      "language": "TypeScript",
-      "description": "",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-09-07T20:01:24Z",
-      "age_days": 20,
-      "score": 4522,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "생성 20일 · 스타 770"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 16,
-      "full_name": "satnaing/shadcn-admin",
-      "stars": 14821,
-      "stars_gained": 511,
-      "language": "TypeScript",
-      "description": "Admin Dashboard UI built with Shadcn and Vite.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2024-01-26T02:46:42Z",
-      "age_days": 975,
-      "score": 4108,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
       "rank": 17,
+      "full_name": "NVIDIA/OpenShell",
+      "stars": 9362,
+      "stars_gained": 552,
+      "language": "Rust",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-02-24T22:52:22Z",
+      "age_days": 216,
+      "score": 4418,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 18,
       "full_name": "dream-num/univer",
-      "stars": 20128,
-      "stars_gained": 939,
+      "stars": 21212,
+      "stars_gained": 1075,
       "language": "TypeScript",
       "description": "The Office Harness for AI Agents â Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "social": [
@@ -845,56 +871,30 @@
         "x"
       ],
       "created_at": "2022-09-29T12:09:14Z",
-      "age_days": 1459,
-      "score": 3872,
+      "age_days": 1460,
+      "score": 4367,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 17,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 948
-    },
-    {
-      "rank": 18,
-      "full_name": "pacifio/atlas",
-      "stars": 8032,
-      "stars_gained": 631,
-      "language": "Rust",
-      "description": "Source control for agents",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-05-14T16:48:52Z",
-      "age_days": 136,
-      "score": 3348,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 15,
-      "rank_delta": -3,
+      "rank_delta": -1,
       "status": "down",
-      "stars_delta": 644
+      "stars_delta": 1084
     },
     {
       "rank": 19,
-      "full_name": "dzhng/jevgrep",
-      "stars": 695,
-      "stars_gained": 551,
-      "language": "TypeScript",
-      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "full_name": "byoungd/up",
+      "stars": 64621,
+      "stars_gained": 512,
+      "language": "JavaScript",
+      "description": "An advanced guide which might benefit you a lot ð . é©åå¯çäººçè¿é¶æå äººçè¿é¶æå ç¦»è°±çäººç äººçè¿é¶ AIå­¦ä¹  AIæå é©åå¯çAIå­¦ä¹ æå è±è¯­å­¦ä¹ æå/è±è¯­å­¦ä¹ æç¨/è±è¯­å­¦ä¹ /å­¦è±è¯­",
       "social": [
-        "reddit",
         "x"
       ],
-      "created_at": "2026-09-26T04:06:56Z",
-      "age_days": 1,
-      "score": 3306,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "생성 1일 · 스타 695"
-      ],
+      "created_at": "2017-05-30T07:18:52Z",
+      "age_days": 3408,
+      "score": 4104,
+      "suspect": false,
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -902,38 +902,37 @@
     },
     {
       "rank": 20,
-      "full_name": "Human-Agent-Society/reef",
-      "stars": 6331,
-      "stars_gained": 560,
-      "language": "Python",
-      "description": "Continual learning infra for self-improving agents",
+      "full_name": "dream-num/univer-workspace",
+      "stars": 2196,
+      "stars_gained": 530,
+      "language": "TypeScript",
+      "description": "An open-source Office workspace where people and AI agents create, collaborate, and review together.",
       "social": [
-        "reddit",
         "x"
       ],
-      "created_at": "2026-08-31T01:39:18Z",
-      "age_days": 27,
-      "score": 3287,
+      "created_at": "2026-08-14T09:24:34Z",
+      "age_days": 45,
+      "score": 3437,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 13,
-      "rank_delta": -7,
-      "status": "down",
-      "stars_delta": 598
+      "rank_prev": 22,
+      "rank_delta": 2,
+      "status": "up",
+      "stars_delta": 530
     },
     {
       "rank": 21,
-      "full_name": "open-slide/open-slide",
-      "stars": 8154,
-      "stars_gained": 382,
-      "language": "TypeScript",
-      "description": "A slide framework built for agents.",
+      "full_name": "t8y2/dbx",
+      "stars": 21457,
+      "stars_gained": 420,
+      "language": "Rust",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | è½»éçº§è·¨å¹³å°æ°æ®åºç®¡çå·¥å·ï¼æ¯æ MySQLãPostgreSQLãSQLiteãRedisãMongoDBãè¾¾æ¢¦ç­ 100+ æ°æ®åºï¼æä¾æ¡é¢ç«¯ãDockerãCLIãåç½® AI å©æå MCPã",
       "social": [
         "x"
       ],
-      "created_at": "2026-04-26T10:04:20Z",
-      "age_days": 154,
-      "score": 3065,
+      "created_at": "2026-04-29T03:00:36Z",
+      "age_days": 152,
+      "score": 3387,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -943,19 +942,22 @@
     },
     {
       "rank": 22,
-      "full_name": "dream-num/univer-workspace",
-      "stars": 1666,
-      "stars_gained": 427,
-      "language": "TypeScript",
-      "description": "An open-source Office workspace where people and AI agents create, collaborate, and review together.",
+      "full_name": "yihui-dev/awesome-opus5-5-videos",
+      "stars": 696,
+      "stars_gained": 401,
+      "language": "",
+      "description": "282 viral videos made with Claude Opus 5.5, each with the exact prompt. Watch every original next to a live remake on Skillry.",
       "social": [
         "x"
       ],
-      "created_at": "2026-08-14T09:24:34Z",
-      "age_days": 44,
-      "score": 3008,
-      "suspect": false,
-      "suspect_reasons": [],
+      "created_at": "2026-09-27T06:19:36Z",
+      "age_days": 1,
+      "score": 3248,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "생성 1일 · 스타 696"
+      ],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -963,17 +965,39 @@
     },
     {
       "rank": 23,
-      "full_name": "mvschwarz/openrig",
-      "stars": 905,
-      "stars_gained": 371,
-      "language": "TypeScript",
-      "description": "Multi-agent harness that runs Claude Code and  Codex together as one system",
+      "full_name": "dmtrKovalenko/fframes",
+      "stars": 679,
+      "stars_gained": 511,
+      "language": "Rust",
+      "description": "Write some Rust. Get video. Enjoy ð¥¤ð¿ ",
       "social": [
         "reddit"
       ],
-      "created_at": "2026-04-01T06:22:40Z",
-      "age_days": 179,
-      "score": 2975,
+      "created_at": "2021-11-22T14:40:26Z",
+      "age_days": 1771,
+      "score": 3066,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 24,
+      "full_name": "cs341-illinois/coursebook",
+      "stars": 2482,
+      "stars_gained": 375,
+      "language": "TeX",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "social": [
+        "x"
+      ],
+      "created_at": "2018-01-26T15:30:07Z",
+      "age_days": 3167,
+      "score": 3000,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -982,43 +1006,21 @@
       "stars_delta": null
     },
     {
-      "rank": 24,
-      "full_name": "feitangyuan/onetake",
-      "stars": 529,
-      "stars_gained": 356,
+      "rank": 25,
+      "full_name": "VectifyAI/PageIndex",
+      "stars": 36240,
+      "stars_gained": 364,
       "language": "Python",
-      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "description": "ð PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "social": [
+        "reddit",
         "x"
       ],
-      "created_at": "2026-09-26T05:35:17Z",
-      "age_days": 1,
-      "score": 2882,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "생성 1일 · 스타 529"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 25,
-      "full_name": "CaptainCount/Total-Commander",
-      "stars": 1286,
-      "stars_gained": 330,
-      "language": "",
-      "description": "",
-      "social": [],
-      "created_at": "2026-06-13T12:13:08Z",
-      "age_days": 106,
-      "score": 2666,
+      "created_at": "2025-04-01T10:53:54Z",
+      "age_days": 545,
+      "score": 2916,
       "suspect": false,
-      "suspect_reasons": [
-        "설명·언어 없음"
-      ],
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -1028,350 +1030,9 @@
   "weekly": [
     {
       "rank": 1,
-      "full_name": "NandhaKishorM/laya",
-      "stars": 26686,
-      "stars_gained": 22709,
-      "language": "Python",
-      "description": "",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-09-18T04:46:33Z",
-      "age_days": 9,
-      "score": 278532,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 1,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 871
-    },
-    {
-      "rank": 2,
-      "full_name": "vectorize-io/hindsight",
-      "stars": 37177,
-      "stars_gained": 13108,
-      "language": "Python",
-      "description": "Hindsight: Agent Memory That Learns",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2025-10-30T11:49:48Z",
-      "age_days": 332,
-      "score": 162940,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 3,
-      "rank_delta": 1,
-      "status": "up",
-      "stars_delta": 5082
-    },
-    {
-      "rank": 3,
-      "full_name": "google/ax",
-      "stars": 12152,
-      "stars_gained": 9261,
-      "language": "Go",
-      "description": "Google's open agentic orchestration runtime",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-03-30T17:55:01Z",
-      "age_days": 181,
-      "score": 112428,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 2,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 246
-    },
-    {
-      "rank": 4,
-      "full_name": "paperclipai/paperclip",
-      "stars": 89714,
-      "stars_gained": 8575,
-      "language": "TypeScript",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-03-02T15:01:51Z",
-      "age_days": 209,
-      "score": 104763,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 5,
-      "rank_delta": 1,
-      "status": "up",
-      "stars_delta": 2534
-    },
-    {
-      "rank": 5,
-      "full_name": "hydra-db/hydradb",
-      "stars": 10883,
-      "stars_gained": 7694,
-      "language": "Rust",
-      "description": "HydraDB - fast graph database on object storage",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-07-03T05:34:15Z",
-      "age_days": 86,
-      "score": 102519,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 6,
-      "rank_delta": 1,
-      "status": "up",
-      "stars_delta": 2894
-    },
-    {
-      "rank": 6,
-      "full_name": "rocketride-org/rocketride-server",
-      "stars": 15828,
-      "stars_gained": 7352,
-      "language": "Python",
-      "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-02-11T17:02:53Z",
-      "age_days": 228,
-      "score": 96339,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 9,
-      "rank_delta": 3,
-      "status": "up",
-      "stars_delta": 2779
-    },
-    {
-      "rank": 7,
-      "full_name": "eternity4719/HowToLiveBetter",
-      "stars": 20551,
-      "stars_gained": 12052,
-      "language": "HTML",
-      "description": "354 æ¡å¾ªè¯å»ºè®®ï¼è¦çé¿å¯¿é²çãæ¥æãçé±çè´¢ãæ³å¾çº¢çº¿ãå¤±ä¸ä¸å·¥ä¼¤ãå»ä¿ç¤¾ä¿ãæç±å©è²ãåºå½ä¸æè½ãæ¯æ¡åæææ¬ãæ¶çãè¯æ®ç­çº§ååå§åºå¤ï¼åªå¼æåè®ºæä¸å®æ¹æä»¶ã",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-09-07T01:53:36Z",
-      "age_days": 20,
-      "score": 89993,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 7,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 2380
-    },
-    {
-      "rank": 8,
-      "full_name": "jaredpalmer/kev",
-      "stars": 7404,
-      "stars_gained": 6401,
-      "language": "Python",
-      "description": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-09-17T20:49:39Z",
-      "age_days": 10,
-      "score": 78039,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 4,
-      "rank_delta": -4,
-      "status": "down",
-      "stars_delta": 200
-    },
-    {
-      "rank": 9,
-      "full_name": "dream-num/univer",
-      "stars": 20128,
-      "stars_gained": 5627,
-      "language": "TypeScript",
-      "description": "The Office Harness for AI Agents â Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2022-09-29T12:09:14Z",
-      "age_days": 1459,
-      "score": 68553,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 12,
-      "rank_delta": 3,
-      "status": "up",
-      "stars_delta": 948
-    },
-    {
-      "rank": 10,
-      "full_name": "jev-chat/jev-chat-jarvis",
-      "stars": 6772,
-      "stars_gained": 6712,
-      "language": "Kotlin",
-      "description": "",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-09-21T11:12:53Z",
-      "age_days": 6,
-      "score": 63045,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 8,
-      "rank_delta": -2,
-      "status": "down",
-      "stars_delta": 103
-    },
-    {
-      "rank": 11,
-      "full_name": "mizorewww/laya-mlx",
-      "stars": 6481,
-      "stars_gained": 4849,
-      "language": "Python",
-      "description": "Native MLX runtime for Laya typed decision models â 7â14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-09-19T13:50:26Z",
-      "age_days": 8,
-      "score": 59487,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 10,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 62
-    },
-    {
-      "rank": 12,
-      "full_name": "zai-org/ZCode",
-      "stars": 6892,
-      "stars_gained": 5952,
-      "language": "TypeScript",
-      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-09-20T12:01:16Z",
-      "age_days": 7,
-      "score": 58185,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 11,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 60
-    },
-    {
-      "rank": 13,
-      "full_name": "rohitg00/ai-engineering-from-scratch",
-      "stars": 59218,
-      "stars_gained": 4125,
-      "language": "Python",
-      "description": "Learn it. Build it. Ship it for others.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-03-18T18:38:02Z",
-      "age_days": 193,
-      "score": 50920,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 15,
-      "rank_delta": 2,
-      "status": "up",
-      "stars_delta": 889
-    },
-    {
-      "rank": 14,
-      "full_name": "browser-use/jev-ultrafast",
-      "stars": 20798,
-      "stars_gained": 9033,
-      "language": "Python",
-      "description": "",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-09-16T21:30:12Z",
-      "age_days": 11,
-      "score": 49204,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 13,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 252
-    },
-    {
-      "rank": 15,
-      "full_name": "Mak5er/AirCard",
-      "stars": 4547,
-      "stars_gained": 3992,
-      "language": "Swift",
-      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-09-16T22:20:15Z",
-      "age_days": 11,
-      "score": 48475,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 14,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 195
-    },
-    {
-      "rank": 16,
-      "full_name": "farion1231/cc-switch",
-      "stars": 137479,
-      "stars_gained": 3651,
-      "language": "Rust",
-      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2025-08-04T14:16:16Z",
-      "age_days": 419,
-      "score": 44236,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 16,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 316
-    },
-    {
-      "rank": 17,
       "full_name": "debpalash/VoiceStudio",
-      "stars": 39877,
-      "stars_gained": 6451,
+      "stars": 43732,
+      "stars_gained": 3848,
       "language": "Python",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative â voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "social": [
@@ -1380,8 +1041,346 @@
         "x"
       ],
       "created_at": "2026-04-09T21:40:26Z",
-      "age_days": 171,
-      "score": 38182,
+      "age_days": 172,
+      "score": 18254,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 17,
+      "rank_delta": 16,
+      "status": "up",
+      "stars_delta": 3855
+    },
+    {
+      "rank": 2,
+      "full_name": "eternity4719/HowToLiveBetter",
+      "stars": 24459,
+      "stars_gained": 3884,
+      "language": "HTML",
+      "description": "354 æ¡å¾ªè¯å»ºè®®ï¼è¦çé¿å¯¿é²çãæ¥æãçé±çè´¢ãæ³å¾çº¢çº¿ãå¤±ä¸ä¸å·¥ä¼¤ãå»ä¿ç¤¾ä¿ãæç±å©è²ãåºå½ä¸æè½ãæ¯æ¡åæææ¬ãæ¶çãè¯æ®ç­çº§ååå§åºå¤ï¼åªå¼æåè®ºæä¸å®æ¹æä»¶ã",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-07T01:53:36Z",
+      "age_days": 21,
+      "score": 15608,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 7,
+      "rank_delta": 5,
+      "status": "up",
+      "stars_delta": 3908
+    },
+    {
+      "rank": 3,
+      "full_name": "vectorize-io/hindsight",
+      "stars": 40891,
+      "stars_gained": 3682,
+      "language": "Python",
+      "description": "Hindsight: Agent Memory That Learns",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-10-30T11:49:48Z",
+      "age_days": 333,
+      "score": 14021,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 2,
+      "rank_delta": -1,
+      "status": "down",
+      "stars_delta": 3714
+    },
+    {
+      "rank": 4,
+      "full_name": "paperclipai/paperclip",
+      "stars": 92668,
+      "stars_gained": 2919,
+      "language": "TypeScript",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-02T15:01:51Z",
+      "age_days": 210,
+      "score": 11709,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 4,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 2954
+    },
+    {
+      "rank": 5,
+      "full_name": "cdyforever/how-to-live-better",
+      "stars": 3834,
+      "stars_gained": 1572,
+      "language": "HTML",
+      "description": "ãé«æ§ä»·æ¯äººçæåãå¨ä¹¦ 528 æ¡çå¨çº¿åé¡µéè¯»çï¼ææºå¯è¯»ãå¯æç´¢ãé¶ä¾èµãæ¯æç¦»çº¿",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-09-18T14:35:08Z",
+      "age_days": 10,
+      "score": 8298,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 6,
+      "full_name": "ifixai-ai/iFixAi",
+      "stars": 16323,
+      "stars_gained": 618,
+      "language": "Python",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-27T13:02:34Z",
+      "age_days": 154,
+      "score": 7428,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 7,
+      "full_name": "NVIDIA/OpenShell",
+      "stars": 9362,
+      "stars_gained": 552,
+      "language": "Rust",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-02-24T22:52:22Z",
+      "age_days": 216,
+      "score": 6627,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 8,
+      "full_name": "hydra-db/hydradb",
+      "stars": 12271,
+      "stars_gained": 1388,
+      "language": "Rust",
+      "description": "HydraDB - fast graph database on object storage",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-07-03T05:34:15Z",
+      "age_days": 87,
+      "score": 4986,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 5,
+      "rank_delta": -3,
+      "status": "down",
+      "stars_delta": 1388
+    },
+    {
+      "rank": 9,
+      "full_name": "rocketride-org/rocketride-server",
+      "stars": 17206,
+      "stars_gained": 1378,
+      "language": "Python",
+      "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-02-11T17:02:53Z",
+      "age_days": 229,
+      "score": 4862,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 6,
+      "rank_delta": -3,
+      "status": "down",
+      "stars_delta": 1378
+    },
+    {
+      "rank": 10,
+      "full_name": "dmtrKovalenko/fframes",
+      "stars": 679,
+      "stars_gained": 511,
+      "language": "Rust",
+      "description": "Write some Rust. Get video. Enjoy ð¥¤ð¿ ",
+      "social": [
+        "reddit"
+      ],
+      "created_at": "2021-11-22T14:40:26Z",
+      "age_days": 1771,
+      "score": 4599,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 11,
+      "full_name": "VectifyAI/PageIndex",
+      "stars": 36240,
+      "stars_gained": 364,
+      "language": "Python",
+      "description": "ð PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-04-01T10:53:54Z",
+      "age_days": 545,
+      "score": 4374,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 12,
+      "full_name": "dzhng/jevgrep",
+      "stars": 1367,
+      "stars_gained": 668,
+      "language": "TypeScript",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-26T04:06:56Z",
+      "age_days": 2,
+      "score": 4370,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 13,
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "stars": 60356,
+      "stars_gained": 1122,
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-18T18:38:02Z",
+      "age_days": 194,
+      "score": 4282,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 13,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 1138
+    },
+    {
+      "rank": 14,
+      "full_name": "mvschwarz/openrig",
+      "stars": 1649,
+      "stars_gained": 742,
+      "language": "TypeScript",
+      "description": "Multi-agent harness that runs Claude Code and  Codex together as one system",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-01T06:22:40Z",
+      "age_days": 180,
+      "score": 4102,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 15,
+      "full_name": "stablyai/orca",
+      "stars": 80666,
+      "stars_gained": 1132,
+      "language": "TypeScript",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-17T03:28:57Z",
+      "age_days": 195,
+      "score": 4036,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 19,
+      "rank_delta": 4,
+      "status": "up",
+      "stars_delta": 1148
+    },
+    {
+      "rank": 16,
+      "full_name": "dream-num/univer",
+      "stars": 21212,
+      "stars_gained": 1075,
+      "language": "TypeScript",
+      "description": "The Office Harness for AI Agents â Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2022-09-29T12:09:14Z",
+      "age_days": 1460,
+      "score": 3849,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 9,
+      "rank_delta": -7,
+      "status": "down",
+      "stars_delta": 1084
+    },
+    {
+      "rank": 17,
+      "full_name": "oblien/openship",
+      "stars": 13416,
+      "stars_gained": 578,
+      "language": "TypeScript",
+      "description": "Self-hosted deployment platform",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-05T20:16:56Z",
+      "age_days": 207,
+      "score": 3839,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -1391,164 +1390,19 @@
     },
     {
       "rank": 18,
-      "full_name": "pacifio/atlas",
-      "stars": 8032,
-      "stars_gained": 3303,
-      "language": "Rust",
-      "description": "Source control for agents",
+      "full_name": "Niko1221/Strata",
+      "stars": 1021,
+      "stars_gained": 575,
+      "language": "C++",
+      "description": "Qwen3.8-Flash-Next (125B MoE) on a 12-24 GB NVIDIA GPU + 64 GB RAM: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
       "social": [
         "hackernews",
         "reddit",
         "x"
       ],
-      "created_at": "2026-05-14T16:48:52Z",
-      "age_days": 136,
-      "score": 37762,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 23,
-      "rank_delta": 5,
-      "status": "up",
-      "stars_delta": 644
-    },
-    {
-      "rank": 19,
-      "full_name": "stablyai/orca",
-      "stars": 79518,
-      "stars_gained": 5969,
-      "language": "TypeScript",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-03-17T03:28:57Z",
-      "age_days": 194,
-      "score": 37179,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 17,
-      "rank_delta": -2,
-      "status": "down",
-      "stars_delta": 626
-    },
-    {
-      "rank": 20,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 237649,
-      "stars_gained": 6470,
-      "language": "TypeScript",
-      "description": "",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-08-13T11:56:32Z",
-      "age_days": 45,
-      "score": 35150,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 19,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 830
-    },
-    {
-      "rank": 21,
-      "full_name": "shengjidaguai-china/goutoujunshi",
-      "stars": 5582,
-      "stars_gained": 2566,
-      "language": "Python",
-      "description": "ä¸ä¸ªåæ¥ä½æç»ªãååæå³ç³»å¹¶ç»åºå¯æ§è¡ç­ç¥ç Codex æç±åå¸ï¼åç½®å¿çãæ³å¾ãç¤¾ä¼ãäººæãå²å­¦ãå©å§»å®¶åº­ä¸æ§å­¦ç¥è¯åºï¼æ¯æå¤åå³ç³»ã",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-07-20T14:58:48Z",
-      "age_days": 69,
-      "score": 31458,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 22,
-      "rank_delta": 1,
-      "status": "up",
-      "stars_delta": 292
-    },
-    {
-      "rank": 22,
-      "full_name": "anthropics/financial-services",
-      "stars": 37851,
-      "stars_gained": 2505,
-      "language": "Python",
-      "description": null,
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-02-23T19:24:50Z",
-      "age_days": 216,
-      "score": 30708,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 20,
-      "rank_delta": -2,
-      "status": "down",
-      "stars_delta": 164
-    },
-    {
-      "rank": 23,
-      "full_name": "Nasiko-Labs/nasiko",
-      "stars": 8996,
-      "stars_gained": 2330,
-      "language": "Python",
-      "description": "Developer Control Plane for your AI Agents",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-02-12T10:45:29Z",
-      "age_days": 227,
-      "score": 30060,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 18,
-      "rank_delta": -5,
-      "status": "down",
-      "stars_delta": 65
-    },
-    {
-      "rank": 24,
-      "full_name": "Albert-Weasker/niubigeo",
-      "stars": 4855,
-      "stars_gained": 2325,
-      "language": "TypeScript",
-      "description": "Open-source AI brand visibility and competitor reports",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-09-03T15:55:54Z",
-      "age_days": 24,
-      "score": 28533,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 21,
-      "rank_delta": -3,
-      "status": "down",
-      "stars_delta": 4
-    },
-    {
-      "rank": 25,
-      "full_name": "newliver666/apk-reverse",
-      "stars": 2697,
-      "stars_gained": 2231,
-      "language": "Python",
-      "description": "Suitable for Android APK reverse engineering analysis",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-09-19T13:12:54Z",
-      "age_days": 8,
-      "score": 27811,
+      "created_at": "2026-09-24T16:40:20Z",
+      "age_days": 4,
+      "score": 3791,
       "suspect": false,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상"
@@ -1557,67 +1411,265 @@
       "rank_delta": null,
       "status": "new",
       "stars_delta": null
+    },
+    {
+      "rank": 19,
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 238716,
+      "stars_gained": 1060,
+      "language": "TypeScript",
+      "description": "",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-08-13T11:56:32Z",
+      "age_days": 46,
+      "score": 3747,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 20,
+      "rank_delta": 1,
+      "status": "up",
+      "stars_delta": 1067
+    },
+    {
+      "rank": 20,
+      "full_name": "cloudflare/forge",
+      "stars": 477,
+      "stars_gained": 395,
+      "language": "TypeScript",
+      "description": "",
+      "social": [],
+      "created_at": "2026-09-21T15:17:42Z",
+      "age_days": 7,
+      "score": 3555,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "생성 7일 · 스타 477"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 21,
+      "full_name": "cloudflare/nimbus",
+      "stars": 1293,
+      "stars_gained": 292,
+      "language": "TypeScript",
+      "description": "Docs for humans and agents, built on Astro",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-07-09T09:10:53Z",
+      "age_days": 81,
+      "score": 3504,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 22,
+      "full_name": "mexicat/pdoom-video",
+      "stars": 1750,
+      "stars_gained": 671,
+      "language": "TypeScript",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-24T21:33:53Z",
+      "age_days": 4,
+      "score": 3345,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 23,
+      "full_name": "NandhaKishorM/laya",
+      "stars": 27671,
+      "stars_gained": 978,
+      "language": "Python",
+      "description": "",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-18T04:46:33Z",
+      "age_days": 10,
+      "score": 3093,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 1,
+      "rank_delta": -22,
+      "status": "down",
+      "stars_delta": 985
+    },
+    {
+      "rank": 24,
+      "full_name": "yihui-dev/awesome-opus5-5-videos",
+      "stars": 696,
+      "stars_gained": 401,
+      "language": "",
+      "description": "282 viral videos made with Claude Opus 5.5, each with the exact prompt. Watch every original next to a live remake on Skillry.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-09-27T06:19:36Z",
+      "age_days": 1,
+      "score": 2871,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "생성 1일 · 스타 696"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 25,
+      "full_name": "togg53192-cmd/jailbreaks",
+      "stars": 1705,
+      "stars_gained": 584,
+      "language": "",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-06-18T18:21:25Z",
+      "age_days": 102,
+      "score": 2860,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     }
   ],
-  "daily_suspect_count": 3,
-  "daily_clean_count": 22,
-  "weekly_suspect_count": 0,
-  "weekly_clean_count": 25,
+  "daily_suspect_count": 1,
+  "daily_clean_count": 24,
+  "weekly_suspect_count": 2,
+  "weekly_clean_count": 23,
   "note": "weekly는 주 시작 직후에는 daily와 거의 동일하다. suspect=true 항목은 스타 농장 스팸 의심이니 리포트에서 제외하거나 따로 표시할 것.",
-  "prev_generated_at_kst": "2026-09-27 08:50:01",
+  "prev_generated_at_kst": "2026-09-28 08:50:01",
   "daily_dropped": [
     {
-      "full_name": "tigerless-labs/autoharness",
-      "rank_prev": 5
+      "full_name": "juspay/hyperswitch",
+      "rank_prev": 9
     },
     {
-      "full_name": "Toothbentweezers/xvsilhuu",
-      "rank_prev": 7
-    },
-    {
-      "full_name": "spinabot/brigade",
+      "full_name": "newliver666/apk-reverse",
       "rank_prev": 10
     },
     {
-      "full_name": "cclank/lanshu-create-ai-presenter-video",
+      "full_name": "latent-spaces/brag",
+      "rank_prev": 12
+    },
+    {
+      "full_name": "mobile-next/mobile-mcp",
       "rank_prev": 14
     },
     {
-      "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+      "full_name": "reladraw/reladraw",
+      "rank_prev": 15
+    },
+    {
+      "full_name": "satnaing/shadcn-admin",
       "rank_prev": 16
     },
     {
-      "full_name": "tobi/disktree",
+      "full_name": "pacifio/atlas",
       "rank_prev": 18
     },
     {
-      "full_name": "feder-cr/jev",
-      "rank_prev": 19
+      "full_name": "Human-Agent-Society/reef",
+      "rank_prev": 20
     },
     {
-      "full_name": "cs341-illinois/coursebook",
-      "rank_prev": 22
+      "full_name": "open-slide/open-slide",
+      "rank_prev": 21
     },
     {
-      "full_name": "InspectorThaw/Discord-Quest-Completer",
-      "rank_prev": 23
-    },
-    {
-      "full_name": "sindresorhus/awesome",
+      "full_name": "feitangyuan/onetake",
       "rank_prev": 24
     },
     {
-      "full_name": "devdotfast/whiteboard",
+      "full_name": "CaptainCount/Total-Commander",
       "rank_prev": 25
     }
   ],
   "weekly_dropped": [
     {
-      "full_name": "browser-use/video-use",
+      "full_name": "google/ax",
+      "rank_prev": 3
+    },
+    {
+      "full_name": "jaredpalmer/kev",
+      "rank_prev": 8
+    },
+    {
+      "full_name": "jev-chat/jev-chat-jarvis",
+      "rank_prev": 10
+    },
+    {
+      "full_name": "mizorewww/laya-mlx",
+      "rank_prev": 11
+    },
+    {
+      "full_name": "zai-org/ZCode",
+      "rank_prev": 12
+    },
+    {
+      "full_name": "browser-use/jev-ultrafast",
+      "rank_prev": 14
+    },
+    {
+      "full_name": "Mak5er/AirCard",
+      "rank_prev": 15
+    },
+    {
+      "full_name": "farion1231/cc-switch",
+      "rank_prev": 16
+    },
+    {
+      "full_name": "pacifio/atlas",
+      "rank_prev": 18
+    },
+    {
+      "full_name": "shengjidaguai-china/goutoujunshi",
+      "rank_prev": 21
+    },
+    {
+      "full_name": "anthropics/financial-services",
+      "rank_prev": 22
+    },
+    {
+      "full_name": "Nasiko-Labs/nasiko",
+      "rank_prev": 23
+    },
+    {
+      "full_name": "Albert-Weasker/niubigeo",
       "rank_prev": 24
     },
     {
-      "full_name": "ChenLiu-1996/figures4papers",
+      "full_name": "newliver666/apk-reverse",
       "rank_prev": 25
     }
   ]
