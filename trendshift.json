@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-20T23:50:01.151362+00:00",
-  "generated_at_kst": "2026-10-21 08:50:01",
+  "generated_at": "2026-10-21T23:50:00.899239+00:00",
+  "generated_at_kst": "2026-10-22 08:50:00",
   "source": "trendshift.io (scraped from SSR payload)",
   "huggingface": {
     "models": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 1948,
-        "downloads": 27737,
+        "likes": 2159,
+        "downloads": 42122,
         "pipeline_tag": "image-text-to-text",
         "tags": [
           "transformers",
@@ -25,12 +25,12 @@
         "gated": false,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "status": "same",
-        "likes_delta": 263
+        "likes_delta": 211
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 1089,
-        "downloads": 439528,
+        "likes": 1186,
+        "downloads": 490447,
         "pipeline_tag": "image-to-image",
         "tags": [
           "diffusion-single-file",
@@ -50,37 +50,12 @@
         "gated": false,
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
         "status": "same",
-        "likes_delta": 127
-      },
-      {
-        "id": "fishaudio/drama-3",
-        "likes": 835,
-        "downloads": 13495,
-        "pipeline_tag": "text-to-speech",
-        "tags": [
-          "safetensors",
-          "fish_omni",
-          "fish-audio",
-          "text-to-speech",
-          "multi-speaker",
-          "audio-editing",
-          "emotional-speech-generation",
-          "zh",
-          "en",
-          "ja",
-          "ko",
-          "es"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/fishaudio/drama-3",
-        "status": "same",
-        "likes_delta": 66
+        "likes_delta": 97
       },
       {
         "id": "meta-models/Muse-Spark-Open-816B-A42B",
-        "likes": 607,
-        "downloads": 2592,
+        "likes": 636,
+        "downloads": 2891,
         "pipeline_tag": "image-text-to-text",
         "tags": [
           "transformers",
@@ -100,37 +75,37 @@
         "gated": false,
         "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
         "status": "same",
-        "likes_delta": 27
+        "likes_delta": 29
       },
       {
-        "id": "google/embeddinggemma-2",
-        "likes": 2763,
-        "downloads": 172474,
-        "pipeline_tag": "feature-extraction",
+        "id": "fishaudio/drama-3",
+        "likes": 887,
+        "downloads": 15274,
+        "pipeline_tag": "text-to-speech",
         "tags": [
-          "transformers",
           "safetensors",
-          "embedding_gemma2",
-          "feature-extraction",
-          "embedding",
-          "sentence-transformers",
-          "multimodal-embedding",
-          "multimodal",
-          "vision",
-          "audio",
-          "video",
-          "image-feature-extraction"
+          "fish_omni",
+          "fish-audio",
+          "text-to-speech",
+          "multi-speaker",
+          "audio-editing",
+          "emotional-speech-generation",
+          "zh",
+          "en",
+          "ja",
+          "ko",
+          "es"
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/google/embeddinggemma-2",
+        "url": "https://huggingface.co/fishaudio/drama-3",
         "status": "same",
-        "likes_delta": 38
+        "likes_delta": 52
       },
       {
         "id": "black-forest-labs/flux-3-image-klein",
-        "likes": 564,
-        "downloads": 78897,
+        "likes": 599,
+        "downloads": 92604,
         "pipeline_tag": "image-to-image",
         "tags": [
           "diffusers",
@@ -149,12 +124,12 @@
         "gated": false,
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
         "status": "same",
-        "likes_delta": 37
+        "likes_delta": 35
       },
       {
         "id": "OpenMOSS-Team/MOSS-Image-SFT",
-        "likes": 495,
-        "downloads": 4547,
+        "likes": 532,
+        "downloads": 5840,
         "pipeline_tag": "text-to-image",
         "tags": [
           "diffusers",
@@ -173,38 +148,36 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 37
       },
       {
-        "id": "jialinyyzz/humanizer",
-        "likes": 2022,
-        "downloads": 115341,
-        "pipeline_tag": "text-generation",
+        "id": "OpenMOSS-Team/MOSS-Image-Base",
+        "likes": 465,
+        "downloads": 4344,
+        "pipeline_tag": "text-to-image",
         "tags": [
-          "gguf",
+          "diffusers",
           "safetensors",
-          "gemma4_unified",
-          "image-text-to-text",
-          "humanizer",
-          "transformers",
-          "text-rewriting",
-          "rewriting",
-          "paraphrase",
-          "style-transfer",
-          "llama.cpp",
-          "gemma4"
+          "moss-image",
+          "text-to-image",
+          "en",
+          "zh",
+          "arxiv:2610.23374",
+          "license:apache-2.0",
+          "diffusers:MOSSImagePipeline",
+          "region:us"
         ],
-        "mac_ready": true,
+        "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/jialinyyzz/humanizer",
+        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
         "status": "same",
-        "likes_delta": 36
+        "likes_delta": 32
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 8621,
-        "downloads": 2039447,
+        "likes": 8753,
+        "downloads": 2057942,
         "pipeline_tag": "image-to-video",
         "tags": [
           "diffusion-single-file",
@@ -224,36 +197,63 @@
         "gated": false,
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "status": "same",
-        "likes_delta": 137
+        "likes_delta": 132
       },
       {
-        "id": "OpenMOSS-Team/MOSS-Image-Base",
-        "likes": 433,
-        "downloads": 3558,
-        "pipeline_tag": "text-to-image",
+        "id": "google/embeddinggemma-2",
+        "likes": 2805,
+        "downloads": 179734,
+        "pipeline_tag": "feature-extraction",
         "tags": [
-          "diffusers",
+          "transformers",
           "safetensors",
-          "moss-image",
-          "text-to-image",
-          "en",
-          "zh",
-          "arxiv:2610.23374",
-          "license:apache-2.0",
-          "diffusers:MOSSImagePipeline",
-          "region:us"
+          "embedding_gemma2",
+          "feature-extraction",
+          "embedding",
+          "sentence-transformers",
+          "multimodal-embedding",
+          "multimodal",
+          "vision",
+          "audio",
+          "video",
+          "image-feature-extraction"
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
-        "status": "new",
-        "likes_delta": null
+        "url": "https://huggingface.co/google/embeddinggemma-2",
+        "status": "same",
+        "likes_delta": 42
+      },
+      {
+        "id": "jialinyyzz/humanizer",
+        "likes": 2063,
+        "downloads": 120930,
+        "pipeline_tag": "text-generation",
+        "tags": [
+          "gguf",
+          "safetensors",
+          "gemma4_unified",
+          "image-text-to-text",
+          "humanizer",
+          "transformers",
+          "text-rewriting",
+          "rewriting",
+          "paraphrase",
+          "style-transfer",
+          "llama.cpp",
+          "gemma4"
+        ],
+        "mac_ready": true,
+        "gated": false,
+        "url": "https://huggingface.co/jialinyyzz/humanizer",
+        "status": "same",
+        "likes_delta": 41
       }
     ],
     "spaces": [
       {
         "id": "kulkas2pintu/wan777",
-        "likes": 733,
+        "likes": 790,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -265,27 +265,11 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/kulkas2pintu/wan777",
         "status": "same",
-        "likes_delta": 47
-      },
-      {
-        "id": "hugging-apps/bfs-best-face-swap",
-        "likes": 394,
-        "downloads": null,
-        "pipeline_tag": null,
-        "tags": [
-          "gradio",
-          "mcp-server",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
-        "status": "same",
-        "likes_delta": 39
+        "likes_delta": 57
       },
       {
         "id": "black-forest-labs/flux-3-image-klein",
-        "likes": 134,
+        "likes": 166,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -297,26 +281,27 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/black-forest-labs/flux-3-image-klein",
         "status": "same",
-        "likes_delta": 17
+        "likes_delta": 32
       },
       {
-        "id": "multimodalart/jev-decision-index",
-        "likes": 745,
+        "id": "hugging-apps/bfs-best-face-swap",
+        "likes": 427,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
-          "static",
+          "gradio",
+          "mcp-server",
           "region:us"
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/spaces/multimodalart/jev-decision-index",
+        "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
         "status": "same",
-        "likes_delta": 15
+        "likes_delta": 33
       },
       {
         "id": "OpenMOSS-Team/MOSS-Image",
-        "likes": 109,
+        "likes": 124,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -328,35 +313,44 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/OpenMOSS-Team/MOSS-Image",
         "status": "same",
-        "likes_delta": 20
+        "likes_delta": 15
       },
       {
-        "id": "fishaudio/Drama-3",
-        "likes": 104,
+        "id": "multimodalart/jev-decision-index",
+        "likes": 764,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
-          "gradio",
-          "text-to-speech",
-          "fish-audio",
-          "zerogpu",
-          "voice-cloning",
-          "voice-design",
-          "streaming",
+          "static",
           "region:us"
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/spaces/fishaudio/Drama-3",
+        "url": "https://huggingface.co/spaces/multimodalart/jev-decision-index",
         "status": "same",
-        "likes_delta": 14
+        "likes_delta": 19
+      },
+      {
+        "id": "AST-1320/Qwen-2511-Plus-Flux.2-klein",
+        "likes": 194,
+        "downloads": null,
+        "pipeline_tag": null,
+        "tags": [
+          "gradio",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/spaces/AST-1320/Qwen-2511-Plus-Flux.2-klein",
+        "status": "new",
+        "likes_delta": null
       }
     ],
     "datasets": [
       {
         "id": "nvidia/Nemotron-Personas-Vietnam",
-        "likes": 177,
-        "downloads": 10890,
+        "likes": 188,
+        "downloads": 12665,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-generation",
@@ -376,12 +370,12 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Vietnam",
         "status": "same",
-        "likes_delta": 20
+        "likes_delta": 11
       },
       {
         "id": "datasocial/tiktok-5.6B-videos",
-        "likes": 388,
-        "downloads": 25678,
+        "likes": 398,
+        "downloads": 27357,
         "pipeline_tag": null,
         "tags": [
           "license:cc-by-nc-4.0",
@@ -401,12 +395,12 @@
         "gated": true,
         "url": "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos",
         "status": "same",
-        "likes_delta": 21
+        "likes_delta": 10
       },
       {
         "id": "venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
-        "likes": 368,
-        "downloads": 151421,
+        "likes": 392,
+        "downloads": 154796,
         "pipeline_tag": null,
         "tags": [
           "license:other",
@@ -426,34 +420,12 @@
         "gated": true,
         "url": "https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
         "status": "same",
-        "likes_delta": 40
-      },
-      {
-        "id": "DeepLethe/FDE-Gym",
-        "likes": 59,
-        "downloads": 353,
-        "pipeline_tag": null,
-        "tags": [
-          "language:en",
-          "license:other",
-          "size_categories:n<1K",
-          "arxiv:2610.22350",
-          "region:us",
-          "benchmark",
-          "agents",
-          "forward-deployed-engineering",
-          "enterprise"
-        ],
-        "mac_ready": false,
-        "gated": true,
-        "url": "https://huggingface.co/datasets/DeepLethe/FDE-Gym",
-        "status": "new",
-        "likes_delta": null
+        "likes_delta": 24
       },
       {
         "id": "Vyber07/cyber-security",
-        "likes": 209,
-        "downloads": 3509,
+        "likes": 234,
+        "downloads": 3557,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-generation",
@@ -472,13 +444,35 @@
         "mac_ready": false,
         "gated": true,
         "url": "https://huggingface.co/datasets/Vyber07/cyber-security",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 25
+      },
+      {
+        "id": "DeepLethe/FDE-Gym",
+        "likes": 60,
+        "downloads": 362,
+        "pipeline_tag": null,
+        "tags": [
+          "language:en",
+          "license:other",
+          "size_categories:n<1K",
+          "arxiv:2610.22350",
+          "region:us",
+          "benchmark",
+          "agents",
+          "forward-deployed-engineering",
+          "enterprise"
+        ],
+        "mac_ready": false,
+        "gated": true,
+        "url": "https://huggingface.co/datasets/DeepLethe/FDE-Gym",
+        "status": "same",
+        "likes_delta": 1
       },
       {
         "id": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
-        "likes": 372,
-        "downloads": 5606,
+        "likes": 376,
+        "downloads": 5497,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-generation",
@@ -498,37 +492,16 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
         "status": "same",
-        "likes_delta": 12
+        "likes_delta": 4
       }
     ]
   },
   "daily": [
     {
       "rank": 1,
-      "full_name": "deepseek-ai/DeepInfer",
-      "stars": 11974,
-      "stars_gained": 9168,
-      "language": "Python",
-      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "social": [
-        "hackernews",
-        "x"
-      ],
-      "created_at": "2026-10-16T07:47:23Z",
-      "age_days": 4,
-      "score": 55008,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 2,
       "full_name": "Gathin23/cleanyourtv",
-      "stars": 11288,
-      "stars_gained": 6389,
+      "stars": 18689,
+      "stars_gained": 7307,
       "language": "Java",
       "description": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
       "social": [
@@ -536,105 +509,41 @@
         "x"
       ],
       "created_at": "2026-10-17T08:12:35Z",
-      "age_days": 3,
-      "score": 44947,
+      "age_days": 4,
+      "score": 46144,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 2,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 6419
-    },
-    {
-      "rank": 3,
-      "full_name": "YuJunZhiXue/dsh-purge",
-      "stars": 11070,
-      "stars_gained": 2315,
-      "language": "JavaScript",
-      "description": "DeepSeek Harness ç ´ç²ï¼è®©æææ¨¡åé½è½ç ´ç²ï¼ä¸åæ¨¡åå¯æ¢ä¸åæç¤ºè¯ï¼é»è®¤æç¤ºè¯é¢åå½æ¨¡ãå°ç é±ããJailbreak for every model â swap prompts per model. æ± Star æ¶è â­ å¦è¦äºå¼ï¼è¯·æ¥çç½²åè¦æ±é¨å",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-08-19T07:41:12Z",
-      "age_days": 62,
-      "score": 19604,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 7,
-      "rank_delta": 4,
+      "rank_delta": 1,
       "status": "up",
-      "stars_delta": 2357
+      "stars_delta": 7401
     },
     {
-      "rank": 4,
-      "full_name": "google-research/harness2",
-      "stars": 15239,
-      "stars_gained": 3549,
+      "rank": 2,
+      "full_name": "deepseek-ai/DeepInfer",
+      "stars": 17758,
+      "stars_gained": 5705,
       "language": "Python",
-      "description": "",
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "social": [
         "hackernews",
         "x"
       ],
-      "created_at": "2026-10-06T21:48:11Z",
-      "age_days": 14,
-      "score": 17482,
+      "created_at": "2026-10-16T07:47:23Z",
+      "age_days": 5,
+      "score": 40651,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 1,
-      "rank_delta": -3,
-      "status": "down",
-      "stars_delta": 3606
-    },
-    {
-      "rank": 5,
-      "full_name": "MadsLorentzen/ai-job-search",
-      "stars": 60416,
-      "stars_gained": 3305,
-      "language": "Python",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-03-18T14:33:04Z",
-      "age_days": 216,
-      "score": 14904,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 3,
-      "rank_delta": -2,
-      "status": "down",
-      "stars_delta": 3356
-    },
-    {
-      "rank": 6,
-      "full_name": "morluto/rea",
-      "stars": 347537,
-      "stars_gained": 11173,
-      "language": "TypeScript",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-04-14T00:51:32Z",
-      "age_days": 189,
-      "score": 13236,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 5,
       "rank_delta": -1,
       "status": "down",
-      "stars_delta": 11325
+      "stars_delta": 5784
     },
     {
-      "rank": 7,
+      "rank": 3,
       "full_name": "cloudflare/security-audit-skill",
-      "stars": 34054,
-      "stars_gained": 1558,
+      "stars": 36273,
+      "stars_gained": 2175,
       "language": "JavaScript",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "social": [
@@ -643,176 +552,262 @@
         "x"
       ],
       "created_at": "2026-06-18T14:08:44Z",
-      "age_days": 124,
-      "score": 12309,
+      "age_days": 125,
+      "score": 17484,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 9,
-      "rank_delta": 2,
+      "rank_prev": 7,
+      "rank_delta": 4,
       "status": "up",
-      "stars_delta": 1582
+      "stars_delta": 2219
     },
     {
-      "rank": 8,
-      "full_name": "xerj-org/xerj",
-      "stars": 12420,
-      "stars_gained": 1922,
-      "language": "Rust",
-      "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+      "rank": 4,
+      "full_name": "pengchujin/aerial-tv",
+      "stars": 2010,
+      "stars_gained": 1476,
+      "language": "Kotlin",
+      "description": "ç»å½äº§çµè§çä¸åå¹²åæ¡é¢ï¼åç§ tvOS è®¾è®¡çå¼æº Android TV æ¡é¢ï¼æ²¡æå¹¿åï¼å¼æºèªå¨æ¥ç®¡ãA tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "social": [
         "x"
       ],
-      "created_at": "2026-06-30T04:32:45Z",
-      "age_days": 112,
-      "score": 11564,
+      "created_at": "2026-10-20T09:13:06Z",
+      "age_days": 1,
+      "score": 12011,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 5,
+      "full_name": "morluto/rea",
+      "stars": 357415,
+      "stars_gained": 9765,
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-14T00:51:32Z",
+      "age_days": 190,
+      "score": 11690,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 6,
-      "rank_delta": -2,
-      "status": "down",
-      "stars_delta": 1933
+      "rank_delta": 1,
+      "status": "up",
+      "stars_delta": 9878
     },
     {
-      "rank": 9,
-      "full_name": "KnifeLemon/Filee",
-      "stars": 7967,
-      "stars_gained": 1587,
-      "language": "C#",
-      "description": "Free, open-source file converter. Convert 180+ formats offline by drag & drop â images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+      "rank": 6,
+      "full_name": "yihui-dev/awesome-opus5-5-videos",
+      "stars": 8463,
+      "stars_gained": 1422,
+      "language": "",
+      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
       "social": [
         "reddit",
         "x"
       ],
-      "created_at": "2026-09-29T20:05:15Z",
-      "age_days": 21,
-      "score": 9263,
+      "created_at": "2026-09-27T06:19:36Z",
+      "age_days": 24,
+      "score": 11506,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 4,
-      "rank_delta": -5,
-      "status": "down",
-      "stars_delta": 1600
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "full_name": "Graphify-Labs/graphify",
+      "stars": 131566,
+      "stars_gained": 1374,
+      "language": "Python",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-03T15:49:07Z",
+      "age_days": 201,
+      "score": 9381,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 18,
+      "rank_delta": 11,
+      "status": "up",
+      "stars_delta": 1396
+    },
+    {
+      "rank": 8,
       "full_name": "ly05010419/MacNativeGames",
-      "stars": 2722,
-      "stars_gained": 1098,
+      "stars": 3812,
+      "stars_gained": 1040,
       "language": "C",
       "description": "",
       "social": [
         "x"
       ],
       "created_at": "2026-10-17T19:52:00Z",
-      "age_days": 3,
-      "score": 8957,
+      "age_days": 4,
+      "score": 8486,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 13,
-      "rank_delta": 3,
+      "rank_prev": 10,
+      "rank_delta": 2,
       "status": "up",
-      "stars_delta": 1092
+      "stars_delta": 1090
     },
     {
-      "rank": 11,
-      "full_name": "tywr/Nordwand-Mono",
-      "stars": 1213,
-      "stars_gained": 1114,
-      "language": "Python",
-      "description": "A compact monospace neo-grotesque font designed for developers (and adventurers).",
-      "social": [
-        "hackernews"
-      ],
-      "created_at": "2026-03-28T02:22:22Z",
-      "age_days": 206,
-      "score": 8914,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 12,
-      "full_name": "deepseek-ai/deepseek-recipe",
-      "stars": 1489,
-      "stars_gained": 1057,
-      "language": "Rust",
-      "description": null,
+      "rank": 9,
+      "full_name": "simbasjungles/free-my-tv",
+      "stars": 2684,
+      "stars_gained": 934,
+      "language": "Java",
+      "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
       "social": [
         "x"
       ],
-      "created_at": "2026-09-10T05:36:48Z",
-      "age_days": 40,
-      "score": 8456,
+      "created_at": "2026-10-19T19:29:01Z",
+      "age_days": 2,
+      "score": 7632,
       "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
+      "suspect_reasons": [],
+      "rank_prev": 16,
+      "rank_delta": 7,
+      "status": "up",
+      "stars_delta": 970
+    },
+    {
+      "rank": 10,
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 171454,
+      "stars_gained": 1930,
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
       ],
+      "created_at": "2026-06-12T00:52:37Z",
+      "age_days": 131,
+      "score": 7539,
+      "suspect": false,
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
       "stars_delta": null
     },
     {
-      "rank": 13,
+      "rank": 11,
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 30810,
-      "stars_gained": 3149,
+      "stars": 33758,
+      "stars_gained": 2939,
       "language": "JavaScript",
       "description": "å¨ dsh éè£ä¸è¿ä¸ªæä»¶å³å¯ï¼æ éç»å½ãæ³¨åæå¡« API Keyï¼å°±è½ä½¿ç¨åæ¬ DeepSeek V4.1 FlashãKimi K3 å¨åçåæ²¿æ¨¡åââå®å¨åè´¹ï¼ä¸ééã All you do is install this plugin in dsh: no login, no sign-up, no API key â the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "social": [
         "x"
       ],
       "created_at": "2026-09-24T16:17:19Z",
-      "age_days": 26,
-      "score": 8300,
+      "age_days": 27,
+      "score": 7277,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 15,
+      "rank_prev": 13,
       "rank_delta": 2,
       "status": "up",
-      "stars_delta": 3159
+      "stars_delta": 2948
     },
     {
-      "rank": 14,
-      "full_name": "Comfy-Org/ComfyUI",
-      "stars": 140713,
-      "stars_gained": 1036,
+      "rank": 12,
+      "full_name": "MadsLorentzen/ai-job-search",
+      "stars": 62906,
+      "stars_gained": 2444,
       "language": "Python",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2023-01-17T03:15:56Z",
-      "age_days": 1372,
-      "score": 8039,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 10,
-      "rank_delta": -4,
-      "status": "down",
-      "stars_delta": 1048
-    },
-    {
-      "rank": 15,
-      "full_name": "kksimp/Mac.apk",
-      "stars": 1514,
-      "stars_gained": 1001,
-      "language": "",
-      "description": "Mac.apk: Run Android apps natively on Apple Silicon Macs",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "social": [
         "hackernews",
         "reddit",
         "x"
       ],
-      "created_at": "2026-05-19T04:32:35Z",
-      "age_days": 154,
-      "score": 8008,
+      "created_at": "2026-03-18T14:33:04Z",
+      "age_days": 217,
+      "score": 7249,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 5,
+      "rank_delta": -7,
+      "status": "down",
+      "stars_delta": 2490
+    },
+    {
+      "rank": 13,
+      "full_name": "stablyai/orca",
+      "stars": 101173,
+      "stars_gained": 1490,
+      "language": "TypeScript",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-17T03:28:57Z",
+      "age_days": 218,
+      "score": 6868,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 17,
+      "rank_delta": 4,
+      "status": "up",
+      "stars_delta": 1500
+    },
+    {
+      "rank": 14,
+      "full_name": "mmparko/dsh-purge",
+      "stars": 1003,
+      "stars_gained": 828,
+      "language": "JavaScript",
+      "description": "DeepSeek Harness ç ´ç² (mirror of YuJunZhiXue/dsh-purge) â ä¸æ¸¸å³å°å åºï¼æ­¤ä¸ºæ¬ä»åºå¨ééåï¼å«å¨é¨åæ¯/73 ä¸ª tag/å®æ´æäº¤åå²ãåä½èç½²åä¸äºå¼è¦æ±è§ README ç½²åç« èã",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-10-13T05:14:47Z",
+      "age_days": 8,
+      "score": 6843,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 15,
+      "full_name": "nuglifeleoji/Sentry",
+      "stars": 1258,
+      "stars_gained": 848,
+      "language": "Python",
+      "description": "Learning to Recover from LLM Agent Failures at Test Time",
+      "social": [
+        "hackernews"
+      ],
+      "created_at": "2026-10-02T00:54:32Z",
+      "age_days": 19,
+      "score": 6832,
       "suspect": false,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상"
@@ -824,21 +819,17 @@
     },
     {
       "rank": 16,
-      "full_name": "simbasjungles/free-my-tv",
-      "stars": 1714,
-      "stars_gained": 1305,
-      "language": "Java",
-      "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-10-19T19:29:01Z",
-      "age_days": 1,
-      "score": 7830,
+      "full_name": "omnimind-ai/OmniInfer",
+      "stars": 1732,
+      "stars_gained": 838,
+      "language": "Rust",
+      "description": "Unified, efficient, and easy-to-use inference infrastructure for edge AI || é¢åç«¯ä¾§ AI çç»ä¸ãé«æãæç¨çæ¨çåºç¡è®¾æ½",
+      "social": [],
+      "created_at": "2026-03-20T12:39:13Z",
+      "age_days": 215,
+      "score": 6704,
       "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -846,40 +837,19 @@
     },
     {
       "rank": 17,
-      "full_name": "stablyai/orca",
-      "stars": 99673,
-      "stars_gained": 1457,
-      "language": "TypeScript",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-03-17T03:28:57Z",
-      "age_days": 217,
-      "score": 6875,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 11,
-      "rank_delta": -6,
-      "status": "down",
-      "stars_delta": 1481
-    },
-    {
-      "rank": 18,
-      "full_name": "Graphify-Labs/graphify",
-      "stars": 130170,
-      "stars_gained": 1024,
-      "language": "Python",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "full_name": "oxc-project/tsrs",
+      "stars": 1733,
+      "stars_gained": 687,
+      "language": "Rust",
+      "description": "Rust port of the TypeScript 7 type checker",
       "social": [
         "hackernews",
         "reddit",
         "x"
       ],
-      "created_at": "2026-04-03T15:49:07Z",
-      "age_days": 200,
-      "score": 6544,
+      "created_at": "2026-10-01T15:14:18Z",
+      "age_days": 20,
+      "score": 5512,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -888,10 +858,10 @@
       "stars_delta": null
     },
     {
-      "rank": 19,
+      "rank": 18,
       "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 255739,
-      "stars_gained": 1304,
+      "stars": 256948,
+      "stars_gained": 1195,
       "language": "TypeScript",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "social": [
@@ -900,26 +870,49 @@
         "x"
       ],
       "created_at": "2026-08-13T11:56:32Z",
-      "age_days": 68,
-      "score": 6520,
+      "age_days": 69,
+      "score": 5475,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 12,
-      "rank_delta": -7,
-      "status": "down",
-      "stars_delta": 1308
+      "rank_prev": 19,
+      "rank_delta": 1,
+      "status": "up",
+      "stars_delta": 1209
+    },
+    {
+      "rank": 19,
+      "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
+      "stars": 2481,
+      "stars_gained": 668,
+      "language": "Python",
+      "description": "74 game-dev skills for AI coding agents â Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÃVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for your engine and task. Runs in Claude Code, Cursor, Kiro, Codex, Copilot, Gemini CLI and more.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-06-24T07:18:39Z",
+      "age_days": 119,
+      "score": 5366,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 20,
-      "full_name": "Meloong-Git/PCL",
-      "stars": 8226,
-      "stars_gained": 690,
-      "language": "Visual Basic .NET",
-      "description": "Minecraft å¯å¨å¨ Plain Craft Launcherï¼PCLï¼ã",
-      "social": [],
-      "created_at": "2022-07-26T15:43:26Z",
-      "age_days": 1547,
-      "score": 5984,
+      "full_name": "bowenliang123/dsh-context",
+      "stars": 3123,
+      "stars_gained": 659,
+      "language": "TypeScript",
+      "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. ä¸ç«å¼ DeepSeek Harness ä¸ä¸æå¯è§åæä»¶ï¼Context é¢æ¿åæµè§å¨åä¾§è¾¹æ ä¸ Context å½ä»¤ï¼éè§ä¸ä¸æç»æãæ¼è¿ãåç¼©ãåªæç­äºä»¶ä¸å¨ä½ã",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-08-14T08:23:28Z",
+      "age_days": 68,
+      "score": 5317,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -929,40 +922,38 @@
     },
     {
       "rank": 21,
-      "full_name": "anomalyco/opencode",
-      "stars": 218864,
-      "stars_gained": 1105,
-      "language": "TypeScript",
-      "description": "The open source coding agent.",
+      "full_name": "google-research/harness2",
+      "stars": 17184,
+      "stars_gained": 1899,
+      "language": "Python",
+      "description": "",
       "social": [
         "hackernews",
-        "reddit",
         "x"
       ],
-      "created_at": "2025-04-30T20:08:00Z",
-      "age_days": 538,
-      "score": 5865,
+      "created_at": "2026-10-06T21:48:11Z",
+      "age_days": 15,
+      "score": 5121,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 14,
-      "rank_delta": -7,
+      "rank_prev": 4,
+      "rank_delta": -17,
       "status": "down",
-      "stars_delta": 1119
+      "stars_delta": 1945
     },
     {
       "rank": 22,
-      "full_name": "shiyu-coder/Kronos",
-      "stars": 42326,
-      "stars_gained": 700,
-      "language": "Python",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "full_name": "kingcharleslzy-ai/dsh-purge",
+      "stars": 1733,
+      "stars_gained": 820,
+      "language": "JavaScript",
+      "description": "Purge Communityï¼ç» DeepSeek Harness æé¸çæä»¶ ââ 83 æ¡å®¿ä¸»è¡¥ä¸ Â· 27 å±ç ´ç²èªæ£ Â· æç¤ºè¯/è§å/æè½ç®¡ç Â· åçå³ä¾§é¢æ¿",
       "social": [
-        "reddit",
         "x"
       ],
-      "created_at": "2025-07-01T02:54:32Z",
-      "age_days": 476,
-      "score": 5622,
+      "created_at": "2026-10-16T07:44:27Z",
+      "age_days": 5,
+      "score": 4920,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -972,17 +963,17 @@
     },
     {
       "rank": 23,
-      "full_name": "xiaoyang111222/cn-math-taxonomy",
-      "stars": 1555,
-      "stars_gained": 679,
-      "language": "JavaScript",
-      "description": "åä¸­æ°å­¦ç¥è¯å¾è°±ï¼è¯¾æ æ å°ï¼+ èªéåºè¯æ­å·¥å· + 1407 éé¢åº",
+      "full_name": "Ephemeral-AI-Lab/layerfs",
+      "stars": 1599,
+      "stars_gained": 612,
+      "language": "Rust",
+      "description": "LayerFS gives every agent an isolated, disposable filesystem fork without copying the shared base. Useful states become durable, deduplicated checkpoints with workspace-scoped tool historyâready to branch, rewind, or reuse across parallel development, environment experiments, and MCTS-style rollouts.",
       "social": [
         "x"
       ],
-      "created_at": "2026-10-18T09:04:43Z",
-      "age_days": 2,
-      "score": 5608,
+      "created_at": "2026-08-10T00:26:10Z",
+      "age_days": 72,
+      "score": 4912,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -992,18 +983,17 @@
     },
     {
       "rank": 24,
-      "full_name": "HeyPuter/everything",
-      "stars": 3096,
-      "stars_gained": 788,
-      "language": "JavaScript",
-      "description": "We're rebuilding and open-sourcing the worldâs software from scratch. MIT-licensed.",
+      "full_name": "kuafuai/andee",
+      "stars": 2078,
+      "stars_gained": 602,
+      "language": "Kotlin",
+      "description": "An agent that moves into your Android phone and becomes its soul â not an assistant, not a tool. Any app, no integrations, on-device, one APK.",
       "social": [
-        "hackernews",
         "x"
       ],
-      "created_at": "2026-10-13T16:18:22Z",
-      "age_days": 7,
-      "score": 5457,
+      "created_at": "2026-09-17T13:20:59Z",
+      "age_days": 34,
+      "score": 4840,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -1013,20 +1003,22 @@
     },
     {
       "rank": 25,
-      "full_name": "supabase/supabase",
-      "stars": 112422,
-      "stars_gained": 654,
-      "language": "TypeScript",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "full_name": "ikow/php2shell-poc",
+      "stars": 854,
+      "stars_gained": 794,
+      "language": "Python",
+      "description": "CVE-2026-109618/109619 PHP session.upload_progress Exploit Research â POC & Analysis",
       "social": [
-        "reddit",
         "x"
       ],
-      "created_at": "2019-10-12T05:56:49Z",
-      "age_days": 2565,
-      "score": 5237,
-      "suspect": false,
-      "suspect_reasons": [],
+      "created_at": "2026-10-21T07:55:16Z",
+      "age_days": 0,
+      "score": 4764,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "생성 0일 · 스타 854"
+      ],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -1037,8 +1029,8 @@
     {
       "rank": 1,
       "full_name": "Gathin23/cleanyourtv",
-      "stars": 11288,
-      "stars_gained": 9617,
+      "stars": 18689,
+      "stars_gained": 16999,
       "language": "Java",
       "description": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
       "social": [
@@ -1046,20 +1038,20 @@
         "x"
       ],
       "created_at": "2026-10-17T08:12:35Z",
-      "age_days": 3,
-      "score": 117817,
+      "age_days": 4,
+      "score": 209124,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 2,
-      "rank_delta": 1,
-      "status": "up",
-      "stars_delta": 6419
+      "rank_prev": 1,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 7401
     },
     {
       "rank": 2,
       "full_name": "morluto/rea",
-      "stars": 347537,
-      "stars_gained": 25737,
+      "stars": 357415,
+      "stars_gained": 35615,
       "language": "TypeScript",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "social": [
@@ -1068,41 +1060,20 @@
         "x"
       ],
       "created_at": "2026-04-14T00:51:32Z",
-      "age_days": 189,
-      "score": 89469,
+      "age_days": 190,
+      "score": 129721,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 1,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 11325
+      "rank_prev": 2,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 9878
     },
     {
       "rank": 3,
-      "full_name": "google-research/harness2",
-      "stars": 15239,
-      "stars_gained": 9122,
-      "language": "Python",
-      "description": "",
-      "social": [
-        "hackernews",
-        "x"
-      ],
-      "created_at": "2026-10-06T21:48:11Z",
-      "age_days": 14,
-      "score": 69736,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 3,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 3606
-    },
-    {
-      "rank": 4,
       "full_name": "deepseek-ai/DeepInfer",
-      "stars": 11974,
-      "stars_gained": 9168,
+      "stars": 17758,
+      "stars_gained": 14952,
       "language": "Python",
       "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "social": [
@@ -1110,20 +1081,41 @@
         "x"
       ],
       "created_at": "2026-10-16T07:47:23Z",
-      "age_days": 4,
-      "score": 68760,
+      "age_days": 5,
+      "score": 123094,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "rank_prev": 4,
+      "rank_delta": 1,
+      "status": "up",
+      "stars_delta": 5784
+    },
+    {
+      "rank": 4,
+      "full_name": "google-research/harness2",
+      "stars": 17184,
+      "stars_gained": 11067,
+      "language": "Python",
+      "description": "",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-10-06T21:48:11Z",
+      "age_days": 15,
+      "score": 95936,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 3,
+      "rank_delta": -1,
+      "status": "down",
+      "stars_delta": 1945
     },
     {
       "rank": 5,
       "full_name": "MadsLorentzen/ai-job-search",
-      "stars": 60416,
-      "stars_gained": 7381,
+      "stars": 62906,
+      "stars_gained": 9871,
       "language": "Python",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "social": [
@@ -1132,17 +1124,100 @@
         "x"
       ],
       "created_at": "2026-03-18T14:33:04Z",
-      "age_days": 216,
-      "score": 46796,
+      "age_days": 217,
+      "score": 74465,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 4,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 3356
+      "rank_prev": 5,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 2490
     },
     {
       "rank": 6,
+      "full_name": "cloudflare/security-audit-skill",
+      "stars": 36273,
+      "stars_gained": 5130,
+      "language": "JavaScript",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-06-18T14:08:44Z",
+      "age_days": 125,
+      "score": 43451,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 11,
+      "rank_delta": 5,
+      "status": "up",
+      "stars_delta": 2219
+    },
+    {
+      "rank": 7,
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "stars": 33758,
+      "stars_gained": 9036,
+      "language": "JavaScript",
+      "description": "å¨ dsh éè£ä¸è¿ä¸ªæä»¶å³å¯ï¼æ éç»å½ãæ³¨åæå¡« API Keyï¼å°±è½ä½¿ç¨åæ¬ DeepSeek V4.1 FlashãKimi K3 å¨åçåæ²¿æ¨¡åââå®å¨åè´¹ï¼ä¸ééã All you do is install this plugin in dsh: no login, no sign-up, no API key â the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-09-24T16:17:19Z",
+      "age_days": 27,
+      "score": 42960,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 8,
+      "rank_delta": 1,
+      "status": "up",
+      "stars_delta": 2948
+    },
+    {
+      "rank": 8,
+      "full_name": "ly05010419/MacNativeGames",
+      "stars": 3812,
+      "stars_gained": 3113,
+      "language": "C",
+      "description": "",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-10-17T19:52:00Z",
+      "age_days": 4,
+      "score": 38633,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 7,
+      "rank_delta": -1,
+      "status": "down",
+      "stars_delta": 1090
+    },
+    {
+      "rank": 9,
+      "full_name": "KnifeLemon/Filee",
+      "stars": 9080,
+      "stars_gained": 5056,
+      "language": "C#",
+      "description": "Free, open-source file converter. Convert 180+ formats offline by drag & drop â images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-29T20:05:15Z",
+      "age_days": 22,
+      "score": 36528,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 9,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 1113
+    },
+    {
+      "rank": 10,
       "full_name": "YuJunZhiXue/dsh-purge",
       "stars": 11070,
       "stars_gained": 3999,
@@ -1152,171 +1227,40 @@
         "x"
       ],
       "created_at": "2026-08-19T07:41:12Z",
-      "age_days": 62,
+      "age_days": 63,
       "score": 33336,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 9,
-      "rank_delta": 3,
-      "status": "up",
-      "stars_delta": 2357
-    },
-    {
-      "rank": 7,
-      "full_name": "ly05010419/MacNativeGames",
-      "stars": 2722,
-      "stars_gained": 2059,
-      "language": "C",
-      "description": "",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-10-17T19:52:00Z",
-      "age_days": 3,
-      "score": 25479,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": 7,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 1092
-    },
-    {
-      "rank": 8,
-      "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 30810,
-      "stars_gained": 6088,
-      "language": "JavaScript",
-      "description": "å¨ dsh éè£ä¸è¿ä¸ªæä»¶å³å¯ï¼æ éç»å½ãæ³¨åæå¡« API Keyï¼å°±è½ä½¿ç¨åæ¬ DeepSeek V4.1 FlashãKimi K3 å¨åçåæ²¿æ¨¡åââå®å¨åè´¹ï¼ä¸ééã All you do is install this plugin in dsh: no login, no sign-up, no API key â the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-09-24T16:17:19Z",
-      "age_days": 26,
-      "score": 25387,
-      "suspect": false,
-      "suspect_reasons": [],
       "rank_prev": 6,
-      "rank_delta": -2,
-      "status": "down",
-      "stars_delta": 3159
-    },
-    {
-      "rank": 9,
-      "full_name": "KnifeLemon/Filee",
-      "stars": 7967,
-      "stars_gained": 3943,
-      "language": "C#",
-      "description": "Free, open-source file converter. Convert 180+ formats offline by drag & drop â images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-09-29T20:05:15Z",
-      "age_days": 21,
-      "score": 24739,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 5,
       "rank_delta": -4,
       "status": "down",
-      "stars_delta": 1600
+      "stars_delta": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "full_name": "xerj-org/xerj",
-      "stars": 12420,
-      "stars_gained": 4065,
+      "stars": 12774,
+      "stars_gained": 4419,
       "language": "Rust",
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "social": [
         "x"
       ],
       "created_at": "2026-06-30T04:32:45Z",
-      "age_days": 112,
-      "score": 22910,
+      "age_days": 113,
+      "score": 26138,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 8,
-      "rank_delta": -2,
+      "rank_prev": 10,
+      "rank_delta": -1,
       "status": "down",
-      "stars_delta": 1933
-    },
-    {
-      "rank": 11,
-      "full_name": "cloudflare/security-audit-skill",
-      "stars": 34054,
-      "stars_gained": 2911,
-      "language": "JavaScript",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-06-18T14:08:44Z",
-      "age_days": 124,
-      "score": 17725,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 18,
-      "rank_delta": 7,
-      "status": "up",
-      "stars_delta": 1582
+      "stars_delta": 354
     },
     {
       "rank": 12,
-      "full_name": "kksimp/Mac.apk",
-      "stars": 1514,
-      "stars_gained": 1425,
-      "language": "",
-      "description": "Mac.apk: Run Android apps natively on Apple Silicon Macs",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-05-19T04:32:35Z",
-      "age_days": 154,
-      "score": 17101,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": 23,
-      "rank_delta": 11,
-      "status": "up",
-      "stars_delta": 1019
-    },
-    {
-      "rank": 13,
-      "full_name": "xiaoyang111222/cn-math-taxonomy",
-      "stars": 1555,
-      "stars_gained": 1243,
-      "language": "JavaScript",
-      "description": "åä¸­æ°å­¦ç¥è¯å¾è°±ï¼è¯¾æ æ å°ï¼+ èªéåºè¯æ­å·¥å· + 1407 éé¢åº",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-10-18T09:04:43Z",
-      "age_days": 2,
-      "score": 15562,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": 12,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 710
-    },
-    {
-      "rank": 14,
       "full_name": "Comfy-Org/ComfyUI",
-      "stars": 140713,
-      "stars_gained": 2133,
+      "stars": 141472,
+      "stars_gained": 2892,
       "language": "Python",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "social": [
@@ -1324,216 +1268,20 @@
         "x"
       ],
       "created_at": "2023-01-17T03:15:56Z",
-      "age_days": 1372,
-      "score": 14718,
+      "age_days": 1373,
+      "score": 24103,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 20,
-      "rank_delta": 6,
+      "rank_prev": 14,
+      "rank_delta": 2,
       "status": "up",
-      "stars_delta": 1048
+      "stars_delta": 759
     },
     {
-      "rank": 15,
-      "full_name": "debpalash/VoiceStudio",
-      "stars": 78908,
-      "stars_gained": 3656,
-      "language": "Python",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative â voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-04-09T21:40:26Z",
-      "age_days": 194,
-      "score": 13644,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 11,
-      "rank_delta": -4,
-      "status": "down",
-      "stars_delta": 1478
-    },
-    {
-      "rank": 16,
-      "full_name": "stablyai/orca",
-      "stars": 99673,
-      "stars_gained": 3089,
-      "language": "TypeScript",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-03-17T03:28:57Z",
-      "age_days": 217,
-      "score": 13570,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 17,
-      "rank_delta": 1,
-      "status": "up",
-      "stars_delta": 1481
-    },
-    {
-      "rank": 17,
-      "full_name": "tywr/Nordwand-Mono",
-      "stars": 1213,
-      "stars_gained": 1117,
-      "language": "Python",
-      "description": "A compact monospace neo-grotesque font designed for developers (and adventurers).",
-      "social": [
-        "hackernews"
-      ],
-      "created_at": "2026-03-28T02:22:22Z",
-      "age_days": 206,
-      "score": 13407,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 18,
-      "full_name": "kuafuai/andee",
-      "stars": 1473,
-      "stars_gained": 1064,
-      "language": "Kotlin",
-      "description": "An agent that moves into your Android phone and becomes its soul â not an assistant, not a tool. Any app, no integrations, on-device, one APK.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-09-17T13:20:59Z",
-      "age_days": 33,
-      "score": 12870,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": 21,
-      "rank_delta": 3,
-      "status": "up",
-      "stars_delta": 472
-    },
-    {
-      "rank": 19,
-      "full_name": "deepseek-ai/deepseek-recipe",
-      "stars": 1489,
-      "stars_gained": 1068,
-      "language": "Rust",
-      "description": null,
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-09-10T05:36:48Z",
-      "age_days": 40,
-      "score": 12816,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 20,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 255739,
-      "stars_gained": 2687,
-      "language": "TypeScript",
-      "description": "DeepSeek Harness: Everything is a Plugin.",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-08-13T11:56:32Z",
-      "age_days": 68,
-      "score": 12374,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 19,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 1308
-    },
-    {
-      "rank": 21,
-      "full_name": "tangency-labs/solidcraft",
-      "stars": 8232,
-      "stars_gained": 2597,
-      "language": "Rust",
-      "description": "An open-source, clean-room reimplementation of Autodesk Fusion 360 in pure Rust. Parametric 3D CAD for desktop, browser, and AI agents via MCP.",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-10-07T18:57:48Z",
-      "age_days": 13,
-      "score": 12024,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 15,
-      "rank_delta": -6,
-      "status": "down",
-      "stars_delta": 1025
-    },
-    {
-      "rank": 22,
-      "full_name": "anomalyco/opencode",
-      "stars": 218864,
-      "stars_gained": 2329,
-      "language": "TypeScript",
-      "description": "The open source coding agent.",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2025-04-30T20:08:00Z",
-      "age_days": 538,
-      "score": 11501,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 25,
-      "rank_delta": 3,
-      "status": "up",
-      "stars_delta": 1119
-    },
-    {
-      "rank": 23,
-      "full_name": "shiyu-coder/Kronos",
-      "stars": 42326,
-      "stars_gained": 1199,
-      "language": "Python",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2025-07-01T02:54:32Z",
-      "age_days": 476,
-      "score": 10960,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 24,
+      "rank": 13,
       "full_name": "DietrichGebert/ponytail",
-      "stars": 169559,
-      "stars_gained": 2541,
+      "stars": 171454,
+      "stars_gained": 4495,
       "language": "JavaScript",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "social": [
@@ -1542,8 +1290,141 @@
         "x"
       ],
       "created_at": "2026-06-12T00:52:37Z",
-      "age_days": 130,
-      "score": 10958,
+      "age_days": 131,
+      "score": 23914,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 24,
+      "rank_delta": 11,
+      "status": "up",
+      "stars_delta": 1895
+    },
+    {
+      "rank": 14,
+      "full_name": "stablyai/orca",
+      "stars": 101173,
+      "stars_gained": 4589,
+      "language": "TypeScript",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-17T03:28:57Z",
+      "age_days": 218,
+      "score": 23293,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 16,
+      "rank_delta": 2,
+      "status": "up",
+      "stars_delta": 1500
+    },
+    {
+      "rank": 15,
+      "full_name": "kksimp/Mac.apk",
+      "stars": 1987,
+      "stars_gained": 1898,
+      "language": "",
+      "description": "Mac.apk: Run Android apps natively on Apple Silicon Macs",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-05-19T04:32:35Z",
+      "age_days": 155,
+      "score": 22972,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": 12,
+      "rank_delta": -3,
+      "status": "down",
+      "stars_delta": 473
+    },
+    {
+      "rank": 16,
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 256948,
+      "stars_gained": 3896,
+      "language": "TypeScript",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-08-13T11:56:32Z",
+      "age_days": 69,
+      "score": 20674,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 20,
+      "rank_delta": 4,
+      "status": "up",
+      "stars_delta": 1209
+    },
+    {
+      "rank": 17,
+      "full_name": "xiaoyang111222/cn-math-taxonomy",
+      "stars": 1942,
+      "stars_gained": 1626,
+      "language": "JavaScript",
+      "description": "åä¸­æ°å­¦ç¥è¯å¾è°±ï¼è¯¾æ æ å°ï¼+ èªéåºè¯æ­å·¥å· + 1407 éé¢åº",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-10-18T09:04:43Z",
+      "age_days": 3,
+      "score": 20560,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": 13,
+      "rank_delta": -4,
+      "status": "down",
+      "stars_delta": 387
+    },
+    {
+      "rank": 18,
+      "full_name": "debpalash/VoiceStudio",
+      "stars": 80330,
+      "stars_gained": 5078,
+      "language": "Python",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative â voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-09T21:40:26Z",
+      "age_days": 195,
+      "score": 20369,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 15,
+      "rank_delta": -3,
+      "status": "down",
+      "stars_delta": 1422
+    },
+    {
+      "rank": 19,
+      "full_name": "Graphify-Labs/graphify",
+      "stars": 131566,
+      "stars_gained": 3166,
+      "language": "Python",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-03T15:49:07Z",
+      "age_days": 201,
+      "score": 20198,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -1552,100 +1433,207 @@
       "stars_delta": null
     },
     {
-      "rank": 25,
-      "full_name": "alchaincyf/huashu-motion",
-      "stars": 1138,
-      "stars_gained": 868,
-      "language": "JavaScript",
-      "description": "è®©ä½ çagentä¸é®ç´åºåä¸çº§äº§åå®£ä¼ çï¼ä¼ä½æ²ï¼è½æçç»é¢æ¹ãCommercial-grade launch films by your coding agent â point at the frame to change it.",
+      "rank": 20,
+      "full_name": "kuafuai/andee",
+      "stars": 2078,
+      "stars_gained": 1669,
+      "language": "Kotlin",
+      "description": "An agent that moves into your Android phone and becomes its soul â not an assistant, not a tool. Any app, no integrations, on-device, one APK.",
       "social": [
         "x"
       ],
-      "created_at": "2026-10-18T12:19:27Z",
-      "age_days": 2,
-      "score": 10659,
+      "created_at": "2026-09-17T13:20:59Z",
+      "age_days": 34,
+      "score": 20176,
       "suspect": false,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상"
       ],
-      "rank_prev": 10,
-      "rank_delta": -15,
+      "rank_prev": 18,
+      "rank_delta": -2,
       "status": "down",
-      "stars_delta": 240
+      "stars_delta": 605
+    },
+    {
+      "rank": 21,
+      "full_name": "shiyu-coder/Kronos",
+      "stars": 42800,
+      "stars_gained": 1673,
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-07-01T02:54:32Z",
+      "age_days": 477,
+      "score": 19635,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 23,
+      "rank_delta": 2,
+      "status": "up",
+      "stars_delta": 474
+    },
+    {
+      "rank": 22,
+      "full_name": "deepseek-ai/deepseek-recipe",
+      "stars": 1935,
+      "stars_gained": 1514,
+      "language": "Rust",
+      "description": null,
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-09-10T05:36:48Z",
+      "age_days": 41,
+      "score": 18727,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": 19,
+      "rank_delta": -3,
+      "status": "down",
+      "stars_delta": 446
+    },
+    {
+      "rank": 23,
+      "full_name": "simbasjungles/free-my-tv",
+      "stars": 2684,
+      "stars_gained": 2254,
+      "language": "Java",
+      "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-10-19T19:29:01Z",
+      "age_days": 2,
+      "score": 18577,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 24,
+      "full_name": "anomalyco/opencode",
+      "stars": 219648,
+      "stars_gained": 3113,
+      "language": "TypeScript",
+      "description": "The open source coding agent.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-04-30T20:08:00Z",
+      "age_days": 539,
+      "score": 17635,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 22,
+      "rank_delta": -2,
+      "status": "down",
+      "stars_delta": 784
+    },
+    {
+      "rank": 25,
+      "full_name": "AhmadHassan-BTed/Jantt",
+      "stars": 2937,
+      "stars_gained": 1853,
+      "language": "TypeScript",
+      "description": "The AI-native JSON Gantt chart engine. Dependency-free interactive timelines with React, script-tag, CLI, topological DAG solver, and formal JSON schema.",
+      "social": [],
+      "created_at": "2026-08-28T07:32:35Z",
+      "age_days": 54,
+      "score": 17209,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     }
   ],
-  "daily_suspect_count": 0,
-  "daily_clean_count": 25,
+  "daily_suspect_count": 1,
+  "daily_clean_count": 24,
   "weekly_suspect_count": 0,
   "weekly_clean_count": 25,
   "note": "weekly는 주 시작 직후에는 daily와 거의 동일하다. suspect=true 항목은 스타 농장 스팸 의심이니 리포트에서 제외하거나 따로 표시할 것.",
-  "prev_generated_at_kst": "2026-10-20 08:50:01",
+  "prev_generated_at_kst": "2026-10-21 08:50:01",
   "daily_dropped": [
     {
-      "full_name": "tangency-labs/solidcraft",
+      "full_name": "YuJunZhiXue/dsh-purge",
+      "rank_prev": 3
+    },
+    {
+      "full_name": "xerj-org/xerj",
       "rank_prev": 8
     },
     {
-      "full_name": "hmjz100/LinkSwift",
-      "rank_prev": 16
+      "full_name": "KnifeLemon/Filee",
+      "rank_prev": 9
     },
     {
-      "full_name": "AhmadHassan-BTed/Turnitout-Humanizer",
-      "rank_prev": 17
+      "full_name": "tywr/Nordwand-Mono",
+      "rank_prev": 11
     },
     {
-      "full_name": "PC2005-cloud/dsh-pet",
-      "rank_prev": 18
+      "full_name": "deepseek-ai/deepseek-recipe",
+      "rank_prev": 12
     },
     {
-      "full_name": "akitaonrails/ai-memory",
-      "rank_prev": 19
+      "full_name": "Comfy-Org/ComfyUI",
+      "rank_prev": 14
     },
     {
-      "full_name": "lemomo-ai/lemo-opuscar",
+      "full_name": "kksimp/Mac.apk",
+      "rank_prev": 15
+    },
+    {
+      "full_name": "Meloong-Git/PCL",
       "rank_prev": 20
     },
     {
-      "full_name": "AhmadHassan-BTed/AhmadHassan-BTed",
+      "full_name": "anomalyco/opencode",
       "rank_prev": 21
     },
     {
-      "full_name": "Leonxlnx/earshot",
+      "full_name": "shiyu-coder/Kronos",
       "rank_prev": 22
     },
     {
-      "full_name": "AhmadHassan-BTed/Jantt",
+      "full_name": "xiaoyang111222/cn-math-taxonomy",
       "rank_prev": 23
     },
     {
-      "full_name": "AhmadHassan-BTed/NaSuno",
+      "full_name": "HeyPuter/everything",
       "rank_prev": 24
     },
     {
-      "full_name": "AhmadHassan-BTed/OpenHeart",
+      "full_name": "supabase/supabase",
       "rank_prev": 25
     }
   ],
   "weekly_dropped": [
     {
-      "full_name": "MaryCache/imozuru",
-      "rank_prev": 13
+      "full_name": "tywr/Nordwand-Mono",
+      "rank_prev": 17
     },
     {
-      "full_name": "PC2005-cloud/dsh-pet",
-      "rank_prev": 14
+      "full_name": "tangency-labs/solidcraft",
+      "rank_prev": 21
     },
     {
-      "full_name": "Check-Risk-WAF/Check-Risk-WAF",
-      "rank_prev": 16
-    },
-    {
-      "full_name": "dipa-studio/ios-sweet",
-      "rank_prev": 22
-    },
-    {
-      "full_name": "Leonxlnx/earshot",
-      "rank_prev": 24
+      "full_name": "alchaincyf/huashu-motion",
+      "rank_prev": 25
     }
   ]
 }
