@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10T23:50:00.844005+00:00",
-  "generated_at_kst": "2026-11-11 08:50:00",
+  "generated_at": "2026-11-11T23:50:00.786736+00:00",
+  "generated_at_kst": "2026-11-12 08:50:00",
   "source": "trendshift.io (scraped from SSR payload)",
   "huggingface": {
     "models": [
       {
         "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-        "likes": 1191,
-        "downloads": 14378,
+        "likes": 2971,
+        "downloads": 16693,
         "pipeline_tag": "text-generation",
         "tags": [
           "transformers",
@@ -27,12 +27,37 @@
         "gated": false,
         "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
         "status": "same",
-        "likes_delta": 156
+        "likes_delta": 1780
+      },
+      {
+        "id": "MiniMaxAI/MiniMax-H3-Image",
+        "likes": 695,
+        "downloads": 142989,
+        "pipeline_tag": "text-to-image",
+        "tags": [
+          "minimax-h3",
+          "diffusers",
+          "safetensors",
+          "text-to-image",
+          "image-to-image",
+          "image-editing",
+          "image-generation",
+          "en",
+          "base_model:MiniMaxAI/MiniMax-H3",
+          "base_model:finetune:MiniMaxAI/MiniMax-H3",
+          "license:other",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "status": "same",
+        "likes_delta": 331
       },
       {
         "id": "speridlabs/idol",
-        "likes": 1868,
-        "downloads": 26470,
+        "likes": 2143,
+        "downloads": 28250,
         "pipeline_tag": "image-to-3d",
         "tags": [
           "idol",
@@ -46,80 +71,12 @@
         "gated": false,
         "url": "https://huggingface.co/speridlabs/idol",
         "status": "same",
-        "likes_delta": 245
-      },
-      {
-        "id": "moonshotai/Kimi-K3.1-Pro",
-        "likes": 1867,
-        "downloads": 30721,
-        "pipeline_tag": "image-text-to-text",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "kimi_k31",
-          "text-generation",
-          "compressed-tensors",
-          "conversational",
-          "image-text-to-text",
-          "custom_code",
-          "license:other",
-          "eval-results",
-          "endpoints_compatible",
-          "8-bit"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-        "status": "same",
-        "likes_delta": 72
-      },
-      {
-        "id": "ricursiveAI/Ripple-65B-Preview",
-        "likes": 486,
-        "downloads": 6480,
-        "pipeline_tag": null,
-        "tags": [
-          "safetensors",
-          "ricursive",
-          "custom_code",
-          "license:apache-2.0",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
-        "status": "same",
-        "likes_delta": 33
-      },
-      {
-        "id": "Lightricks/LTX-2.5",
-        "likes": 11376,
-        "downloads": 2791606,
-        "pipeline_tag": "image-to-video",
-        "tags": [
-          "diffusion-single-file",
-          "image-to-video",
-          "text-to-video",
-          "video-to-video",
-          "image-text-to-video",
-          "audio-to-video",
-          "text-to-audio",
-          "video-to-audio",
-          "audio-to-audio",
-          "text-to-audio-video",
-          "image-to-audio-video",
-          "image-text-to-audio-video"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "status": "same",
-        "likes_delta": 115
+        "likes_delta": 275
       },
       {
         "id": "NousResearch/Arete-27B",
-        "likes": 403,
-        "downloads": 3431,
+        "likes": 434,
+        "downloads": 4023,
         "pipeline_tag": "text-generation",
         "tags": [
           "safetensors",
@@ -139,37 +96,80 @@
         "gated": false,
         "url": "https://huggingface.co/NousResearch/Arete-27B",
         "status": "same",
-        "likes_delta": 42
+        "likes_delta": 31
       },
       {
-        "id": "MiniMaxAI/MiniMax-H3-Image",
-        "likes": 364,
-        "downloads": 667,
-        "pipeline_tag": "text-to-image",
+        "id": "moonshotai/Kimi-K3.1-Pro",
+        "likes": 1934,
+        "downloads": 33617,
+        "pipeline_tag": "image-text-to-text",
         "tags": [
-          "minimax-h3",
-          "diffusers",
+          "transformers",
           "safetensors",
-          "text-to-image",
-          "image-to-image",
-          "image-editing",
-          "image-generation",
-          "en",
-          "base_model:MiniMaxAI/MiniMax-H3",
-          "base_model:finetune:MiniMaxAI/MiniMax-H3",
+          "kimi_k31",
+          "text-generation",
+          "compressed-tensors",
+          "conversational",
+          "image-text-to-text",
+          "custom_code",
           "license:other",
+          "eval-results",
+          "endpoints_compatible",
+          "8-bit"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "status": "same",
+        "likes_delta": 67
+      },
+      {
+        "id": "Lightricks/LTX-2.5",
+        "likes": 11509,
+        "downloads": 2848771,
+        "pipeline_tag": "image-to-video",
+        "tags": [
+          "diffusion-single-file",
+          "image-to-video",
+          "text-to-video",
+          "video-to-video",
+          "image-text-to-video",
+          "audio-to-video",
+          "text-to-audio",
+          "video-to-audio",
+          "audio-to-audio",
+          "text-to-audio-video",
+          "image-to-audio-video",
+          "image-text-to-audio-video"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "status": "same",
+        "likes_delta": 133
+      },
+      {
+        "id": "ricursiveAI/Ripple-65B-Preview",
+        "likes": 515,
+        "downloads": 7112,
+        "pipeline_tag": null,
+        "tags": [
+          "safetensors",
+          "ricursive",
+          "custom_code",
+          "license:apache-2.0",
           "region:us"
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-        "status": "new",
-        "likes_delta": null
+        "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+        "status": "same",
+        "likes_delta": 29
       },
       {
         "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-        "likes": 2839,
-        "downloads": 1459029,
+        "likes": 2903,
+        "downloads": 1532273,
         "pipeline_tag": "image-text-to-text",
         "tags": [
           "gguf",
@@ -189,12 +189,36 @@
         "gated": false,
         "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
         "status": "same",
-        "likes_delta": 62
+        "likes_delta": 64
+      },
+      {
+        "id": "Qwen/Qwen3.8-27B",
+        "likes": 19634,
+        "downloads": 7232703,
+        "pipeline_tag": "image-text-to-text",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "conversational",
+          "license:apache-2.0",
+          "eval-results",
+          "endpoints_compatible",
+          "deploy:azure",
+          "deploy:sagemaker",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "status": "same",
+        "likes_delta": 66
       },
       {
         "id": "ccore/Qwen3.5-4B-3D-Coder",
-        "likes": 972,
-        "downloads": 319405,
+        "likes": 1016,
+        "downloads": 344727,
         "pipeline_tag": null,
         "tags": [
           "safetensors",
@@ -214,37 +238,13 @@
         "gated": false,
         "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
         "status": "same",
-        "likes_delta": 23
-      },
-      {
-        "id": "Qwen/Qwen3.8-27B",
-        "likes": 19568,
-        "downloads": 7443748,
-        "pipeline_tag": "image-text-to-text",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5",
-          "image-text-to-text",
-          "conversational",
-          "license:apache-2.0",
-          "eval-results",
-          "endpoints_compatible",
-          "deploy:azure",
-          "deploy:sagemaker",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "status": "same",
-        "likes_delta": 82
+        "likes_delta": 44
       }
     ],
     "spaces": [
       {
         "id": "huggingface/moe-blogpost",
-        "likes": 525,
+        "likes": 563,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -255,26 +255,11 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
         "status": "same",
-        "likes_delta": 59
-      },
-      {
-        "id": "thea2026/image-to-video",
-        "likes": 616,
-        "downloads": null,
-        "pipeline_tag": null,
-        "tags": [
-          "gradio",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/spaces/thea2026/image-to-video",
-        "status": "new",
-        "likes_delta": null
+        "likes_delta": 38
       },
       {
         "id": "joelniklaus/harness-leaderboard",
-        "likes": 267,
+        "likes": 289,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -285,11 +270,11 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
         "status": "same",
-        "likes_delta": 42
+        "likes_delta": 22
       },
       {
         "id": "kulkas2pintu/wan777",
-        "likes": 1483,
+        "likes": 1530,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -301,11 +286,26 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/kulkas2pintu/wan777",
         "status": "same",
-        "likes_delta": 41
+        "likes_delta": 47
+      },
+      {
+        "id": "speridlabs/idol",
+        "likes": 249,
+        "downloads": null,
+        "pipeline_tag": null,
+        "tags": [
+          "gradio",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/spaces/speridlabs/idol",
+        "status": "same",
+        "likes_delta": 11
       },
       {
         "id": "fendouai/free-ai-humanizer",
-        "likes": 228,
+        "likes": 232,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -321,29 +321,30 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/fendouai/free-ai-humanizer",
         "status": "same",
-        "likes_delta": 3
+        "likes_delta": 4
       },
       {
-        "id": "speridlabs/idol",
-        "likes": 238,
+        "id": "JCisHERE/wan2-2-i2v-v3",
+        "likes": 324,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
           "gradio",
+          "mcp-server",
           "region:us"
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/spaces/speridlabs/idol",
-        "status": "same",
-        "likes_delta": 9
+        "url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
+        "status": "new",
+        "likes_delta": null
       }
     ],
     "datasets": [
       {
         "id": "Angais/pixel-art-atlas-1.4m",
-        "likes": 318,
-        "downloads": 30689,
+        "likes": 381,
+        "downloads": 41578,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-to-image",
@@ -363,12 +364,12 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m",
         "status": "same",
-        "likes_delta": 101
+        "likes_delta": 63
       },
       {
         "id": "Vyber07/cyber-security",
-        "likes": 871,
-        "downloads": 15479,
+        "likes": 948,
+        "downloads": 17634,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-generation",
@@ -388,12 +389,12 @@
         "gated": true,
         "url": "https://huggingface.co/datasets/Vyber07/cyber-security",
         "status": "same",
-        "likes_delta": 52
+        "likes_delta": 77
       },
       {
         "id": "nvidia/simready-assets",
-        "likes": 1523,
-        "downloads": 1466686,
+        "likes": 1536,
+        "downloads": 1480387,
         "pipeline_tag": null,
         "tags": [
           "license:cc-by-4.0",
@@ -404,37 +405,12 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/nvidia/simready-assets",
         "status": "same",
-        "likes_delta": 19
-      },
-      {
-        "id": "open-index/hacker-news",
-        "likes": 572,
-        "downloads": 475169,
-        "pipeline_tag": null,
-        "tags": [
-          "task_categories:text-generation",
-          "task_categories:feature-extraction",
-          "task_categories:text-classification",
-          "task_categories:question-answering",
-          "language:en",
-          "license:odc-by",
-          "size_categories:10M<n<100M",
-          "modality:text",
-          "region:us",
-          "hacker-news",
-          "forum",
-          "text"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/datasets/open-index/hacker-news",
-        "status": "same",
-        "likes_delta": 10
+        "likes_delta": 13
       },
       {
         "id": "codepawl/abo-glb",
-        "likes": 107,
-        "downloads": 40394,
+        "likes": 113,
+        "downloads": 49070,
         "pipeline_tag": null,
         "tags": [
           "license:cc-by-4.0",
@@ -454,12 +430,37 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/codepawl/abo-glb",
         "status": "same",
-        "likes_delta": 4
+        "likes_delta": 6
+      },
+      {
+        "id": "open-index/hacker-news",
+        "likes": 575,
+        "downloads": 467959,
+        "pipeline_tag": null,
+        "tags": [
+          "task_categories:text-generation",
+          "task_categories:feature-extraction",
+          "task_categories:text-classification",
+          "task_categories:question-answering",
+          "language:en",
+          "license:odc-by",
+          "size_categories:10M<n<100M",
+          "modality:text",
+          "region:us",
+          "hacker-news",
+          "forum",
+          "text"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/datasets/open-index/hacker-news",
+        "status": "same",
+        "likes_delta": 3
       },
       {
         "id": "tencent/TailorRig",
-        "likes": 75,
-        "downloads": 5101,
+        "likes": 81,
+        "downloads": 5555,
         "pipeline_tag": null,
         "tags": [
           "language:en",
@@ -478,37 +479,99 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/datasets/tencent/TailorRig",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 6
       }
     ]
   },
   "daily": [
     {
       "rank": 1,
+      "full_name": "janestreet/agent_skills",
+      "stars": 5744,
+      "stars_gained": 1961,
+      "language": "",
+      "description": "Agent skills",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-11-03T16:50:21Z",
+      "age_days": 8,
+      "score": 15854,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 4,
+      "rank_delta": 3,
+      "status": "up",
+      "stars_delta": 1984
+    },
+    {
+      "rank": 2,
+      "full_name": "Lee-xeo/Claude-Cage",
+      "stars": 3113,
+      "stars_gained": 1940,
+      "language": "Go",
+      "description": "Cageï¼Mac ä¸çç¬ç« Claude ç¼ç å·¥ä½åºï¼éæ Linux ç»ç«¯ãæµè§å¨ä¸é¡¹ç®ç¼è¾å¨ã",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-10-31T15:07:08Z",
+      "age_days": 11,
+      "score": 15744,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 19,
+      "rank_delta": 17,
+      "status": "up",
+      "stars_delta": 1927
+    },
+    {
+      "rank": 3,
+      "full_name": "GoogleChrome/modern-web-guidance",
+      "stars": 4957,
+      "stars_gained": 1826,
+      "language": "",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-03-23T17:49:14Z",
+      "age_days": 233,
+      "score": 14618,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 4,
       "full_name": "huamidev/GestaltX",
-      "stars": 4644,
-      "stars_gained": 3177,
+      "stars": 6170,
+      "stars_gained": 1492,
       "language": "Swift",
       "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
       "social": [
         "x"
       ],
       "created_at": "2026-11-09T05:15:48Z",
-      "age_days": 1,
-      "score": 27442,
+      "age_days": 2,
+      "score": 9085,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 12,
-      "rank_delta": 11,
-      "status": "up",
-      "stars_delta": 3241
+      "rank_prev": 1,
+      "rank_delta": -3,
+      "status": "down",
+      "stars_delta": 1526
     },
     {
-      "rank": 2,
+      "rank": 5,
       "full_name": "meta/astryx",
-      "stars": 22651,
-      "stars_gained": 2743,
+      "stars": 24865,
+      "stars_gained": 2172,
       "language": "TypeScript",
       "description": "An open source design system that's fully customizable and agent ready",
       "social": [
@@ -517,70 +580,112 @@
         "x"
       ],
       "created_at": "2026-01-09T16:20:32Z",
-      "age_days": 305,
-      "score": 17078,
+      "age_days": 306,
+      "score": 8380,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 1,
-      "rank_delta": -1,
+      "rank_prev": 2,
+      "rank_delta": -3,
       "status": "down",
-      "stars_delta": 2793
+      "stars_delta": 2214
     },
     {
-      "rank": 3,
-      "full_name": "Minireel/HGhub",
-      "stars": 8114,
-      "stars_gained": 2238,
-      "language": "TypeScript",
-      "description": "YellowFruit third-party client",
+      "rank": 6,
+      "full_name": "we-promise/sure",
+      "stars": 12898,
+      "stars_gained": 1006,
+      "language": "Ruby",
+      "description": "The personal finance app for everyone (by everyone)",
       "social": [
+        "reddit",
         "x"
       ],
-      "created_at": "2026-11-03T14:04:27Z",
-      "age_days": 7,
-      "score": 16129,
+      "created_at": "2025-07-23T04:13:55Z",
+      "age_days": 476,
+      "score": 8066,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 3,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 2300
+      "rank_prev": 18,
+      "rank_delta": 12,
+      "status": "up",
+      "stars_delta": 1021
     },
     {
-      "rank": 4,
-      "full_name": "janestreet/agent_skills",
-      "stars": 3760,
-      "stars_gained": 1720,
-      "language": "",
-      "description": "Agent skills",
+      "rank": 7,
+      "full_name": "anefzaoui/misterdownloadmanager",
+      "stars": 6751,
+      "stars_gained": 1282,
+      "language": "Rust",
+      "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
       "social": [
-        "hackernews",
         "x"
       ],
-      "created_at": "2026-11-03T16:50:21Z",
-      "age_days": 7,
-      "score": 13920,
+      "created_at": "2026-10-29T01:25:19Z",
+      "age_days": 13,
+      "score": 6020,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 6,
-      "rank_delta": 2,
-      "status": "up",
-      "stars_delta": 1753
+      "rank_delta": -1,
+      "status": "down",
+      "stars_delta": 1297
     },
     {
-      "rank": 5,
-      "full_name": "expo/exact",
-      "stars": 2120,
-      "stars_gained": 1367,
-      "language": "Rust",
+      "rank": 8,
+      "full_name": "NotRexed/Hookshot",
+      "stars": 7629,
+      "stars_gained": 1221,
+      "language": "C++",
       "description": "",
       "social": [
         "hackernews",
         "x"
       ],
-      "created_at": "2026-11-02T01:29:01Z",
-      "age_days": 8,
-      "score": 10993,
+      "created_at": "2026-11-05T12:18:58Z",
+      "age_days": 6,
+      "score": 5802,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 7,
+      "rank_delta": -1,
+      "status": "down",
+      "stars_delta": 1224
+    },
+    {
+      "rank": 9,
+      "full_name": "homeassistant-ai/ha-mcp",
+      "stars": 7281,
+      "stars_gained": 706,
+      "language": "Python",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-09-14T13:23:45Z",
+      "age_days": 423,
+      "score": 5660,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 16,
+      "rank_delta": 7,
+      "status": "up",
+      "stars_delta": 704
+    },
+    {
+      "rank": 10,
+      "full_name": "HybridRobotics/supermimic",
+      "stars": 1015,
+      "stars_gained": 910,
+      "language": "Python",
+      "description": "SuperTrack implementation.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-11-10T10:46:56Z",
+      "age_days": 1,
+      "score": 5538,
       "suspect": false,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상"
@@ -591,123 +696,20 @@
       "stars_delta": null
     },
     {
-      "rank": 6,
-      "full_name": "anefzaoui/misterdownloadmanager",
-      "stars": 5454,
-      "stars_gained": 1562,
-      "language": "Rust",
-      "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-10-29T01:25:19Z",
-      "age_days": 12,
-      "score": 10705,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 4,
-      "rank_delta": -2,
-      "status": "down",
-      "stars_delta": 1672
-    },
-    {
-      "rank": 7,
-      "full_name": "NotRexed/Hookshot",
-      "stars": 6405,
-      "stars_gained": 1530,
-      "language": "C++",
-      "description": "",
-      "social": [
-        "hackernews",
-        "x"
-      ],
-      "created_at": "2026-11-05T12:18:58Z",
-      "age_days": 5,
-      "score": 10163,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 5,
-      "rank_delta": -2,
-      "status": "down",
-      "stars_delta": 1620
-    },
-    {
-      "rank": 8,
-      "full_name": "anthropics/skills",
-      "stars": 192258,
-      "stars_gained": 1357,
-      "language": "Python",
-      "description": "Public repository for Agent Skills",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2025-09-22T15:53:31Z",
-      "age_days": 414,
-      "score": 8980,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 8,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 1372
-    },
-    {
-      "rank": 9,
-      "full_name": "experientiallabs/experiential",
-      "stars": 16247,
-      "stars_gained": 862,
-      "language": "Python",
-      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-06-24T22:40:57Z",
-      "age_days": 139,
-      "score": 6903,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 10,
-      "full_name": "FluentRead/FluentRead",
-      "stars": 10279,
-      "stars_gained": 858,
-      "language": "TypeScript",
-      "description": "An open-source browser extension for bilingual translation. ä¸æ¬¾å¼æºçæµè§å¨åè¯­ç¿»è¯æä»¶ã",
-      "social": [
-        "x"
-      ],
-      "created_at": "2023-12-22T02:59:51Z",
-      "age_days": 1054,
-      "score": 6888,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
       "rank": 11,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "stars": 69544,
-      "stars_gained": 747,
-      "language": "Python",
-      "description": "LLM é©±å¨çå¤å¸åºè¡ç¥¨æºè½åæç³»ç»ï¼å¤æºè¡æãå®æ¶æ°é»ãå³ç­çæ¿ä¸èªå¨æ¨éï¼æ¯æé¶ææ¬å®æ¶è¿è¡ã  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "full_name": "addyosmani/agent-skills",
+      "stars": 115892,
+      "stars_gained": 767,
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "social": [
         "hackernews",
+        "reddit",
         "x"
       ],
-      "created_at": "2026-01-10T06:43:20Z",
-      "age_days": 304,
-      "score": 6082,
+      "created_at": "2026-02-15T20:20:26Z",
+      "age_days": 269,
+      "score": 5513,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -717,38 +719,18 @@
     },
     {
       "rank": 12,
-      "full_name": "sherlock-project/sherlock",
-      "stars": 108840,
-      "stars_gained": 1943,
-      "language": "Python",
-      "description": "Hunt down social media accounts by username across social networks",
+      "full_name": "aws/aws-emulator",
+      "stars": 1337,
+      "stars_gained": 897,
+      "language": "Rust",
+      "description": "",
       "social": [
-        "reddit",
+        "hackernews",
         "x"
       ],
-      "created_at": "2018-12-24T14:30:48Z",
-      "age_days": 2878,
-      "score": 6027,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 2,
-      "rank_delta": -10,
-      "status": "down",
-      "stars_delta": 1974
-    },
-    {
-      "rank": 13,
-      "full_name": "RunanywhereAI/trnrt",
-      "stars": 1016,
-      "stars_gained": 739,
-      "language": "Python",
-      "description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-10-30T18:30:04Z",
-      "age_days": 11,
-      "score": 5920,
+      "created_at": "2026-09-11T19:01:12Z",
+      "age_days": 61,
+      "score": 5382,
       "suspect": false,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상"
@@ -759,18 +741,41 @@
       "stars_delta": null
     },
     {
-      "rank": 14,
-      "full_name": "Usagi-org/ai-goofish-monitor",
-      "stars": 19400,
-      "stars_gained": 866,
-      "language": "Python",
-      "description": "åºäº Playwright åAIå®ç°çé²é±¼å¤ä»»å¡å®æ¶/å®æ¶çæ§ä¸æºè½åæç³»ç»ï¼éå¤äºåè½å®åçåå°ç®¡çUIãå¸®å©ç¨æ·ä»é²é±¼æµ·éååä¸­ï¼æ¾å°å¿ä»ªäº§åã",
+      "rank": 13,
+      "full_name": "expo/exact",
+      "stars": 2872,
+      "stars_gained": 733,
+      "language": "Rust",
+      "description": "",
       "social": [
+        "hackernews",
         "x"
       ],
-      "created_at": "2025-07-16T08:13:41Z",
-      "age_days": 482,
-      "score": 5782,
+      "created_at": "2026-11-02T01:29:01Z",
+      "age_days": 9,
+      "score": 5003,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 5,
+      "rank_delta": -8,
+      "status": "down",
+      "stars_delta": 752
+    },
+    {
+      "rank": 14,
+      "full_name": "h4ckf0r0day/obscura",
+      "stars": 32905,
+      "stars_gained": 698,
+      "language": "Rust",
+      "description": "The headless browser for AI agents and web scraping",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-13T10:31:41Z",
+      "age_days": 212,
+      "score": 4974,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -780,20 +785,17 @@
     },
     {
       "rank": 15,
-      "full_name": "PotterRemember37/Capri-AI-Desktop",
-      "stars": 1036,
-      "stars_gained": 916,
-      "language": "HTML",
-      "description": "ð¯ minecraft-hacked-client-mod-and-cheats ð¯",
+      "full_name": "wzdnzd/aggregator",
+      "stars": 7363,
+      "stars_gained": 578,
+      "language": "Python",
+      "description": "One-stop Proxies Crawling and Aggregation Platform",
       "social": [],
-      "created_at": "2026-08-15T02:57:08Z",
-      "age_days": 87,
-      "score": 5643,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "크랙·치트 미끼 이름"
-      ],
+      "created_at": "2019-06-10T04:34:24Z",
+      "age_days": 2711,
+      "score": 4674,
+      "suspect": false,
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -801,19 +803,38 @@
     },
     {
       "rank": 16,
-      "full_name": "homeassistant-ai/ha-mcp",
-      "stars": 6577,
-      "stars_gained": 672,
-      "language": "Python",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "full_name": "shadcn/improve",
+      "stars": 10810,
+      "stars_gained": 565,
+      "language": "",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "social": [
-        "hackernews",
-        "reddit",
         "x"
       ],
-      "created_at": "2025-09-14T13:23:45Z",
-      "age_days": 422,
-      "score": 5392,
+      "created_at": "2026-06-10T11:06:58Z",
+      "age_days": 154,
+      "score": 4520,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 23,
+      "rank_delta": 7,
+      "status": "up",
+      "stars_delta": 573
+    },
+    {
+      "rank": 17,
+      "full_name": "storytold/craft-anything",
+      "stars": 28283,
+      "stars_gained": 2122,
+      "language": "Rust",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-10-31T14:50:00Z",
+      "age_days": 11,
+      "score": 4386,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -822,39 +843,16 @@
       "stars_delta": null
     },
     {
-      "rank": 17,
-      "full_name": "jhaizhou-ops/S2Arm",
-      "stars": 2365,
-      "stars_gained": 625,
-      "language": "C#",
-      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. æä½ èªå·±ç Switch æ¸¸æåçå¸¦å° iPhone / iPad / Macã",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-11-08T05:49:46Z",
-      "age_days": 2,
-      "score": 4691,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 7,
-      "rank_delta": -10,
-      "status": "down",
-      "stars_delta": 647
-    },
-    {
       "rank": 18,
-      "full_name": "we-promise/sure",
-      "stars": 11877,
-      "stars_gained": 559,
-      "language": "Ruby",
-      "description": "The personal finance app for everyone (by everyone)",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2025-07-23T04:13:55Z",
-      "age_days": 475,
-      "score": 4476,
+      "full_name": "groschen81-web/secure-desktop-installer",
+      "stars": 1210,
+      "stars_gained": 533,
+      "language": "HTML",
+      "description": "Professional Desktop Installer with Enhanced Security Features",
+      "social": [],
+      "created_at": "2026-11-06T21:23:15Z",
+      "age_days": 5,
+      "score": 4264,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -864,17 +862,17 @@
     },
     {
       "rank": 19,
-      "full_name": "Lee-xeo/Claude-Cage",
-      "stars": 1186,
-      "stars_gained": 534,
-      "language": "Go",
-      "description": "Cageï¼Mac ä¸çç¬ç« Claude ç¼ç å·¥ä½åºï¼éæ Linux ç»ç«¯ãæµè§å¨ä¸é¡¹ç®ç¼è¾å¨ã",
+      "full_name": "hembramneeraj3-create/aida-64-extreme",
+      "stars": 1304,
+      "stars_gained": 532,
+      "language": "HTML",
+      "description": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
       "social": [
         "x"
       ],
-      "created_at": "2026-10-31T15:07:08Z",
-      "age_days": 10,
-      "score": 4348,
+      "created_at": "2026-11-06T20:33:44Z",
+      "age_days": 5,
+      "score": 4256,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -884,19 +882,15 @@
     },
     {
       "rank": 20,
-      "full_name": "mattpocock/skills",
-      "stars": 320853,
-      "stars_gained": 1156,
-      "language": "Shell",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-02-03T11:15:53Z",
-      "age_days": 280,
-      "score": 4296,
+      "full_name": "amarisdzy/acronis-desktop-installer",
+      "stars": 1303,
+      "stars_gained": 532,
+      "language": "HTML",
+      "description": "Acronis Desktop: Complete Standalone Installer with Full Setup and Ready-to-Run Deployment",
+      "social": [],
+      "created_at": "2026-11-06T20:30:41Z",
+      "age_days": 5,
+      "score": 4256,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -906,22 +900,19 @@
     },
     {
       "rank": 21,
-      "full_name": "Zleap-AI/SAG-Wiki",
-      "stars": 838,
-      "stars_gained": 522,
-      "language": "Rust",
-      "description": "A lightweight knowledge base for people and agents",
+      "full_name": "mahmoudtawfik1998/secure-pdf-document-processor",
+      "stars": 1304,
+      "stars_gained": 531,
+      "language": "HTML",
+      "description": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
       "social": [
         "x"
       ],
-      "created_at": "2026-10-18T14:51:30Z",
-      "age_days": 23,
-      "score": 4250,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "생성 23일 · 스타 838"
-      ],
+      "created_at": "2026-11-06T21:23:09Z",
+      "age_days": 5,
+      "score": 4248,
+      "suspect": false,
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -929,18 +920,15 @@
     },
     {
       "rank": 22,
-      "full_name": "stablyai/orca",
-      "stars": 121391,
-      "stars_gained": 1016,
-      "language": "TypeScript",
-      "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-03-17T03:28:57Z",
-      "age_days": 238,
-      "score": 4184,
+      "full_name": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+      "stars": 1304,
+      "stars_gained": 531,
+      "language": "HTML",
+      "description": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+      "social": [],
+      "created_at": "2026-11-06T20:33:06Z",
+      "age_days": 5,
+      "score": 4248,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -950,17 +938,15 @@
     },
     {
       "rank": 23,
-      "full_name": "shadcn/improve",
-      "stars": 10237,
-      "stars_gained": 506,
-      "language": "",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-06-10T11:06:58Z",
-      "age_days": 153,
-      "score": 4052,
+      "full_name": "Somenicehispanic/ashampoo-winoptimizer-desktop",
+      "stars": 1301,
+      "stars_gained": 529,
+      "language": "HTML",
+      "description": "Ashampoo WinOptimizer 2026 Standalone Setup with Full Feature Set Enabled",
+      "social": [],
+      "created_at": "2026-11-06T20:36:25Z",
+      "age_days": 5,
+      "score": 4232,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -970,38 +956,33 @@
     },
     {
       "rank": 24,
-      "full_name": "vercel-labs/agent-browser",
-      "stars": 49160,
-      "stars_gained": 729,
-      "language": "Rust",
-      "description": "Browser automation CLI for AI agents",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-01-11T05:38:15Z",
-      "age_days": 303,
-      "score": 3828,
+      "full_name": "AleRibeiro44/archicad-desktop-setup",
+      "stars": 1301,
+      "stars_gained": 529,
+      "language": "HTML",
+      "description": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build",
+      "social": [],
+      "created_at": "2026-11-06T20:36:04Z",
+      "age_days": 5,
+      "score": 4232,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 15,
-      "rank_delta": -9,
-      "status": "down",
-      "stars_delta": 743
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 25,
-      "full_name": "qybaihe/bla",
-      "stars": 4970,
-      "stars_gained": 643,
-      "language": "TypeScript",
-      "description": "ð¡ï¸ BLA (Blind LLM Agents) â Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-10-25T05:25:45Z",
-      "age_days": 16,
-      "score": 3812,
+      "full_name": "PHISHER420/autodesk-inventor-desktop-config",
+      "stars": 1299,
+      "stars_gained": 527,
+      "language": "HTML",
+      "description": "Autodesk Inventor 2026 Professional Desktop Installer with Pre-Configured Full Feature Set",
+      "social": [],
+      "created_at": "2026-11-06T20:40:29Z",
+      "age_days": 5,
+      "score": 4216,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -1014,8 +995,8 @@
     {
       "rank": 1,
       "full_name": "meta/astryx",
-      "stars": 22651,
-      "stars_gained": 6044,
+      "stars": 24865,
+      "stars_gained": 8258,
       "language": "TypeScript",
       "description": "An open source design system that's fully customizable and agent ready",
       "social": [
@@ -1024,60 +1005,20 @@
         "x"
       ],
       "created_at": "2026-01-09T16:20:32Z",
-      "age_days": 305,
-      "score": 57120,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 3,
-      "rank_delta": 2,
-      "status": "up",
-      "stars_delta": 2793
-    },
-    {
-      "rank": 2,
-      "full_name": "anefzaoui/misterdownloadmanager",
-      "stars": 5454,
-      "stars_gained": 4058,
-      "language": "Rust",
-      "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-10-29T01:25:19Z",
-      "age_days": 12,
-      "score": 49667,
+      "age_days": 306,
+      "score": 98491,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 1,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 1672
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 2214
     },
     {
-      "rank": 3,
-      "full_name": "huamidev/GestaltX",
-      "stars": 4644,
-      "stars_gained": 4588,
-      "language": "Swift",
-      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-11-09T05:15:48Z",
-      "age_days": 1,
-      "score": 44824,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 7,
-      "rank_delta": 4,
-      "status": "up",
-      "stars_delta": 3241
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "full_name": "janestreet/agent_skills",
-      "stars": 3760,
-      "stars_gained": 3519,
+      "stars": 5744,
+      "stars_gained": 5503,
       "language": "",
       "description": "Agent skills",
       "social": [
@@ -1085,83 +1026,101 @@
         "x"
       ],
       "created_at": "2026-11-03T16:50:21Z",
-      "age_days": 7,
-      "score": 42753,
+      "age_days": 8,
+      "score": 66903,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 4,
+      "rank_delta": 2,
+      "status": "up",
+      "stars_delta": 1984
+    },
+    {
+      "rank": 3,
+      "full_name": "anefzaoui/misterdownloadmanager",
+      "stars": 6751,
+      "stars_gained": 5358,
+      "language": "Rust",
+      "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-10-29T01:25:19Z",
+      "age_days": 13,
+      "score": 65602,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 2,
-      "rank_delta": -2,
+      "rank_delta": -1,
       "status": "down",
-      "stars_delta": 1753
+      "stars_delta": 1297
+    },
+    {
+      "rank": 4,
+      "full_name": "huamidev/GestaltX",
+      "stars": 6170,
+      "stars_gained": 6101,
+      "language": "Swift",
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-11-09T05:15:48Z",
+      "age_days": 2,
+      "score": 59723,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 3,
+      "rank_delta": -1,
+      "status": "down",
+      "stars_delta": 1526
     },
     {
       "rank": 5,
       "full_name": "Minireel/HGhub",
-      "stars": 8114,
-      "stars_gained": 4865,
-      "language": "TypeScript",
+      "stars": 8285,
+      "stars_gained": 5036,
+      "language": "",
       "description": "YellowFruit third-party client",
       "social": [
         "x"
       ],
       "created_at": "2026-11-03T14:04:27Z",
-      "age_days": 7,
-      "score": 41012,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 6,
-      "rank_delta": 1,
-      "status": "up",
-      "stars_delta": 2300
-    },
-    {
-      "rank": 6,
-      "full_name": "sherlock-project/sherlock",
-      "stars": 108840,
-      "stars_gained": 5524,
-      "language": "Python",
-      "description": "Hunt down social media accounts by username across social networks",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2018-12-24T14:30:48Z",
-      "age_days": 2878,
-      "score": 28301,
+      "age_days": 8,
+      "score": 43558,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 5,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 1974
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 171
+    },
+    {
+      "rank": 6,
+      "full_name": "NotRexed/Hookshot",
+      "stars": 7629,
+      "stars_gained": 4688,
+      "language": "C++",
+      "description": "",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-11-05T12:18:58Z",
+      "age_days": 6,
+      "score": 38066,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 9,
+      "rank_delta": 3,
+      "status": "up",
+      "stars_delta": 1224
     },
     {
       "rank": 7,
-      "full_name": "jhaizhou-ops/S2Arm",
-      "stars": 2365,
-      "stars_gained": 2119,
-      "language": "C#",
-      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. æä½ èªå·±ç Switch æ¸¸æåçå¸¦å° iPhone / iPad / Macã",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-11-08T05:49:46Z",
-      "age_days": 2,
-      "score": 26661,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": 4,
-      "rank_delta": -3,
-      "status": "down",
-      "stars_delta": 647
-    },
-    {
-      "rank": 8,
       "full_name": "morluto/rea",
-      "stars": 449834,
-      "stars_gained": 6163,
+      "stars": 452611,
+      "stars_gained": 8940,
       "language": "TypeScript",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "social": [
@@ -1170,64 +1129,83 @@
         "x"
       ],
       "created_at": "2026-04-14T00:51:32Z",
-      "age_days": 210,
-      "score": 23746,
+      "age_days": 211,
+      "score": 37654,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 8,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 3022
+      "rank_delta": 1,
+      "status": "up",
+      "stars_delta": 2777
+    },
+    {
+      "rank": 8,
+      "full_name": "sherlock-project/sherlock",
+      "stars": 110022,
+      "stars_gained": 6679,
+      "language": "Python",
+      "description": "Hunt down social media accounts by username across social networks",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2018-12-24T14:30:48Z",
+      "age_days": 2879,
+      "score": 37533,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 6,
+      "rank_delta": -2,
+      "status": "down",
+      "stars_delta": 1182
     },
     {
       "rank": 9,
-      "full_name": "NotRexed/Hookshot",
-      "stars": 6405,
-      "stars_gained": 3442,
-      "language": "C++",
-      "description": "",
+      "full_name": "Lee-xeo/Claude-Cage",
+      "stars": 3113,
+      "stars_gained": 2534,
+      "language": "Go",
+      "description": "Cageï¼Mac ä¸çç¬ç« Claude ç¼ç å·¥ä½åºï¼éæ Linux ç»ç«¯ãæµè§å¨ä¸é¡¹ç®ç¼è¾å¨ã",
       "social": [
-        "hackernews",
         "x"
       ],
-      "created_at": "2026-11-05T12:18:58Z",
-      "age_days": 5,
-      "score": 23372,
+      "created_at": "2026-10-31T15:07:08Z",
+      "age_days": 11,
+      "score": 30937,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 9,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 1620
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 10,
-      "full_name": "expo/exact",
-      "stars": 2120,
-      "stars_gained": 2125,
-      "language": "Rust",
-      "description": "",
+      "full_name": "jhaizhou-ops/S2Arm",
+      "stars": 2582,
+      "stars_gained": 2336,
+      "language": "C#",
+      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. æä½ èªå·±ç Switch æ¸¸æåçå¸¦å° iPhone / iPad / Macã",
       "social": [
-        "hackernews",
         "x"
       ],
-      "created_at": "2026-11-02T01:29:01Z",
-      "age_days": 8,
-      "score": 19230,
+      "created_at": "2026-11-08T05:49:46Z",
+      "age_days": 3,
+      "score": 29422,
       "suspect": false,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상"
       ],
-      "rank_prev": 14,
-      "rank_delta": 4,
-      "status": "up",
-      "stars_delta": 1408
+      "rank_prev": 7,
+      "rank_delta": -3,
+      "status": "down",
+      "stars_delta": 217
     },
     {
       "rank": 11,
       "full_name": "h4ckf0r0day/obscura",
-      "stars": 32202,
-      "stars_gained": 1620,
+      "stars": 32905,
+      "stars_gained": 2323,
       "language": "Rust",
       "description": "The headless browser for AI agents and web scraping",
       "social": [
@@ -1236,83 +1214,64 @@
         "x"
       ],
       "created_at": "2026-04-13T10:31:41Z",
-      "age_days": 211,
-      "score": 17717,
+      "age_days": 212,
+      "score": 28389,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 10,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 549
+      "rank_prev": 11,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 703
     },
     {
       "rank": 12,
-      "full_name": "FluentRead/FluentRead",
-      "stars": 10279,
-      "stars_gained": 1418,
-      "language": "TypeScript",
-      "description": "An open-source browser extension for bilingual translation. ä¸æ¬¾å¼æºçæµè§å¨åè¯­ç¿»è¯æä»¶ã",
+      "full_name": "GoogleChrome/modern-web-guidance",
+      "stars": 4957,
+      "stars_gained": 2314,
+      "language": "",
+      "description": "Keep your coding agent up to date with the latest web best practices",
       "social": [
+        "hackernews",
         "x"
       ],
-      "created_at": "2023-12-22T02:59:51Z",
-      "age_days": 1054,
-      "score": 17154,
+      "created_at": "2026-03-23T17:49:14Z",
+      "age_days": 233,
+      "score": 27810,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 15,
-      "rank_delta": 3,
-      "status": "up",
-      "stars_delta": 893
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 13,
-      "full_name": "anthropics/skills",
-      "stars": 192258,
-      "stars_gained": 2670,
-      "language": "Python",
-      "description": "Public repository for Agent Skills",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2025-09-22T15:53:31Z",
-      "age_days": 414,
-      "score": 14676,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 19,
-      "rank_delta": 6,
-      "status": "up",
-      "stars_delta": 1372
-    },
-    {
-      "rank": 14,
-      "full_name": "tangerineturtle1/NX2navi",
-      "stars": 2823,
-      "stars_gained": 1577,
-      "language": "C",
+      "full_name": "expo/exact",
+      "stars": 2872,
+      "stars_gained": 2873,
+      "language": "Rust",
       "description": "",
       "social": [
+        "hackernews",
         "x"
       ],
-      "created_at": "2026-11-07T10:01:23Z",
-      "age_days": 3,
-      "score": 13564,
+      "created_at": "2026-11-02T01:29:01Z",
+      "age_days": 9,
+      "score": 26011,
       "suspect": false,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상"
       ],
-      "rank_prev": 12,
-      "rank_delta": -2,
+      "rank_prev": 10,
+      "rank_delta": -3,
       "status": "down",
-      "stars_delta": 529
+      "stars_delta": 752
     },
     {
-      "rank": 15,
+      "rank": 14,
       "full_name": "storytold/craft-anything",
-      "stars": 26086,
-      "stars_gained": 3640,
+      "stars": 28283,
+      "stars_gained": 5789,
       "language": "Rust",
       "description": "Craft Anything: understand how any software works, and craft your own.",
       "social": [
@@ -1320,43 +1279,41 @@
         "x"
       ],
       "created_at": "2026-10-31T14:50:00Z",
-      "age_days": 10,
-      "score": 13474,
+      "age_days": 11,
+      "score": 23184,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 16,
+      "rank_prev": 15,
       "rank_delta": 1,
       "status": "up",
-      "stars_delta": 1769
+      "stars_delta": 2197
+    },
+    {
+      "rank": 15,
+      "full_name": "anthropics/skills",
+      "stars": 193098,
+      "stars_gained": 3510,
+      "language": "Python",
+      "description": "Public repository for Agent Skills",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-09-22T15:53:31Z",
+      "age_days": 415,
+      "score": 22397,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 13,
+      "rank_delta": -2,
+      "status": "down",
+      "stars_delta": 840
     },
     {
       "rank": 16,
-      "full_name": "shinyobjectz/raea",
-      "stars": 1950,
-      "stars_gained": 1259,
-      "language": "Rust",
-      "description": "Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.",
-      "social": [
-        "hackernews",
-        "x"
-      ],
-      "created_at": "2026-10-18T18:08:48Z",
-      "age_days": 23,
-      "score": 13420,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": 13,
-      "rank_delta": -3,
-      "status": "down",
-      "stars_delta": 435
-    },
-    {
-      "rank": 17,
       "full_name": "homeassistant-ai/ha-mcp",
-      "stars": 6577,
-      "stars_gained": 1091,
+      "stars": 7281,
+      "stars_gained": 1807,
       "language": "Python",
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "social": [
@@ -1365,63 +1322,102 @@
         "x"
       ],
       "created_at": "2025-09-14T13:23:45Z",
-      "age_days": 422,
-      "score": 13200,
+      "age_days": 423,
+      "score": 22211,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 25,
-      "rank_delta": 8,
+      "rank_prev": 17,
+      "rank_delta": 1,
       "status": "up",
-      "stars_delta": 686
+      "stars_delta": 704
     },
     {
-      "rank": 18,
-      "full_name": "anthropics/claude-quickstarts",
-      "stars": 20463,
-      "stars_gained": 1069,
-      "language": "Python",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "rank": 17,
+      "full_name": "we-promise/sure",
+      "stars": 12898,
+      "stars_gained": 1763,
+      "language": "Ruby",
+      "description": "The personal finance app for everyone (by everyone)",
       "social": [
         "reddit",
         "x"
       ],
-      "created_at": "2024-08-29T19:52:32Z",
-      "age_days": 803,
-      "score": 12945,
+      "created_at": "2025-07-23T04:13:55Z",
+      "age_days": 476,
+      "score": 21560,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 24,
-      "rank_delta": 6,
-      "status": "up",
-      "stars_delta": 479
-    },
-    {
-      "rank": 19,
-      "full_name": "RunanywhereAI/trnrt",
-      "stars": 1016,
-      "stars_gained": 1004,
-      "language": "Python",
-      "description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-10-30T18:30:04Z",
-      "age_days": 11,
-      "score": 12069,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
       "stars_delta": null
     },
     {
+      "rank": 18,
+      "full_name": "tangerineturtle1/NX2navi",
+      "stars": 3198,
+      "stars_gained": 1956,
+      "language": "C",
+      "description": "",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-11-07T10:01:23Z",
+      "age_days": 4,
+      "score": 19465,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 14,
+      "rank_delta": -4,
+      "status": "down",
+      "stars_delta": 375
+    },
+    {
+      "rank": 19,
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "stars": 70162,
+      "stars_gained": 1924,
+      "language": "Python",
+      "description": "LLM é©±å¨çå¤å¸åºè¡ç¥¨æºè½åæç³»ç»ï¼å¤æºè¡æãå®æ¶æ°é»ãå³ç­çæ¿ä¸èªå¨æ¨éï¼æ¯æé¶ææ¬å®æ¶è¿è¡ã  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-01-10T06:43:20Z",
+      "age_days": 305,
+      "score": 19201,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 25,
+      "rank_delta": 6,
+      "status": "up",
+      "stars_delta": 618
+    },
+    {
       "rank": 20,
+      "full_name": "FluentRead/FluentRead",
+      "stars": 10422,
+      "stars_gained": 1552,
+      "language": "TypeScript",
+      "description": "An open-source browser extension for bilingual translation. ä¸æ¬¾å¼æºçæµè§å¨åè¯­ç¿»è¯æä»¶ã",
+      "social": [
+        "x"
+      ],
+      "created_at": "2023-12-22T02:59:51Z",
+      "age_days": 1055,
+      "score": 18929,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 12,
+      "rank_delta": -8,
+      "status": "down",
+      "stars_delta": 143
+    },
+    {
+      "rank": 21,
       "full_name": "pingdotgg/t3code",
-      "stars": 55677,
-      "stars_gained": 3228,
+      "stars": 56943,
+      "stars_gained": 4494,
       "language": "TypeScript",
       "description": null,
       "social": [
@@ -1430,114 +1426,92 @@
         "x"
       ],
       "created_at": "2026-02-08T23:46:22Z",
-      "age_days": 275,
-      "score": 12061,
+      "age_days": 276,
+      "score": 18128,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 20,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 1625
+      "rank_delta": -1,
+      "status": "down",
+      "stars_delta": 1266
     },
     {
-      "rank": 21,
+      "rank": 22,
       "full_name": "shadcn/improve",
-      "stars": 10237,
-      "stars_gained": 886,
+      "stars": 10810,
+      "stars_gained": 1459,
       "language": "",
       "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "social": [
         "x"
       ],
       "created_at": "2026-06-10T11:06:58Z",
-      "age_days": 153,
-      "score": 10665,
+      "age_days": 154,
+      "score": 17553,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 22,
-      "full_name": "amosblomqvist/learnharness",
-      "stars": 8245,
-      "stars_gained": 1772,
-      "language": "TypeScript",
-      "description": "Agent harness for learning difficult things.",
-      "social": [
-        "hackernews",
-        "x"
-      ],
-      "created_at": "2026-10-16T19:35:33Z",
-      "age_days": 25,
-      "score": 10660,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 18,
-      "rank_delta": -4,
+      "rank_prev": 21,
+      "rank_delta": -1,
       "status": "down",
-      "stars_delta": 641
+      "stars_delta": 573
     },
     {
       "rank": 23,
-      "full_name": "google-deepmind/mujoco",
-      "stars": 17322,
-      "stars_gained": 941,
-      "language": "C++",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "full_name": "shinyobjectz/raea",
+      "stars": 2145,
+      "stars_gained": 1446,
+      "language": "Rust",
+      "description": "Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.",
       "social": [
         "hackernews",
-        "reddit",
         "x"
       ],
-      "created_at": "2021-08-27T12:25:48Z",
-      "age_days": 1901,
-      "score": 10169,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 24,
-      "full_name": "Ray-lea/Argus",
-      "stars": 1237,
-      "stars_gained": 825,
-      "language": "Rust",
-      "description": "ç°ä»£ Windows ä»»å¡ç®¡çå¨ Â· A modern task manager for Windows, built with Rust and GPUI Kit.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-10-12T12:11:07Z",
-      "age_days": 29,
-      "score": 10010,
+      "created_at": "2026-10-18T18:08:48Z",
+      "age_days": 24,
+      "score": 17059,
       "suspect": false,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상"
       ],
-      "rank_prev": 11,
-      "rank_delta": -13,
+      "rank_prev": 16,
+      "rank_delta": -7,
       "status": "down",
-      "stars_delta": 223
+      "stars_delta": 195
+    },
+    {
+      "rank": 24,
+      "full_name": "anthropics/claude-quickstarts",
+      "stars": 20760,
+      "stars_gained": 1366,
+      "language": "Python",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2024-08-29T19:52:32Z",
+      "age_days": 804,
+      "score": 16980,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 18,
+      "rank_delta": -6,
+      "status": "down",
+      "stars_delta": 297
     },
     {
       "rank": 25,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "stars": 69544,
-      "stars_gained": 1306,
-      "language": "Python",
-      "description": "LLM é©±å¨çå¤å¸åºè¡ç¥¨æºè½åæç³»ç»ï¼å¤æºè¡æãå®æ¶æ°é»ãå³ç­çæ¿ä¸èªå¨æ¨éï¼æ¯æé¶ææ¬å®æ¶è¿è¡ã  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "stars": 69973,
+      "stars_gained": 3836,
+      "language": "JavaScript",
+      "description": "å¨ dsh éè£ä¸è¿ä¸ªæä»¶å³å¯ï¼æ éç»å½ãæ³¨åæå¡« API Keyï¼å°±è½ä½¿ç¨åæ¬ DeepSeek V4.1 FlashãKimi K3 å¨åçåæ²¿æ¨¡åââå®å¨åè´¹ï¼ä¸ééã All you do is install this plugin in dsh: no login, no sign-up, no API key â the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "social": [
-        "hackernews",
         "x"
       ],
-      "created_at": "2026-01-10T06:43:20Z",
-      "age_days": 304,
-      "score": 9868,
+      "created_at": "2026-09-24T16:17:19Z",
+      "age_days": 48,
+      "score": 15846,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -1546,90 +1520,90 @@
       "stars_delta": null
     }
   ],
-  "daily_suspect_count": 2,
-  "daily_clean_count": 23,
+  "daily_suspect_count": 0,
+  "daily_clean_count": 25,
   "weekly_suspect_count": 0,
   "weekly_clean_count": 25,
   "note": "weekly는 주 시작 직후에는 daily와 거의 동일하다. suspect=true 항목은 스타 농장 스팸 의심이니 리포트에서 제외하거나 따로 표시할 것.",
-  "prev_generated_at_kst": "2026-11-10 08:50:00",
+  "prev_generated_at_kst": "2026-11-11 08:50:00",
   "daily_dropped": [
     {
-      "full_name": "amosblomqvist/learnharness",
+      "full_name": "Minireel/HGhub",
+      "rank_prev": 3
+    },
+    {
+      "full_name": "anthropics/skills",
+      "rank_prev": 8
+    },
+    {
+      "full_name": "experientiallabs/experiential",
       "rank_prev": 9
     },
     {
-      "full_name": "h4ckf0r0day/obscura",
+      "full_name": "FluentRead/FluentRead",
       "rank_prev": 10
     },
     {
-      "full_name": "tangerineturtle1/NX2navi",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
       "rank_prev": 11
     },
     {
-      "full_name": "google/elephant-goldfish-model",
+      "full_name": "sherlock-project/sherlock",
+      "rank_prev": 12
+    },
+    {
+      "full_name": "RunanywhereAI/trnrt",
       "rank_prev": 13
     },
     {
-      "full_name": "shinyobjectz/raea",
+      "full_name": "Usagi-org/ai-goofish-monitor",
       "rank_prev": 14
     },
     {
-      "full_name": "JuneYaooo/rea-video",
-      "rank_prev": 16
+      "full_name": "PotterRemember37/Capri-AI-Desktop",
+      "rank_prev": 15
     },
     {
-      "full_name": "IainKay/ram-altman",
+      "full_name": "jhaizhou-ops/S2Arm",
       "rank_prev": 17
     },
     {
-      "full_name": "DIYgod/pinky",
-      "rank_prev": 18
-    },
-    {
-      "full_name": "Frizti/Fritchii",
-      "rank_prev": 19
-    },
-    {
-      "full_name": "milind-soni/OpenMausBot",
+      "full_name": "mattpocock/skills",
       "rank_prev": 20
     },
     {
-      "full_name": "Ray-lea/Argus",
+      "full_name": "Zleap-AI/SAG-Wiki",
       "rank_prev": 21
     },
     {
-      "full_name": "kingcharleslzy-ai/dsh-purge",
+      "full_name": "stablyai/orca",
       "rank_prev": 22
     },
     {
-      "full_name": "ranxianglei/billion-context",
-      "rank_prev": 23
-    },
-    {
-      "full_name": "anthropics/claude-quickstarts",
+      "full_name": "vercel-labs/agent-browser",
       "rank_prev": 24
     },
     {
-      "full_name": "jamesondh/chimera-vocal-synth",
+      "full_name": "qybaihe/bla",
       "rank_prev": 25
     }
   ],
   "weekly_dropped": [
     {
-      "full_name": "0sec-labs/0",
-      "rank_prev": 17
+      "full_name": "RunanywhereAI/trnrt",
+      "rank_prev": 19
     },
     {
-      "full_name": "ccch1mneyyy/dsh-Go",
-      "rank_prev": 21
-    },
-    {
-      "full_name": "google/elephant-goldfish-model",
+      "full_name": "amosblomqvist/learnharness",
       "rank_prev": 22
     },
     {
-      "full_name": "milind-soni/OpenMausBot",
+      "full_name": "google-deepmind/mujoco",
       "rank_prev": 23
+    },
+    {
+      "full_name": "Ray-lea/Argus",
+      "rank_prev": 24
     }
   ]
 }
