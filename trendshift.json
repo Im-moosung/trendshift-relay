@@ -1,38 +1,13 @@
 {
-  "generated_at": "2026-11-16T23:50:00.855435+00:00",
-  "generated_at_kst": "2026-11-17 08:50:00",
+  "generated_at": "2026-11-17T23:50:00.859405+00:00",
+  "generated_at_kst": "2026-11-18 08:50:00",
   "source": "trendshift.io (scraped from SSR payload)",
   "huggingface": {
     "models": [
       {
-        "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-        "likes": 8653,
-        "downloads": 29567,
-        "pipeline_tag": "text-generation",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5",
-          "image-text-to-text",
-          "text-generation-inference",
-          "unsloth",
-          "reasoning",
-          "distillation",
-          "deepseek",
-          "sft",
-          "rl",
-          "gspo"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-        "status": "same",
-        "likes_delta": 1128
-      },
-      {
         "id": "MiniMaxAI/MiniMax-H3-Image",
-        "likes": 1310,
-        "downloads": 609130,
+        "likes": 1455,
+        "downloads": 727110,
         "pipeline_tag": "text-to-image",
         "tags": [
           "minimax-h3",
@@ -52,12 +27,12 @@
         "gated": false,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
         "status": "same",
-        "likes_delta": 128
+        "likes_delta": 145
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 20261,
-        "downloads": 6763402,
+        "likes": 20422,
+        "downloads": 6942530,
         "pipeline_tag": "image-text-to-text",
         "tags": [
           "transformers",
@@ -76,12 +51,12 @@
         "gated": false,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "status": "same",
-        "likes_delta": 145
+        "likes_delta": 161
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 12223,
-        "downloads": 2789021,
+        "likes": 12400,
+        "downloads": 2828071,
         "pipeline_tag": "image-to-video",
         "tags": [
           "diffusion-single-file",
@@ -101,57 +76,12 @@
         "gated": false,
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "status": "same",
-        "likes_delta": 166
-      },
-      {
-        "id": "Comfy-Org/MiniMax-H3-Image",
-        "likes": 478,
-        "downloads": 2294065,
-        "pipeline_tag": "text-to-image",
-        "tags": [
-          "diffusion-single-file",
-          "comfyui",
-          "text-to-image",
-          "base_model:MiniMaxAI/MiniMax-H3-Image",
-          "base_model:finetune:MiniMaxAI/MiniMax-H3-Image",
-          "license:other",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-        "status": "same",
-        "likes_delta": 67
-      },
-      {
-        "id": "Zyphra/ZONOS3-Mini",
-        "likes": 459,
-        "downloads": 69946,
-        "pipeline_tag": "text-to-speech",
-        "tags": [
-          "zonos3",
-          "safetensors",
-          "gguf",
-          "text-to-speech",
-          "tts",
-          "speech-synthesis",
-          "voice-cloning",
-          "multilingual",
-          "zonos",
-          "zyphra",
-          "en",
-          "fr"
-        ],
-        "mac_ready": true,
-        "gated": false,
-        "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
-        "status": "same",
-        "likes_delta": 67
+        "likes_delta": 177
       },
       {
         "id": "higurashi-ai/Haru-4B",
-        "likes": 421,
-        "downloads": 3372,
+        "likes": 498,
+        "downloads": 4445,
         "pipeline_tag": "audio-to-audio",
         "tags": [
           "safetensors",
@@ -170,13 +100,13 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/higurashi-ai/Haru-4B",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 77
       },
       {
         "id": "thinkingmachines/Inkling-2-Small",
-        "likes": 405,
-        "downloads": 16918,
+        "likes": 440,
+        "downloads": 18359,
         "pipeline_tag": "image-text-to-text",
         "tags": [
           "transformers",
@@ -196,12 +126,12 @@
         "gated": false,
         "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
         "status": "same",
-        "likes_delta": 62
+        "likes_delta": 35
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 6079,
-        "downloads": 6666734,
+        "likes": 6136,
+        "downloads": 6827598,
         "pipeline_tag": null,
         "tags": [
           "gguf",
@@ -220,32 +150,108 @@
         "gated": false,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "status": "same",
-        "likes_delta": 82
+        "likes_delta": 57
       },
       {
-        "id": "speridlabs/idol",
-        "likes": 2415,
-        "downloads": 34752,
-        "pipeline_tag": "image-to-3d",
+        "id": "Comfy-Org/MiniMax-H3-Image",
+        "likes": 519,
+        "downloads": 2660341,
+        "pipeline_tag": "text-to-image",
         "tags": [
-          "idol",
-          "gaussian-splatting",
-          "3d",
-          "image-to-3d",
-          "license:apache-2.0",
+          "diffusion-single-file",
+          "comfyui",
+          "text-to-image",
+          "base_model:MiniMaxAI/MiniMax-H3-Image",
+          "base_model:finetune:MiniMaxAI/MiniMax-H3-Image",
+          "license:other",
           "region:us"
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/speridlabs/idol",
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
         "status": "same",
-        "likes_delta": 52
+        "likes_delta": 41
+      },
+      {
+        "id": "black-forest-labs/flux-3-image-klein-comfy",
+        "likes": 3405,
+        "downloads": 1062051,
+        "pipeline_tag": "image-to-image",
+        "tags": [
+          "diffusion-single-file",
+          "comfyui",
+          "image-generation",
+          "image-editing",
+          "flux",
+          "flux-3",
+          "black-forest-labs",
+          "image-to-image",
+          "en",
+          "base_model:black-forest-labs/flux-3-image-klein",
+          "base_model:finetune:black-forest-labs/flux-3-image-klein",
+          "license:other"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+        "status": "new",
+        "likes_delta": null
+      },
+      {
+        "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+        "likes": 494,
+        "downloads": 160748,
+        "pipeline_tag": "text-to-image",
+        "tags": [
+          "diffusers",
+          "safetensors",
+          "gguf",
+          "qwen-image",
+          "qwen-image-2.1",
+          "text-to-image",
+          "image-editing",
+          "fp8",
+          "int8",
+          "nvfp4",
+          "nf4",
+          "quantized"
+        ],
+        "mac_ready": true,
+        "gated": false,
+        "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+        "status": "new",
+        "likes_delta": null
+      },
+      {
+        "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "likes": 3291,
+        "downloads": 1759757,
+        "pipeline_tag": "image-text-to-text",
+        "tags": [
+          "gguf",
+          "unsloth",
+          "fine tune",
+          "heretic",
+          "uncensored",
+          "abliterated",
+          "ara",
+          "MTP GGUF Quants",
+          "Regular GGUF Quants",
+          "qwen3_8",
+          "qwen3_6",
+          "qwen3_5"
+        ],
+        "mac_ready": true,
+        "gated": false,
+        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "status": "new",
+        "likes_delta": null
       }
     ],
     "spaces": [
       {
         "id": "huggingface/moe-blogpost",
-        "likes": 693,
+        "likes": 720,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -256,11 +262,11 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
         "status": "same",
-        "likes_delta": 36
+        "likes_delta": 27
       },
       {
         "id": "joelniklaus/harness-leaderboard",
-        "likes": 405,
+        "likes": 429,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -271,11 +277,26 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
         "status": "same",
+        "likes_delta": 24
+      },
+      {
+        "id": "MiniMaxAI/minimax-h3-image",
+        "likes": 155,
+        "downloads": null,
+        "pipeline_tag": null,
+        "tags": [
+          "gradio",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image",
+        "status": "same",
         "likes_delta": 28
       },
       {
         "id": "kulkas2pintu/wan777",
-        "likes": 1650,
+        "likes": 1676,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -290,23 +311,8 @@
         "likes_delta": 26
       },
       {
-        "id": "MiniMaxAI/minimax-h3-image",
-        "likes": 127,
-        "downloads": null,
-        "pipeline_tag": null,
-        "tags": [
-          "gradio",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image",
-        "status": "same",
-        "likes_delta": 20
-      },
-      {
         "id": "JCisHERE/wan2-2-i2v-v3",
-        "likes": 413,
+        "likes": 421,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -318,11 +324,11 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
         "status": "same",
-        "likes_delta": 15
+        "likes_delta": 8
       },
       {
         "id": "PrunaAI/P-H3-Image",
-        "likes": 175,
+        "likes": 182,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -333,40 +339,15 @@
         "mac_ready": false,
         "gated": false,
         "url": "https://huggingface.co/spaces/PrunaAI/P-H3-Image",
-        "status": "new",
-        "likes_delta": null
+        "status": "same",
+        "likes_delta": 7
       }
     ],
     "datasets": [
       {
-        "id": "Angais/pixel-art-atlas-1.4m",
-        "likes": 539,
-        "downloads": 63417,
-        "pipeline_tag": null,
-        "tags": [
-          "task_categories:text-to-image",
-          "language:en",
-          "license:cc0-1.0",
-          "size_categories:1M<n<10M",
-          "format:parquet",
-          "modality:image",
-          "modality:text",
-          "library:datasets",
-          "library:dask",
-          "library:polars",
-          "library:mlcroissant",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m",
-        "status": "same",
-        "likes_delta": 35
-      },
-      {
         "id": "Vyber07/cyber-security",
-        "likes": 1127,
-        "downloads": 23283,
+        "likes": 1168,
+        "downloads": 24049,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-generation",
@@ -386,12 +367,37 @@
         "gated": true,
         "url": "https://huggingface.co/datasets/Vyber07/cyber-security",
         "status": "same",
-        "likes_delta": 37
+        "likes_delta": 41
+      },
+      {
+        "id": "Angais/pixel-art-atlas-1.4m",
+        "likes": 554,
+        "downloads": 66943,
+        "pipeline_tag": null,
+        "tags": [
+          "task_categories:text-to-image",
+          "language:en",
+          "license:cc0-1.0",
+          "size_categories:1M<n<10M",
+          "format:parquet",
+          "modality:image",
+          "modality:text",
+          "library:datasets",
+          "library:dask",
+          "library:polars",
+          "library:mlcroissant",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m",
+        "status": "same",
+        "likes_delta": 15
       },
       {
         "id": "nvidia/simready-assets",
-        "likes": 1612,
-        "downloads": 1658012,
+        "likes": 1629,
+        "downloads": 1683886,
         "pipeline_tag": null,
         "tags": [
           "license:cc-by-4.0",
@@ -402,37 +408,12 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/nvidia/simready-assets",
         "status": "same",
-        "likes_delta": 22
-      },
-      {
-        "id": "tencent/TailorRig",
-        "likes": 115,
-        "downloads": 5895,
-        "pipeline_tag": null,
-        "tags": [
-          "language:en",
-          "license:other",
-          "size_categories:10K<n<100K",
-          "modality:3d",
-          "arxiv:2611.02902",
-          "region:us",
-          "3d",
-          "mesh",
-          "skeleton",
-          "rigging",
-          "skinning",
-          "auto-rigging"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/datasets/tencent/TailorRig",
-        "status": "same",
-        "likes_delta": 12
+        "likes_delta": 17
       },
       {
         "id": "google/physical-engineerings-last-exam",
-        "likes": 81,
-        "downloads": 127161,
+        "likes": 88,
+        "downloads": 132059,
         "pipeline_tag": null,
         "tags": [
           "benchmark:official",
@@ -452,83 +433,66 @@
         "gated": true,
         "url": "https://huggingface.co/datasets/google/physical-engineerings-last-exam",
         "status": "same",
-        "likes_delta": 14
+        "likes_delta": 7
       },
       {
-        "id": "nvidia/PhysicalAI-Human-1M-100K",
-        "likes": 64,
-        "downloads": 12291,
+        "id": "nvidia/USDCraft-10K",
+        "likes": 60,
+        "downloads": 17274,
         "pipeline_tag": null,
         "tags": [
-          "language:en",
-          "license:cc-by-4.0",
-          "size_categories:n<1K",
+          "task_categories:robotics",
+          "license:apache-2.0",
+          "size_categories:10K<n<100K",
+          "format:csv",
+          "modality:3d",
           "modality:image",
           "modality:tabular",
           "modality:text",
-          "modality:video",
           "library:datasets",
-          "library:mlcroissant",
-          "library:lerobot",
-          "region:us",
-          "robotics"
+          "library:pandas",
+          "library:polars",
+          "library:mlcroissant"
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K",
+        "url": "https://huggingface.co/datasets/nvidia/USDCraft-10K",
+        "status": "new",
+        "likes_delta": null
+      },
+      {
+        "id": "tencent/TailorRig",
+        "likes": 117,
+        "downloads": 5958,
+        "pipeline_tag": null,
+        "tags": [
+          "language:en",
+          "license:other",
+          "size_categories:10K<n<100K",
+          "modality:3d",
+          "arxiv:2611.02902",
+          "region:us",
+          "3d",
+          "mesh",
+          "skeleton",
+          "rigging",
+          "skinning",
+          "auto-rigging"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/datasets/tencent/TailorRig",
         "status": "same",
-        "likes_delta": 7
+        "likes_delta": 2
       }
     ]
   },
   "daily": [
     {
       "rank": 1,
-      "full_name": "dream-num/univer",
-      "stars": 27720,
-      "stars_gained": 2155,
-      "language": "TypeScript",
-      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2022-09-29T12:09:14Z",
-      "age_days": 1509,
-      "score": 17300,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 5,
-      "rank_delta": 4,
-      "status": "up",
-      "stars_delta": 2174
-    },
-    {
-      "rank": 2,
-      "full_name": "libracoder/kiri",
-      "stars": 8747,
-      "stars_gained": 2525,
-      "language": "Rust",
-      "description": "A small, fast container runtime for macOS, Windows and Linux",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-11-02T16:11:30Z",
-      "age_days": 14,
-      "score": 15796,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 1,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 2618
-    },
-    {
-      "rank": 3,
       "full_name": "BaaRai/ARTEX",
-      "stars": 4723,
-      "stars_gained": 1045,
+      "stars": 6414,
+      "stars_gained": 1844,
       "language": "Go",
       "description": "ARTEX - AI autonomous penetration testing system (English translation)",
       "social": [
@@ -536,10 +500,52 @@
         "x"
       ],
       "created_at": "2026-10-08T21:14:39Z",
-      "age_days": 39,
-      "score": 9207,
+      "age_days": 40,
+      "score": 15186,
       "suspect": false,
       "suspect_reasons": [],
+      "rank_prev": 3,
+      "rank_delta": 2,
+      "status": "up",
+      "stars_delta": 1691
+    },
+    {
+      "rank": 2,
+      "full_name": "elementalsouls/Claude-BugHunter",
+      "stars": 9156,
+      "stars_gained": 1736,
+      "language": "Python",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-05-05T11:22:32Z",
+      "age_days": 196,
+      "score": 13936,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 7,
+      "rank_delta": 5,
+      "status": "up",
+      "stars_delta": 1762
+    },
+    {
+      "rank": 3,
+      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 2485,
+      "stars_gained": 2145,
+      "language": "C++",
+      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-11-16T19:28:29Z",
+      "age_days": 1,
+      "score": 12870,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -547,52 +553,98 @@
     },
     {
       "rank": 4,
-      "full_name": "hitkeeen/blender-ai-mcp-addon",
-      "stars": 2159,
-      "stars_gained": 1121,
-      "language": "",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "full_name": "google-research/paper-orchestra",
+      "stars": 2923,
+      "stars_gained": 1463,
+      "language": "Python",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
       "social": [
+        "reddit",
         "x"
       ],
-      "created_at": "2026-11-12T14:32:15Z",
-      "age_days": 4,
-      "score": 9016,
+      "created_at": "2026-05-01T18:07:52Z",
+      "age_days": 200,
+      "score": 11858,
       "suspect": false,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상"
       ],
-      "rank_prev": 12,
-      "rank_delta": 8,
+      "rank_prev": 21,
+      "rank_delta": 17,
       "status": "up",
-      "stars_delta": 1236
+      "stars_delta": 1482
     },
     {
       "rank": 5,
-      "full_name": "deepseek-ai/chat-demo",
-      "stars": 4029,
-      "stars_gained": 1110,
+      "full_name": "Immortal-Protocols/lastbook",
+      "stars": 1706,
+      "stars_gained": 1440,
+      "language": "Python",
+      "description": "Offline knowledge library for survival and rebuilding",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-11-12T23:49:03Z",
+      "age_days": 5,
+      "score": 11520,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 6,
+      "full_name": "NYLLON-SOFTWARE/SignuDoc",
+      "stars": 1752,
+      "stars_gained": 1229,
       "language": "TypeScript",
-      "description": "Chat Demo",
+      "description": "Open-source document signature platform. Not affiliated with DocuSign. ",
       "social": [
         "hackernews",
         "x"
       ],
-      "created_at": "2026-11-12T08:08:19Z",
-      "age_days": 4,
-      "score": 8878,
+      "created_at": "2026-03-26T01:25:59Z",
+      "age_days": 236,
+      "score": 10044,
       "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 3,
-      "rank_delta": -2,
-      "status": "down",
-      "stars_delta": 1161
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "full_name": "kajisho5/ffmpeg-skill",
+      "stars": 7722,
+      "stars_gained": 1063,
+      "language": "Python",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-03T14:33:38Z",
+      "age_days": 75,
+      "score": 8634,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 15,
+      "rank_delta": 8,
+      "status": "up",
+      "stars_delta": 1085
+    },
+    {
+      "rank": 8,
       "full_name": "ag-ui-protocol/ag-ui",
-      "stars": 18871,
-      "stars_gained": 1088,
+      "stars": 19951,
+      "stars_gained": 1041,
       "language": "TypeScript",
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "social": [
@@ -600,49 +652,50 @@
         "x"
       ],
       "created_at": "2025-05-07T12:49:37Z",
-      "age_days": 558,
-      "score": 8752,
+      "age_days": 559,
+      "score": 8362,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 23,
-      "rank_delta": 17,
-      "status": "up",
-      "stars_delta": 1079
+      "rank_prev": 6,
+      "rank_delta": -2,
+      "status": "down",
+      "stars_delta": 1080
     },
     {
-      "rank": 7,
-      "full_name": "elementalsouls/Claude-BugHunter",
-      "stars": 7394,
-      "stars_gained": 1006,
+      "rank": 9,
+      "full_name": "gylive/google-ultra",
+      "stars": 1446,
+      "stars_gained": 1388,
       "language": "Python",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "description": "",
       "social": [
         "x"
       ],
-      "created_at": "2026-05-05T11:22:32Z",
-      "age_days": 195,
-      "score": 8128,
+      "created_at": "2026-11-17T10:21:54Z",
+      "age_days": 0,
+      "score": 8328,
       "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 16,
-      "rank_delta": 9,
-      "status": "up",
-      "stars_delta": 1026
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
-      "rank": 8,
-      "full_name": "NVIDIA/SkillEvaluator",
-      "stars": 2628,
-      "stars_gained": 983,
-      "language": "Python",
-      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "rank": 10,
+      "full_name": "DeanChensj/jiangshan-map",
+      "stars": 7619,
+      "stars_gained": 940,
+      "language": "JavaScript",
+      "description": "æ±å±±æ¶åº Â· ä¸­å½åå²äº¤äºå°å¾æ¶é´è½´ (403 BCE â Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
       "social": [
-        "reddit",
         "x"
       ],
-      "created_at": "2026-06-24T02:32:26Z",
-      "age_days": 145,
-      "score": 8031,
+      "created_at": "2026-07-23T22:44:35Z",
+      "age_days": 117,
+      "score": 7743,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -651,143 +704,101 @@
       "stars_delta": null
     },
     {
-      "rank": 9,
-      "full_name": "Tencent/LoopForge",
-      "stars": 2317,
-      "stars_gained": 861,
-      "language": "Go",
-      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-07-28T03:51:01Z",
-      "age_days": 111,
-      "score": 7068,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 15,
-      "rank_delta": 6,
-      "status": "up",
-      "stars_delta": 873
-    },
-    {
-      "rank": 10,
-      "full_name": "GoogleChrome/modern-web-guidance",
-      "stars": 20154,
-      "stars_gained": 2470,
-      "language": "",
-      "description": "Keep your coding agent up to date with the latest web best practices",
+      "rank": 11,
+      "full_name": "mvanhorn/last30days-skill",
+      "stars": 68990,
+      "stars_gained": 892,
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "social": [
         "hackernews",
+        "reddit",
         "x"
       ],
-      "created_at": "2026-03-23T17:49:14Z",
-      "age_days": 238,
-      "score": 6971,
+      "created_at": "2026-01-23T20:37:37Z",
+      "age_days": 298,
+      "score": 7156,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 4,
-      "rank_delta": -6,
-      "status": "down",
-      "stars_delta": 2502
-    },
-    {
-      "rank": 11,
-      "full_name": "RoutineMiku/apkstart",
-      "stars": 6490,
-      "stars_gained": 1402,
-      "language": "JavaScript",
-      "description": "Windows ä¸çå®ååºç¨è¿è¡å¨ï¼åå» APK å³è£ï¼åºç¨ä»¥ç¬ç«çªå£ä¸æ¡é¢å¾æ è¿è¡ï¼èªæ QEMU è¿è¡æ¶",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-10-29T13:44:03Z",
-      "age_days": 18,
-      "score": 6961,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 2,
-      "rank_delta": -9,
-      "status": "down",
-      "stars_delta": 1459
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 12,
-      "full_name": "alibaba/open-code-review",
-      "stars": 52899,
-      "stars_gained": 867,
-      "language": "Go",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "full_name": "nexu-io/openmotion",
+      "stars": 10894,
+      "stars_gained": 831,
+      "language": "TypeScript",
+      "description": "The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK Â· Motion.md Â· Images, Video, Music & Voice.",
       "social": [
-        "hackernews",
-        "reddit",
         "x"
       ],
-      "created_at": "2026-05-18T02:16:36Z",
-      "age_days": 182,
-      "score": 6273,
+      "created_at": "2026-05-11T09:40:38Z",
+      "age_days": 190,
+      "score": 6655,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 17,
-      "rank_delta": 5,
-      "status": "up",
-      "stars_delta": 886
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 13,
-      "full_name": "tradermonty/claude-trading-skills",
-      "stars": 6270,
-      "stars_gained": 764,
-      "language": "Python",
-      "description": "Claude Code skills for equity investors and traders â market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "full_name": "bannedbook/fanqiang",
+      "stars": 57592,
+      "stars_gained": 793,
+      "language": "Kotlin",
+      "description": "ç¿»å¢-ç§å­¦ä¸ç½",
       "social": [
         "x"
       ],
-      "created_at": "2025-10-19T16:37:29Z",
-      "age_days": 393,
-      "score": 6079,
+      "created_at": "2015-01-14T00:34:25Z",
+      "age_days": 4325,
+      "score": 6362,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 7,
-      "rank_delta": -6,
-      "status": "down",
-      "stars_delta": 785
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 14,
-      "full_name": "ChromeDevTools/chrome-devtools-mcp",
-      "stars": 57635,
-      "stars_gained": 764,
-      "language": "TypeScript",
-      "description": "Chrome DevTools for coding agents",
+      "full_name": "ersinkoc/phonebox",
+      "stars": 2586,
+      "stars_gained": 771,
+      "language": "C#",
+      "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stats, AI coding, media and automation. USB or paired Wi-Fi. No cloud required.",
       "social": [
-        "reddit",
         "x"
       ],
-      "created_at": "2025-09-11T10:39:55Z",
-      "age_days": 431,
-      "score": 5819,
+      "created_at": "2026-11-07T16:45:16Z",
+      "age_days": 10,
+      "score": 6309,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 11,
-      "rank_delta": -3,
-      "status": "down",
-      "stars_delta": 781
+      "rank_prev": 20,
+      "rank_delta": 6,
+      "status": "up",
+      "stars_delta": 780
     },
     {
       "rank": 15,
-      "full_name": "kajisho5/ffmpeg-skill",
-      "stars": 6637,
-      "stars_gained": 680,
+      "full_name": "p-e-w/heretic",
+      "stars": 41527,
+      "stars_gained": 757,
       "language": "Python",
-      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
       "social": [
         "reddit",
         "x"
       ],
-      "created_at": "2026-09-03T14:33:38Z",
-      "age_days": 74,
-      "score": 5498,
+      "created_at": "2025-09-21T05:46:16Z",
+      "age_days": 422,
+      "score": 6062,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -797,83 +808,82 @@
     },
     {
       "rank": 16,
-      "full_name": "Noniv/abyssal-garden",
-      "stars": 1675,
-      "stars_gained": 616,
+      "full_name": "CzzzzzzJ/mdldm-maitian",
+      "stars": 983,
+      "stars_gained": 663,
       "language": "JavaScript",
-      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+      "description": "éº¦ç°ï¼èªåªä½å¤å¹³å°åå¸ä¸­æ§ä¸æ°æ®çæ§ï¼Bç«/æé³/å°çº¢ä¹¦/è§é¢å·/YouTube/Xï¼ï¼é£ä¹¦å¡çéç¥ + æ°æ®å¤§å±",
       "social": [
-        "hackernews",
         "x"
       ],
-      "created_at": "2026-11-12T13:57:34Z",
-      "age_days": 4,
-      "score": 5106,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 9,
-      "rank_delta": -7,
-      "status": "down",
-      "stars_delta": 638
-    },
-    {
-      "rank": 17,
-      "full_name": "microsoft/TokenEconomizer",
-      "stars": 7111,
-      "stars_gained": 623,
-      "language": "Python",
-      "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
-      "social": [
-        "hackernews",
-        "x"
+      "created_at": "2026-11-14T03:59:22Z",
+      "age_days": 3,
+      "score": 5605,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "생성 3일 · 스타 983"
       ],
-      "created_at": "2026-10-13T04:16:50Z",
-      "age_days": 34,
-      "score": 5072,
-      "suspect": false,
-      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
       "stars_delta": null
     },
     {
+      "rank": 17,
+      "full_name": "Tencent/LoopForge",
+      "stars": 3090,
+      "stars_gained": 771,
+      "language": "Go",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-07-28T03:51:01Z",
+      "age_days": 112,
+      "score": 5520,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 9,
+      "rank_delta": -8,
+      "status": "down",
+      "stars_delta": 773
+    },
+    {
       "rank": 18,
-      "full_name": "backnotprop/plannotator",
-      "stars": 12512,
-      "stars_gained": 699,
+      "full_name": "dream-num/univer",
+      "stars": 28858,
+      "stars_gained": 1126,
       "language": "TypeScript",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "social": [
         "hackernews",
         "reddit",
         "x"
       ],
-      "created_at": "2025-12-28T02:09:40Z",
-      "age_days": 323,
-      "score": 5028,
+      "created_at": "2022-09-29T12:09:14Z",
+      "age_days": 1510,
+      "score": 5154,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 8,
-      "rank_delta": -10,
+      "rank_prev": 1,
+      "rank_delta": -17,
       "status": "down",
-      "stars_delta": 714
+      "stars_delta": 1138
     },
     {
       "rank": 19,
-      "full_name": "DuarteSantos8/openGym",
-      "stars": 22135,
-      "stars_gained": 626,
+      "full_name": "mdiri-ai/SoduWork",
+      "stars": 1680,
+      "stars_gained": 630,
       "language": "JavaScript",
-      "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
+      "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
       "social": [
-        "hackernews",
-        "reddit",
         "x"
       ],
-      "created_at": "2026-07-18T20:41:24Z",
-      "age_days": 121,
-      "score": 5016,
+      "created_at": "2026-10-29T02:43:14Z",
+      "age_days": 19,
+      "score": 5136,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -883,38 +893,39 @@
     },
     {
       "rank": 20,
-      "full_name": "ersinkoc/phonebox",
-      "stars": 1806,
-      "stars_gained": 587,
-      "language": "C#",
-      "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stats, AI coding, media and automation. USB or paired Wi-Fi. No cloud required.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-11-07T16:45:16Z",
-      "age_days": 9,
-      "score": 4951,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 6,
-      "rank_delta": -14,
-      "status": "down",
-      "stars_delta": 634
-    },
-    {
-      "rank": 21,
-      "full_name": "google-research/paper-orchestra",
-      "stars": 1441,
-      "stars_gained": 565,
-      "language": "Python",
-      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "full_name": "getarcaneapp/arcane",
+      "stars": 9292,
+      "stars_gained": 608,
+      "language": "Go",
+      "description": "Modern Docker Management, Designed for Everyone",
       "social": [
         "reddit",
         "x"
       ],
-      "created_at": "2026-05-01T18:07:52Z",
-      "age_days": 199,
-      "score": 4632,
+      "created_at": "2025-04-19T00:43:29Z",
+      "age_days": 577,
+      "score": 4885,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 21,
+      "full_name": "sveltejs/svelte",
+      "stars": 89552,
+      "stars_gained": 602,
+      "language": "JavaScript",
+      "description": "web development for the rest of us",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2016-11-20T18:13:05Z",
+      "age_days": 3649,
+      "score": 4826,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -924,18 +935,17 @@
     },
     {
       "rank": 22,
-      "full_name": "stablyai/orca",
-      "stars": 126736,
-      "stars_gained": 1006,
-      "language": "TypeScript",
-      "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+      "full_name": "EL4CTEO/blender-skills",
+      "stars": 1952,
+      "stars_gained": 599,
+      "language": "Python",
+      "description": "Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
       "social": [
-        "reddit",
         "x"
       ],
-      "created_at": "2026-03-17T03:28:57Z",
-      "age_days": 244,
-      "score": 4234,
+      "created_at": "2026-10-14T19:08:14Z",
+      "age_days": 34,
+      "score": 4810,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -945,17 +955,38 @@
     },
     {
       "rank": 23,
-      "full_name": "google-labs-code/stitch-skills",
-      "stars": 9718,
-      "stars_gained": 450,
-      "language": "TypeScript",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "full_name": "NVIDIA/SkillEvaluator",
+      "stars": 3324,
+      "stars_gained": 674,
+      "language": "Python",
+      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-06-24T02:32:26Z",
+      "age_days": 146,
+      "score": 4689,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 8,
+      "rank_delta": -15,
+      "status": "down",
+      "stars_delta": 696
+    },
+    {
+      "rank": 24,
+      "full_name": "ethanplusai/sellbird",
+      "stars": 6330,
+      "stars_gained": 572,
+      "language": "Python",
+      "description": "Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.",
       "social": [
         "x"
       ],
-      "created_at": "2026-01-16T17:17:17Z",
-      "age_days": 304,
-      "score": 3630,
+      "created_at": "2026-03-12T01:24:50Z",
+      "age_days": 250,
+      "score": 4638,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -964,146 +995,62 @@
       "stars_delta": null
     },
     {
-      "rank": 24,
-      "full_name": "duwqijlk/muse-protocol",
-      "stars": 1424,
-      "stars_gained": 421,
-      "language": "Python",
-      "description": "muse.ai æ³¨åä¸éè¯·ç åæ¢åè®®ç ç©¶ï¼çº¯ HTTP Python å®ç°ï¼",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-11-14T01:24:58Z",
-      "age_days": 2,
-      "score": 3598,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 20,
-      "rank_delta": -4,
-      "status": "down",
-      "stars_delta": 445
-    },
-    {
       "rank": 25,
-      "full_name": "affaan-m/ECC",
-      "stars": 304591,
-      "stars_gained": 764,
-      "language": "JavaScript",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "full_name": "stablyai/orca",
+      "stars": 127795,
+      "stars_gained": 1047,
+      "language": "TypeScript",
+      "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
       "social": [
-        "hackernews",
         "reddit",
         "x"
       ],
-      "created_at": "2026-01-18T00:51:51Z",
-      "age_days": 302,
-      "score": 3519,
+      "created_at": "2026-03-17T03:28:57Z",
+      "age_days": 245,
+      "score": 4529,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 24,
-      "rank_delta": -1,
+      "rank_prev": 22,
+      "rank_delta": -3,
       "status": "down",
-      "stars_delta": 780
+      "stars_delta": 1059
     }
   ],
   "weekly": [
     {
       "rank": 1,
-      "full_name": "dream-num/univer",
-      "stars": 27720,
-      "stars_gained": 2155,
-      "language": "TypeScript",
-      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "full_name": "elementalsouls/Claude-BugHunter",
+      "stars": 9156,
+      "stars_gained": 2768,
+      "language": "Python",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "social": [
-        "hackernews",
-        "reddit",
         "x"
       ],
-      "created_at": "2022-09-29T12:09:14Z",
-      "age_days": 1509,
-      "score": 11544,
+      "created_at": "2026-05-05T11:22:32Z",
+      "age_days": 196,
+      "score": 33861,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "rank_prev": 7,
+      "rank_delta": 6,
+      "status": "up",
+      "stars_delta": 1762
     },
     {
       "rank": 2,
-      "full_name": "libracoder/kiri",
-      "stars": 8747,
-      "stars_gained": 2525,
-      "language": "Rust",
-      "description": "A small, fast container runtime for macOS, Windows and Linux",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-11-02T16:11:30Z",
-      "age_days": 14,
-      "score": 11404,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 11,
-      "rank_delta": 9,
-      "status": "up",
-      "stars_delta": 2618
-    },
-    {
-      "rank": 3,
-      "full_name": "GoogleChrome/modern-web-guidance",
-      "stars": 20154,
-      "stars_gained": 2470,
-      "language": "",
-      "description": "Keep your coding agent up to date with the latest web best practices",
-      "social": [
-        "hackernews",
-        "x"
-      ],
-      "created_at": "2026-03-23T17:49:14Z",
-      "age_days": 238,
-      "score": 8643,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 1,
-      "rank_delta": -2,
-      "status": "down",
-      "stars_delta": 2502
-    },
-    {
-      "rank": 4,
-      "full_name": "ag-ui-protocol/ag-ui",
-      "stars": 18871,
-      "stars_gained": 1088,
-      "language": "TypeScript",
-      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "full_name": "google-research/paper-orchestra",
+      "stars": 2923,
+      "stars_gained": 2047,
+      "language": "Python",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
       "social": [
         "reddit",
         "x"
       ],
-      "created_at": "2025-05-07T12:49:37Z",
-      "age_days": 558,
-      "score": 7643,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 5,
-      "full_name": "hitkeeen/blender-ai-mcp-addon",
-      "stars": 2159,
-      "stars_gained": 1121,
-      "language": "",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-11-12T14:32:15Z",
-      "age_days": 4,
-      "score": 7450,
+      "created_at": "2026-05-01T18:07:52Z",
+      "age_days": 200,
+      "score": 24436,
       "suspect": false,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상"
@@ -1114,10 +1061,160 @@
       "stars_delta": null
     },
     {
+      "rank": 3,
+      "full_name": "ag-ui-protocol/ag-ui",
+      "stars": 19951,
+      "stars_gained": 2145,
+      "language": "TypeScript",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-05-07T12:49:37Z",
+      "age_days": 559,
+      "score": 23971,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 4,
+      "rank_delta": 1,
+      "status": "up",
+      "stars_delta": 1080
+    },
+    {
+      "rank": 4,
+      "full_name": "BaaRai/ARTEX",
+      "stars": 6414,
+      "stars_gained": 2911,
+      "language": "Go",
+      "description": "ARTEX - AI autonomous penetration testing system (English translation)",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-10-08T21:14:39Z",
+      "age_days": 40,
+      "score": 22184,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 11,
+      "rank_delta": 7,
+      "status": "up",
+      "stars_delta": 1691
+    },
+    {
+      "rank": 5,
+      "full_name": "dream-num/univer",
+      "stars": 28858,
+      "stars_gained": 3294,
+      "language": "TypeScript",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2022-09-29T12:09:14Z",
+      "age_days": 1510,
+      "score": 22121,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 1,
+      "rank_delta": -4,
+      "status": "down",
+      "stars_delta": 1138
+    },
+    {
       "rank": 6,
+      "full_name": "Immortal-Protocols/lastbook",
+      "stars": 1706,
+      "stars_gained": 1643,
+      "language": "Python",
+      "description": "Offline knowledge library for survival and rebuilding",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-11-12T23:49:03Z",
+      "age_days": 5,
+      "score": 19722,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 7,
+      "full_name": "libracoder/kiri",
+      "stars": 10037,
+      "stars_gained": 3755,
+      "language": "Rust",
+      "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-11-02T16:11:30Z",
+      "age_days": 15,
+      "score": 19706,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 2,
+      "rank_delta": -5,
+      "status": "down",
+      "stars_delta": 1290
+    },
+    {
+      "rank": 8,
+      "full_name": "NYLLON-SOFTWARE/SignuDoc",
+      "stars": 1752,
+      "stars_gained": 1482,
+      "language": "TypeScript",
+      "description": "Open-source document signature platform. Not affiliated with DocuSign. ",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-03-26T01:25:59Z",
+      "age_days": 236,
+      "score": 18353,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 9,
+      "full_name": "GoogleChrome/modern-web-guidance",
+      "stars": 21985,
+      "stars_gained": 4301,
+      "language": "",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-03-23T17:49:14Z",
+      "age_days": 239,
+      "score": 16728,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 3,
+      "rank_delta": -6,
+      "status": "down",
+      "stars_delta": 1831
+    },
+    {
+      "rank": 10,
       "full_name": "morluto/rea",
-      "stars": 464039,
-      "stars_gained": 2137,
+      "stars": 466214,
+      "stars_gained": 4312,
       "language": "TypeScript",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "social": [
@@ -1126,112 +1223,32 @@
         "x"
       ],
       "created_at": "2026-04-14T00:51:32Z",
-      "age_days": 216,
-      "score": 7306,
+      "age_days": 217,
+      "score": 16585,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 5,
-      "rank_delta": -1,
+      "rank_prev": 6,
+      "rank_delta": -4,
       "status": "down",
       "stars_delta": 2175
     },
     {
-      "rank": 7,
-      "full_name": "elementalsouls/Claude-BugHunter",
-      "stars": 7394,
-      "stars_gained": 1006,
-      "language": "Python",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-05-05T11:22:32Z",
-      "age_days": 195,
-      "score": 6389,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 8,
-      "full_name": "NVIDIA/SkillEvaluator",
-      "stars": 2628,
-      "stars_gained": 983,
-      "language": "Python",
-      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-06-24T02:32:26Z",
-      "age_days": 145,
-      "score": 5937,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 9,
-      "full_name": "RoutineMiku/apkstart",
-      "stars": 6490,
-      "stars_gained": 1402,
-      "language": "JavaScript",
-      "description": "Windows ä¸çå®ååºç¨è¿è¡å¨ï¼åå» APK å³è£ï¼åºç¨ä»¥ç¬ç«çªå£ä¸æ¡é¢å¾æ è¿è¡ï¼èªæ QEMU è¿è¡æ¶",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-10-29T13:44:03Z",
-      "age_days": 18,
-      "score": 5651,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 10,
-      "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 77259,
-      "stars_gained": 1524,
-      "language": "JavaScript",
-      "description": "å¨ dsh éè£ä¸è¿ä¸ªæä»¶å³å¯ï¼æ éç»å½ãæ³¨åæå¡« API Keyï¼å°±è½ä½¿ç¨åæ¬ DeepSeek V4.1 FlashãKimi K3 å¨åçåæ²¿æ¨¡åââå®å¨åè´¹ï¼ä¸ééã All you do is install this plugin in dsh: no login, no sign-up, no API key â the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-09-24T16:17:19Z",
-      "age_days": 53,
-      "score": 5346,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 15,
-      "rank_delta": 5,
-      "status": "up",
-      "stars_delta": 1545
-    },
-    {
       "rank": 11,
-      "full_name": "BaaRai/ARTEX",
-      "stars": 4723,
-      "stars_gained": 1045,
-      "language": "Go",
-      "description": "ARTEX - AI autonomous penetration testing system (English translation)",
+      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 2485,
+      "stars_gained": 2145,
+      "language": "C++",
+      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
       "social": [
-        "hackernews",
         "x"
       ],
-      "created_at": "2026-10-08T21:14:39Z",
-      "age_days": 39,
-      "score": 5233,
+      "created_at": "2026-11-16T19:28:29Z",
+      "age_days": 1,
+      "score": 16087,
       "suspect": false,
-      "suspect_reasons": [],
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -1239,78 +1256,80 @@
     },
     {
       "rank": 12,
-      "full_name": "deepseek-ai/chat-demo",
-      "stars": 4029,
-      "stars_gained": 1110,
-      "language": "TypeScript",
-      "description": "Chat Demo",
+      "full_name": "NVIDIA/SkillEvaluator",
+      "stars": 3324,
+      "stars_gained": 1679,
+      "language": "Python",
+      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "social": [
-        "hackernews",
+        "reddit",
         "x"
       ],
-      "created_at": "2026-11-12T08:08:19Z",
-      "age_days": 4,
-      "score": 4944,
+      "created_at": "2026-06-24T02:32:26Z",
+      "age_days": 146,
+      "score": 13954,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "rank_prev": 8,
+      "rank_delta": -4,
+      "status": "down",
+      "stars_delta": 696
     },
     {
       "rank": 13,
+      "full_name": "kajisho5/ffmpeg-skill",
+      "stars": 7722,
+      "stars_gained": 1765,
+      "language": "Python",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-09-03T14:33:38Z",
+      "age_days": 75,
+      "score": 13695,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 22,
+      "rank_delta": 9,
+      "status": "up",
+      "stars_delta": 1085
+    },
+    {
+      "rank": 14,
       "full_name": "Tencent/LoopForge",
-      "stars": 2317,
-      "stars_gained": 861,
+      "stars": 3090,
+      "stars_gained": 1634,
       "language": "Go",
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "social": [
         "x"
       ],
       "created_at": "2026-07-28T03:51:01Z",
-      "age_days": 111,
-      "score": 4341,
+      "age_days": 112,
+      "score": 11023,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 14,
-      "full_name": "pingdotgg/t3code",
-      "stars": 62748,
-      "stars_gained": 1252,
-      "language": "TypeScript",
-      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-02-08T23:46:22Z",
-      "age_days": 281,
-      "score": 4286,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 20,
-      "rank_delta": 6,
-      "status": "up",
-      "stars_delta": 1270
+      "rank_prev": 13,
+      "rank_delta": -1,
+      "status": "down",
+      "stars_delta": 773
     },
     {
       "rank": 15,
-      "full_name": "Tejas-TA/predikit",
-      "stars": 689,
-      "stars_gained": 307,
-      "language": "Python",
-      "description": "The missing bridge between your ML models and your AI agents.",
-      "social": [],
-      "created_at": "2026-05-25T20:26:22Z",
-      "age_days": 175,
-      "score": 3687,
+      "full_name": "getarcaneapp/arcane",
+      "stars": 9292,
+      "stars_gained": 893,
+      "language": "Go",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2025-04-19T00:43:29Z",
+      "age_days": 577,
+      "score": 10910,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -1320,43 +1339,39 @@
     },
     {
       "rank": 16,
-      "full_name": "alibaba/open-code-review",
-      "stars": 52899,
-      "stars_gained": 867,
-      "language": "Go",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "stars": 78497,
+      "stars_gained": 2765,
+      "language": "JavaScript",
+      "description": "å¨ dsh éè£ä¸è¿ä¸ªæä»¶å³å¯ï¼æ éç»å½ãæ³¨åæå¡« API Keyï¼å°±è½ä½¿ç¨åæ¬ DeepSeek V4.1 FlashãKimi K3 å¨åçåæ²¿æ¨¡åââå®å¨åè´¹ï¼ä¸ééã All you do is install this plugin in dsh: no login, no sign-up, no API key â the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "social": [
-        "hackernews",
-        "reddit",
         "x"
       ],
-      "created_at": "2026-05-18T02:16:36Z",
-      "age_days": 182,
-      "score": 3581,
+      "created_at": "2026-09-24T16:17:19Z",
+      "age_days": 54,
+      "score": 10761,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "rank_prev": 10,
+      "rank_delta": -6,
+      "status": "down",
+      "stars_delta": 1238
     },
     {
       "rank": 17,
-      "full_name": "abdiraimov-otabek/dashboard-design-skill",
-      "stars": 753,
-      "stars_gained": 291,
-      "language": "",
-      "description": "A Claude Code skill for clean, honest dashboard UI: KPI tiles, charts, date pickers, ranked lists, states, layouts and a screenshot QA pass. Distilled from 127 shipped dashboards.",
+      "full_name": "bannedbook/fanqiang",
+      "stars": 57592,
+      "stars_gained": 888,
+      "language": "Kotlin",
+      "description": "ç¿»å¢-ç§å­¦ä¸ç½",
       "social": [
         "x"
       ],
-      "created_at": "2026-10-20T06:20:46Z",
-      "age_days": 27,
-      "score": 3540,
+      "created_at": "2015-01-14T00:34:25Z",
+      "age_days": 4325,
+      "score": 10695,
       "suspect": false,
-      "suspect_reasons": [
-        "생성 27일 · 스타 753"
-      ],
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -1364,40 +1379,41 @@
     },
     {
       "rank": 18,
-      "full_name": "storytold/craft-anything",
-      "stars": 34695,
-      "stars_gained": 1029,
-      "language": "Rust",
-      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "full_name": "RoutineMiku/apkstart",
+      "stars": 7384,
+      "stars_gained": 2281,
+      "language": "JavaScript",
+      "description": "Windows ä¸çå®ååºç¨è¿è¡å¨ï¼åå» APK å³è£ï¼åºç¨ä»¥ç¬ç«çªå£ä¸æ¡é¢å¾æ è¿è¡ï¼èªæ QEMU è¿è¡æ¶",
       "social": [
-        "hackernews",
         "x"
       ],
-      "created_at": "2026-10-31T14:50:00Z",
-      "age_days": 16,
-      "score": 3524,
+      "created_at": "2026-10-29T13:44:03Z",
+      "age_days": 19,
+      "score": 10468,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 18,
-      "rank_delta": 0,
-      "status": "same",
-      "stars_delta": 1040
+      "rank_prev": 9,
+      "rank_delta": -9,
+      "status": "down",
+      "stars_delta": 894
     },
     {
       "rank": 19,
-      "full_name": "bex-co/beancount-io",
-      "stars": 629,
-      "stars_gained": 291,
-      "language": "TypeScript",
-      "description": "ð° Double-entry bookkeeping made easy â plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
+      "full_name": "gylive/google-ultra",
+      "stars": 1446,
+      "stars_gained": 1388,
+      "language": "Python",
+      "description": "",
       "social": [
         "x"
       ],
-      "created_at": "2020-10-02T07:00:24Z",
-      "age_days": 2236,
-      "score": 3501,
+      "created_at": "2026-11-17T10:21:54Z",
+      "age_days": 0,
+      "score": 10410,
       "suspect": false,
-      "suspect_reasons": [],
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -1405,79 +1421,85 @@
     },
     {
       "rank": 20,
-      "full_name": "stablyai/orca",
-      "stars": 126736,
-      "stars_gained": 1006,
-      "language": "TypeScript",
-      "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-03-17T03:28:57Z",
-      "age_days": 244,
-      "score": 3500,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 24,
-      "rank_delta": 4,
-      "status": "up",
-      "stars_delta": 1014
-    },
-    {
-      "rank": 21,
-      "full_name": "ccch1mneyyy/dsh-Go",
-      "stars": 24734,
-      "stars_gained": 1008,
-      "language": "Dart",
-      "description": "dsh-go â DeepSeek Harness è£è¿å£è¢ï¼ææºæ¬æºè¿è¡ï¼ä¹è½é¥æ§ä½ ççµèã",
+      "full_name": "CzzzzzzJ/mdldm-maitian",
+      "stars": 983,
+      "stars_gained": 790,
+      "language": "JavaScript",
+      "description": "éº¦ç°ï¼èªåªä½å¤å¹³å°åå¸ä¸­æ§ä¸æ°æ®çæ§ï¼Bç«/æé³/å°çº¢ä¹¦/è§é¢å·/YouTube/Xï¼ï¼é£ä¹¦å¡çéç¥ + æ°æ®å¤§å±",
       "social": [
         "x"
       ],
-      "created_at": "2026-10-25T08:09:52Z",
-      "age_days": 22,
-      "score": 3477,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 22,
-      "rank_delta": 1,
-      "status": "up",
-      "stars_delta": 1021
-    },
-    {
-      "rank": 22,
-      "full_name": "kajisho5/ffmpeg-skill",
-      "stars": 6637,
-      "stars_gained": 680,
-      "language": "Python",
-      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-      "social": [
-        "reddit",
-        "x"
+      "created_at": "2026-11-14T03:59:22Z",
+      "age_days": 3,
+      "score": 10270,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "생성 3일 · 스타 983"
       ],
-      "created_at": "2026-09-03T14:33:38Z",
-      "age_days": 74,
-      "score": 3271,
-      "suspect": false,
-      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
       "stars_delta": null
     },
     {
-      "rank": 23,
-      "full_name": "clice-io/clice",
-      "stars": 1711,
-      "stars_gained": 271,
-      "language": "C++",
-      "description": "A next-generation C++ language server for modern C++, focused on high performance and deep code intelligence",
+      "rank": 21,
+      "full_name": "pingdotgg/t3code",
+      "stars": 64064,
+      "stars_gained": 2568,
+      "language": "TypeScript",
+      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-02-08T23:46:22Z",
+      "age_days": 282,
+      "score": 10042,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 14,
+      "rank_delta": -7,
+      "status": "down",
+      "stars_delta": 1316
+    },
+    {
+      "rank": 22,
+      "full_name": "hitkeeen/blender-ai-mcp-addon",
+      "stars": 2390,
+      "stars_gained": 1343,
+      "language": "",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
       "social": [
         "x"
       ],
-      "created_at": "2024-07-25T04:42:24Z",
-      "age_days": 844,
-      "score": 3264,
+      "created_at": "2026-11-12T14:32:15Z",
+      "age_days": 5,
+      "score": 9895,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": 5,
+      "rank_delta": -17,
+      "status": "down",
+      "stars_delta": 231
+    },
+    {
+      "rank": 23,
+      "full_name": "sveltejs/svelte",
+      "stars": 89552,
+      "stars_gained": 802,
+      "language": "JavaScript",
+      "description": "web development for the rest of us",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2016-11-20T18:13:05Z",
+      "age_days": 3649,
+      "score": 9843,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -1487,17 +1509,19 @@
     },
     {
       "rank": 24,
-      "full_name": "tradermonty/claude-trading-skills",
-      "stars": 6270,
-      "stars_gained": 764,
+      "full_name": "mvanhorn/last30days-skill",
+      "stars": 68990,
+      "stars_gained": 1211,
       "language": "Python",
-      "description": "Claude Code skills for equity investors and traders â market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "social": [
+        "hackernews",
+        "reddit",
         "x"
       ],
-      "created_at": "2025-10-19T16:37:29Z",
-      "age_days": 393,
-      "score": 3232,
+      "created_at": "2026-01-23T20:37:37Z",
+      "age_days": 298,
+      "score": 9415,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -1507,133 +1531,138 @@
     },
     {
       "rank": 25,
-      "full_name": "ChromeDevTools/chrome-devtools-mcp",
-      "stars": 57635,
-      "stars_gained": 764,
-      "language": "TypeScript",
-      "description": "Chrome DevTools for coding agents",
+      "full_name": "ersinkoc/phonebox",
+      "stars": 2586,
+      "stars_gained": 1368,
+      "language": "C#",
+      "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stats, AI coding, media and automation. USB or paired Wi-Fi. No cloud required.",
       "social": [
-        "reddit",
         "x"
       ],
-      "created_at": "2025-09-11T10:39:55Z",
-      "age_days": 431,
-      "score": 3187,
+      "created_at": "2026-11-07T16:45:16Z",
+      "age_days": 10,
+      "score": 9334,
       "suspect": false,
-      "suspect_reasons": [],
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
       "stars_delta": null
     }
   ],
-  "daily_suspect_count": 0,
-  "daily_clean_count": 25,
-  "weekly_suspect_count": 0,
-  "weekly_clean_count": 25,
+  "daily_suspect_count": 1,
+  "daily_clean_count": 24,
+  "weekly_suspect_count": 1,
+  "weekly_clean_count": 24,
   "note": "weekly는 주 시작 직후에는 daily와 거의 동일하다. suspect=true 항목은 스타 농장 스팸 의심이니 리포트에서 제외하거나 따로 표시할 것.",
-  "prev_generated_at_kst": "2026-11-16 08:50:00",
+  "prev_generated_at_kst": "2026-11-17 08:50:00",
   "daily_dropped": [
     {
-      "full_name": "GoogleChrome/modern-web-guidance-src",
+      "full_name": "libracoder/kiri",
+      "rank_prev": 2
+    },
+    {
+      "full_name": "hitkeeen/blender-ai-mcp-addon",
+      "rank_prev": 4
+    },
+    {
+      "full_name": "deepseek-ai/chat-demo",
+      "rank_prev": 5
+    },
+    {
+      "full_name": "GoogleChrome/modern-web-guidance",
       "rank_prev": 10
     },
     {
-      "full_name": "Eynnzerr/TelemetryCleaner",
+      "full_name": "RoutineMiku/apkstart",
+      "rank_prev": 11
+    },
+    {
+      "full_name": "alibaba/open-code-review",
+      "rank_prev": 12
+    },
+    {
+      "full_name": "tradermonty/claude-trading-skills",
       "rank_prev": 13
     },
     {
-      "full_name": "Likely7/Veyra-NRVideo",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
       "rank_prev": 14
     },
     {
-      "full_name": "arjun988/blender-skills",
+      "full_name": "Noniv/abyssal-garden",
+      "rank_prev": 16
+    },
+    {
+      "full_name": "microsoft/TokenEconomizer",
+      "rank_prev": 17
+    },
+    {
+      "full_name": "backnotprop/plannotator",
       "rank_prev": 18
     },
     {
-      "full_name": "elder-plinius/CL4R1T4S",
+      "full_name": "DuarteSantos8/openGym",
       "rank_prev": 19
     },
     {
-      "full_name": "n8n-io/nod",
-      "rank_prev": 21
+      "full_name": "google-labs-code/stitch-skills",
+      "rank_prev": 23
     },
     {
-      "full_name": "ZiChuanLan/freebie-radar",
-      "rank_prev": 22
+      "full_name": "duwqijlk/muse-protocol",
+      "rank_prev": 24
     },
     {
-      "full_name": "ChenLiu-1996/figures4papers",
+      "full_name": "affaan-m/ECC",
       "rank_prev": 25
     }
   ],
   "weekly_dropped": [
     {
-      "full_name": "meta/astryx",
-      "rank_prev": 2
-    },
-    {
-      "full_name": "anefzaoui/misterdownloadmanager",
-      "rank_prev": 3
-    },
-    {
-      "full_name": "janestreet/agent_skills",
-      "rank_prev": 4
-    },
-    {
-      "full_name": "huamidev/GestaltX",
-      "rank_prev": 6
-    },
-    {
-      "full_name": "GoogleChrome/modern-web-guidance-src",
-      "rank_prev": 7
-    },
-    {
-      "full_name": "aws/aws-emulator",
-      "rank_prev": 8
-    },
-    {
-      "full_name": "Lee-xeo/Claude-Cage",
-      "rank_prev": 9
-    },
-    {
-      "full_name": "h4ckf0r0day/obscura",
-      "rank_prev": 10
-    },
-    {
-      "full_name": "NotRexed/Hookshot",
+      "full_name": "deepseek-ai/chat-demo",
       "rank_prev": 12
     },
     {
-      "full_name": "sherlock-project/sherlock",
-      "rank_prev": 13
+      "full_name": "Tejas-TA/predikit",
+      "rank_prev": 15
     },
     {
-      "full_name": "we-promise/sure",
-      "rank_prev": 14
-    },
-    {
-      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "full_name": "alibaba/open-code-review",
       "rank_prev": 16
     },
     {
-      "full_name": "Minireel/HGhub",
+      "full_name": "abdiraimov-otabek/dashboard-design-skill",
       "rank_prev": 17
     },
     {
-      "full_name": "anthropics/skills",
+      "full_name": "storytold/craft-anything",
+      "rank_prev": 18
+    },
+    {
+      "full_name": "bex-co/beancount-io",
       "rank_prev": 19
     },
     {
-      "full_name": "addyosmani/agent-skills",
+      "full_name": "stablyai/orca",
+      "rank_prev": 20
+    },
+    {
+      "full_name": "ccch1mneyyy/dsh-Go",
       "rank_prev": 21
     },
     {
-      "full_name": "expo/exact",
+      "full_name": "clice-io/clice",
       "rank_prev": 23
     },
     {
-      "full_name": "debpalash/VoiceStudio",
+      "full_name": "tradermonty/claude-trading-skills",
+      "rank_prev": 24
+    },
+    {
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
       "rank_prev": 25
     }
   ]
