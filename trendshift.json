@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-24T23:50:00.763304+00:00",
-  "generated_at_kst": "2026-11-25 08:50:00",
+  "generated_at": "2026-11-25T23:50:00.549723+00:00",
+  "generated_at_kst": "2026-11-26 08:50:00",
   "source": "trendshift.io (scraped from SSR payload)",
   "huggingface": {
     "models": [
       {
         "id": "thinkingmachines/Inkling-2-Mini",
-        "likes": 5777,
-        "downloads": 69042,
+        "likes": 6027,
+        "downloads": 96527,
         "pipeline_tag": "image-text-to-text",
         "tags": [
           "transformers",
@@ -27,12 +27,12 @@
         "gated": false,
         "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
         "status": "same",
-        "likes_delta": 299
+        "likes_delta": 250
       },
       {
         "id": "unsloth/Inkling-2-Mini-GGUF",
-        "likes": 1250,
-        "downloads": 1913407,
+        "likes": 1369,
+        "downloads": 2445633,
         "pipeline_tag": "image-text-to-text",
         "tags": [
           "gguf",
@@ -51,12 +51,12 @@
         "gated": false,
         "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
         "status": "same",
-        "likes_delta": 143
+        "likes_delta": 119
       },
       {
         "id": "inworld/voice-isolator",
-        "likes": 814,
-        "downloads": 12733,
+        "likes": 893,
+        "downloads": 15244,
         "pipeline_tag": "audio-to-audio",
         "tags": [
           "inworld-voice-isolation",
@@ -76,12 +76,12 @@
         "gated": false,
         "url": "https://huggingface.co/inworld/voice-isolator",
         "status": "same",
-        "likes_delta": 83
+        "likes_delta": 79
       },
       {
         "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-        "likes": 752,
-        "downloads": 573775,
+        "likes": 838,
+        "downloads": 762491,
         "pipeline_tag": "image-text-to-text",
         "tags": [
           "gguf",
@@ -101,12 +101,101 @@
         "gated": false,
         "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
         "status": "same",
-        "likes_delta": 108
+        "likes_delta": 86
+      },
+      {
+        "id": "SulphurAI/Sulphur-3",
+        "likes": 1070,
+        "downloads": 189735,
+        "pipeline_tag": null,
+        "tags": [
+          "minimax-h3",
+          "base_model:MiniMaxAI/MiniMax-H3",
+          "base_model:finetune:MiniMaxAI/MiniMax-H3",
+          "license:other",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+        "status": "same",
+        "likes_delta": 166
+      },
+      {
+        "id": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+        "likes": 317,
+        "downloads": 59366,
+        "pipeline_tag": "text-generation",
+        "tags": [
+          "llama.cpp",
+          "gguf",
+          "ternary",
+          "2-bit",
+          "llama-cpp",
+          "cuda",
+          "metal",
+          "on-device",
+          "hybrid-attention",
+          "agentic",
+          "tool-calling",
+          "speculative-decoding"
+        ],
+        "mac_ready": true,
+        "gated": false,
+        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+        "status": "new",
+        "likes_delta": null
+      },
+      {
+        "id": "apple/DepthPro2",
+        "likes": 1251,
+        "downloads": 0,
+        "pipeline_tag": "depth-estimation",
+        "tags": [
+          "depth-pro-2",
+          "depth-estimation",
+          "metric-depth",
+          "monocular-depth",
+          "video-depth",
+          "arxiv:2611.26603",
+          "license:other",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/apple/DepthPro2",
+        "status": "same",
+        "likes_delta": 58
+      },
+      {
+        "id": "llamaindex/OCRia-nano-1",
+        "likes": 229,
+        "downloads": 126,
+        "pipeline_tag": "image-to-text",
+        "tags": [
+          "liteparse",
+          "onnx",
+          "ocr",
+          "pdf",
+          "markdown",
+          "document-parsing",
+          "tables",
+          "layout",
+          "cpu",
+          "parsebench",
+          "image-to-text",
+          "multilingual"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
+        "status": "new",
+        "likes_delta": null
       },
       {
         "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-        "likes": 1069,
-        "downloads": 3529,
+        "likes": 1116,
+        "downloads": 3844,
         "pipeline_tag": "image-text-to-text",
         "tags": [
           "peft",
@@ -126,122 +215,33 @@
         "gated": false,
         "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
         "status": "same",
-        "likes_delta": 33
+        "likes_delta": 47
       },
       {
-        "id": "SulphurAI/Sulphur-3",
-        "likes": 904,
-        "downloads": 160965,
+        "id": "inclusionAI/Ling-3.2-air",
+        "likes": 234,
+        "downloads": 1467,
         "pipeline_tag": null,
         "tags": [
-          "minimax-h3",
-          "base_model:MiniMaxAI/MiniMax-H3",
-          "base_model:finetune:MiniMaxAI/MiniMax-H3",
-          "license:other",
+          "safetensors",
+          "bailing_moe_v3_vl",
+          "custom_code",
+          "license:mit",
+          "eval-results",
+          "fp8",
           "region:us"
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/SulphurAI/Sulphur-3",
-        "status": "same",
-        "likes_delta": 51
-      },
-      {
-        "id": "higurashi-ai/Haru-4B",
-        "likes": 977,
-        "downloads": 9575,
-        "pipeline_tag": "audio-to-audio",
-        "tags": [
-          "safetensors",
-          "haru",
-          "speech",
-          "full-duplex",
-          "speech-to-speech",
-          "audio-to-audio",
-          "en",
-          "es",
-          "pt",
-          "de",
-          "fr",
-          "zh"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
-        "status": "same",
-        "likes_delta": 38
-      },
-      {
-        "id": "tencent/Hy4-flash",
-        "likes": 679,
-        "downloads": 9167,
-        "pipeline_tag": "image-text-to-text",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "hy_v4_flash",
-          "text-generation",
-          "hunyuan",
-          "hy4-flash",
-          "moe",
-          "multimodal",
-          "instruct",
-          "image-text-to-text",
-          "conversational",
-          "license:other"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/tencent/Hy4-flash",
-        "status": "same",
-        "likes_delta": 30
-      },
-      {
-        "id": "apple/DepthPro2",
-        "likes": 1193,
-        "downloads": 0,
-        "pipeline_tag": "depth-estimation",
-        "tags": [
-          "depth-pro-2",
-          "depth-estimation",
-          "metric-depth",
-          "monocular-depth",
-          "video-depth",
-          "arxiv:2611.26603",
-          "license:other",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/apple/DepthPro2",
+        "url": "https://huggingface.co/inclusionAI/Ling-3.2-air",
         "status": "new",
         "likes_delta": null
-      },
-      {
-        "id": "apple/FastFrames-L",
-        "likes": 594,
-        "downloads": 0,
-        "pipeline_tag": "text-to-video",
-        "tags": [
-          "safetensors",
-          "text-to-video",
-          "arxiv:2611.23226",
-          "base_model:Wan-AI/Wan2.1-T2V-14B",
-          "base_model:finetune:Wan-AI/Wan2.1-T2V-14B",
-          "license:apple-amlr",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/apple/FastFrames-L",
-        "status": "same",
-        "likes_delta": 25
       }
     ],
     "spaces": [
       {
         "id": "JCisHERE/wan2-2-i2v-v3",
-        "likes": 714,
+        "likes": 767,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -253,11 +253,11 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
         "status": "same",
-        "likes_delta": 54
+        "likes_delta": 53
       },
       {
         "id": "MiniMaxAI/minimax-h3-image",
-        "likes": 325,
+        "likes": 351,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -268,26 +268,11 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image",
         "status": "same",
-        "likes_delta": 18
-      },
-      {
-        "id": "huggingface/moe-blogpost",
-        "likes": 846,
-        "downloads": null,
-        "pipeline_tag": null,
-        "tags": [
-          "docker",
-          "region:us"
-        ],
-        "mac_ready": false,
-        "gated": false,
-        "url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
-        "status": "same",
-        "likes_delta": 10
+        "likes_delta": 26
       },
       {
         "id": "Lakonik/pi-H3",
-        "likes": 158,
+        "likes": 173,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -298,11 +283,26 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/Lakonik/pi-H3",
         "status": "same",
-        "likes_delta": 19
+        "likes_delta": 15
+      },
+      {
+        "id": "huggingface/moe-blogpost",
+        "likes": 854,
+        "downloads": null,
+        "pipeline_tag": null,
+        "tags": [
+          "docker",
+          "region:us"
+        ],
+        "mac_ready": false,
+        "gated": false,
+        "url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
+        "status": "same",
+        "likes_delta": 8
       },
       {
         "id": "joelniklaus/harness-leaderboard",
-        "likes": 548,
+        "likes": 557,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
@@ -313,29 +313,30 @@
         "gated": false,
         "url": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
         "status": "same",
-        "likes_delta": 16
+        "likes_delta": 9
       },
       {
-        "id": "waitinghere/Krea2T-Revamped",
-        "likes": 169,
+        "id": "hugging-apps/bfs-best-face-swap",
+        "likes": 1095,
         "downloads": null,
         "pipeline_tag": null,
         "tags": [
           "gradio",
+          "mcp-server",
           "region:us"
         ],
         "mac_ready": false,
         "gated": false,
-        "url": "https://huggingface.co/spaces/waitinghere/Krea2T-Revamped",
-        "status": "same",
-        "likes_delta": 14
+        "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
+        "status": "new",
+        "likes_delta": null
       }
     ],
     "datasets": [
       {
         "id": "Vyber07/cyber-security",
-        "likes": 1670,
-        "downloads": 35278,
+        "likes": 1926,
+        "downloads": 58547,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-generation",
@@ -355,12 +356,12 @@
         "gated": true,
         "url": "https://huggingface.co/datasets/Vyber07/cyber-security",
         "status": "same",
-        "likes_delta": 116
+        "likes_delta": 256
       },
       {
         "id": "Angais/pixel-art-atlas-1.4m",
-        "likes": 732,
-        "downloads": 78012,
+        "likes": 763,
+        "downloads": 80347,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-to-image",
@@ -380,12 +381,37 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m",
         "status": "same",
-        "likes_delta": 20
+        "likes_delta": 31
+      },
+      {
+        "id": "google/physical-engineerings-last-exam",
+        "likes": 298,
+        "downloads": 512659,
+        "pipeline_tag": null,
+        "tags": [
+          "benchmark:official",
+          "benchmark:eval-yaml",
+          "task_categories:text-generation",
+          "task_categories:question-answering",
+          "language:en",
+          "license:cc-by-4.0",
+          "size_categories:n<1K",
+          "format:parquet",
+          "modality:document",
+          "modality:tabular",
+          "modality:text",
+          "library:datasets"
+        ],
+        "mac_ready": false,
+        "gated": true,
+        "url": "https://huggingface.co/datasets/google/physical-engineerings-last-exam",
+        "status": "same",
+        "likes_delta": 31
       },
       {
         "id": "nvidia/USDCraft-10K",
-        "likes": 186,
-        "downloads": 111907,
+        "likes": 209,
+        "downloads": 116712,
         "pipeline_tag": null,
         "tags": [
           "task_categories:robotics",
@@ -405,12 +431,12 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/nvidia/USDCraft-10K",
         "status": "same",
-        "likes_delta": 15
+        "likes_delta": 23
       },
       {
         "id": "nvidia/simready-assets",
-        "likes": 1783,
-        "downloads": 1747533,
+        "likes": 1807,
+        "downloads": 1515140,
         "pipeline_tag": null,
         "tags": [
           "license:cc-by-4.0",
@@ -421,37 +447,12 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/nvidia/simready-assets",
         "status": "same",
-        "likes_delta": 28
-      },
-      {
-        "id": "google/physical-engineerings-last-exam",
-        "likes": 267,
-        "downloads": 474942,
-        "pipeline_tag": null,
-        "tags": [
-          "benchmark:official",
-          "benchmark:eval-yaml",
-          "task_categories:text-generation",
-          "task_categories:question-answering",
-          "language:en",
-          "license:cc-by-4.0",
-          "size_categories:n<1K",
-          "modality:document",
-          "library:harbor",
-          "arxiv:2610.30537",
-          "region:us",
-          "benchmark"
-        ],
-        "mac_ready": false,
-        "gated": true,
-        "url": "https://huggingface.co/datasets/google/physical-engineerings-last-exam",
-        "status": "same",
-        "likes_delta": 28
+        "likes_delta": 24
       },
       {
         "id": "Digitaluz/uzbek-language-corpus",
-        "likes": 156,
-        "downloads": 2665,
+        "likes": 182,
+        "downloads": 3046,
         "pipeline_tag": null,
         "tags": [
           "task_categories:text-generation",
@@ -471,65 +472,65 @@
         "gated": false,
         "url": "https://huggingface.co/datasets/Digitaluz/uzbek-language-corpus",
         "status": "same",
-        "likes_delta": 14
+        "likes_delta": 26
       }
     ]
   },
   "daily": [
     {
       "rank": 1,
-      "full_name": "Marvisak/VIctory",
-      "stars": 11161,
-      "stars_gained": 8901,
-      "language": "Rust",
-      "description": "An attempt at running GTA VI on PC",
-      "social": [
-        "hackernews",
-        "x"
-      ],
-      "created_at": "2026-11-23T21:47:25Z",
-      "age_days": 1,
-      "score": 55350,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 2,
-      "full_name": "xcl-dev/xcl",
-      "stars": 7726,
-      "stars_gained": 6282,
-      "language": "Rust",
-      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-11-20T20:03:21Z",
-      "age_days": 4,
-      "score": 51732,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 3,
       "full_name": "4lwayz/portwatch-vi",
-      "stars": 2665,
-      "stars_gained": 2344,
+      "stars": 3935,
+      "stars_gained": 1240,
       "language": "JavaScript",
       "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
       "social": [
         "x"
       ],
       "created_at": "2026-11-21T23:16:41Z",
-      "age_days": 3,
-      "score": 18843,
+      "age_days": 4,
+      "score": 8631,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 3,
+      "rank_delta": 2,
+      "status": "up",
+      "stars_delta": 1270
+    },
+    {
+      "rank": 2,
+      "full_name": "stablyai/orca",
+      "stars": 137857,
+      "stars_gained": 1874,
+      "language": "TypeScript",
+      "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+      "social": [
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-03-17T03:28:57Z",
+      "age_days": 253,
+      "score": 8486,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 14,
+      "rank_delta": 12,
+      "status": "up",
+      "stars_delta": 1851
+    },
+    {
+      "rank": 3,
+      "full_name": "Zettrox/ztrx",
+      "stars": 1499,
+      "stars_gained": 1171,
+      "language": "Rust",
+      "description": "Run the Xbox Series build of the game natively on Windows PCs with NVIDIA GPUs",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-11-25T01:12:08Z",
+      "age_days": 0,
+      "score": 7419,
       "suspect": false,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상"
@@ -541,17 +542,17 @@
     },
     {
       "rank": 4,
-      "full_name": "shirudo-dev/shirudo",
-      "stars": 1648,
-      "stars_gained": 1424,
-      "language": "C",
-      "description": "eBPF-based security platform",
+      "full_name": "crhywun/g1-acq",
+      "stars": 1194,
+      "stars_gained": 760,
+      "language": "JavaScript",
+      "description": "",
       "social": [
         "x"
       ],
-      "created_at": "2026-10-13T16:06:37Z",
-      "age_days": 42,
-      "score": 11604,
+      "created_at": "2026-11-22T10:53:17Z",
+      "age_days": 3,
+      "score": 6328,
       "suspect": false,
       "suspect_reasons": [
         "하루 증가분이 총 스타의 절반 이상"
@@ -563,52 +564,9 @@
     },
     {
       "rank": 5,
-      "full_name": "Hut-hzf/ung220z-tool",
-      "stars": 4400,
-      "stars_gained": 1209,
-      "language": "Python",
-      "description": "ung220z-tool æ¯ä¸ä¸ªéå¯¹ UNG220Zï¼å¦å«ä¸­å´/ç½ç«/åä¸º/ä¹èå¤ååééãåºä»¶æçº¹è¯å«ä¸åå®¶ææéå»ºè®®çä¸é®å­æ®æåå·¥å·ï¼ä»éå¨ä½ èªå·±çè®¾å¤ä¸ç¨äºæ¾åå¿è®°çç®¡çå¯ç ãè¿ç§»å®½å¸¦éç½®æå®å¨èªæ¥ã",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-11-15T11:16:46Z",
-      "age_days": 9,
-      "score": 10132,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 12,
-      "rank_delta": 7,
-      "status": "up",
-      "stars_delta": 1281
-    },
-    {
-      "rank": 6,
-      "full_name": "zed-industries/gpui",
-      "stars": 1555,
-      "stars_gained": 1248,
-      "language": "",
-      "description": "A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes.",
-      "social": [
-        "hackernews",
-        "x"
-      ],
-      "created_at": "2022-06-20T19:43:39Z",
-      "age_days": 1618,
-      "score": 10004,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 7,
       "full_name": "google-gemini/gemini-api-cli",
-      "stars": 2286,
-      "stars_gained": 1196,
+      "stars": 3029,
+      "stars_gained": 731,
       "language": "Go",
       "description": "An (experimental) CLI for the Gemini API",
       "social": [
@@ -616,71 +574,113 @@
         "x"
       ],
       "created_at": "2026-04-29T14:54:25Z",
-      "age_days": 209,
-      "score": 9622,
+      "age_days": 210,
+      "score": 5717,
       "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": 25,
-      "rank_delta": 18,
+      "suspect_reasons": [],
+      "rank_prev": 7,
+      "rank_delta": 2,
       "status": "up",
-      "stars_delta": 1210
+      "stars_delta": 743
+    },
+    {
+      "rank": 6,
+      "full_name": "cathrynlavery/diagram-design",
+      "stars": 72939,
+      "stars_gained": 989,
+      "language": "HTML",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-04-16T18:01:16Z",
+      "age_days": 223,
+      "score": 5341,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 13,
+      "rank_delta": 7,
+      "status": "up",
+      "stars_delta": 970
+    },
+    {
+      "rank": 7,
+      "full_name": "anhao/ai-pose-gallery-zh",
+      "stars": 9174,
+      "stars_gained": 593,
+      "language": "TypeScript",
+      "description": "ä¸­æç AI å§¿å¿åèå¾åº Â· 1439 ç» / 2878 å¼ å¾ç / å®æ´æ±å Â· é¶ä¾èµéæç»å»",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-10-27T12:24:37Z",
+      "age_days": 29,
+      "score": 4899,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 16,
+      "rank_delta": 9,
+      "status": "up",
+      "stars_delta": 616
     },
     {
       "rank": 8,
-      "full_name": "AFK-surf/xnulinux",
-      "stars": 3282,
-      "stars_gained": 1334,
-      "language": "Objective-C++",
-      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "full_name": "Marvisak/VIctory",
+      "stars": 12532,
+      "stars_gained": 1328,
+      "language": "Rust",
+      "description": "An attempt at running GTA VI on PC",
       "social": [
         "hackernews",
         "x"
       ],
-      "created_at": "2026-11-20T10:18:31Z",
-      "age_days": 4,
-      "score": 9335,
+      "created_at": "2026-11-23T21:47:25Z",
+      "age_days": 2,
+      "score": 4883,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 2,
-      "rank_delta": -6,
+      "rank_prev": 1,
+      "rank_delta": -7,
       "status": "down",
-      "stars_delta": 1430
+      "stars_delta": 1371
     },
     {
       "rank": 9,
-      "full_name": "xerj-org/xerj",
-      "stars": 21355,
-      "stars_gained": 1104,
-      "language": "Rust",
-      "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+      "full_name": "firecrawl/firecrawl",
+      "stars": 209949,
+      "stars_gained": 1085,
+      "language": "TypeScript",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "social": [
+        "reddit",
         "x"
       ],
-      "created_at": "2026-06-30T04:32:45Z",
-      "age_days": 147,
-      "score": 8837,
+      "created_at": "2024-04-15T21:02:29Z",
+      "age_days": 954,
+      "score": 4804,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 11,
-      "rank_delta": 2,
+      "rank_prev": 20,
+      "rank_delta": 11,
       "status": "up",
-      "stars_delta": 1108
+      "stars_delta": 1102
     },
     {
       "rank": 10,
-      "full_name": "LadybirdBrowser/ladybird",
-      "stars": 68722,
-      "stars_gained": 1041,
-      "language": "Rust",
-      "description": "Truly independent web browser",
+      "full_name": "seanhowarthdev/Roam-Control",
+      "stars": 1801,
+      "stars_gained": 576,
+      "language": "",
+      "description": "Choose, test and move an iPhoneâs reported location.",
       "social": [
+        "reddit",
         "x"
       ],
-      "created_at": "2024-05-30T09:18:10Z",
-      "age_days": 908,
-      "score": 8356,
+      "created_at": "2026-09-04T15:09:22Z",
+      "age_days": 82,
+      "score": 4684,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -690,9 +690,54 @@
     },
     {
       "rank": 11,
+      "full_name": "openai/math",
+      "stars": 18317,
+      "stars_gained": 581,
+      "language": "Lean",
+      "description": null,
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-10-06T21:47:02Z",
+      "age_days": 50,
+      "score": 4680,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 12,
+      "full_name": "RMvdesi/obsidian-prism",
+      "stars": 910,
+      "stars_gained": 556,
+      "language": "JavaScript",
+      "description": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity (GPL-3.0)",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-11-17T02:50:21Z",
+      "age_days": 8,
+      "score": 4466,
+      "suspect": true,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상",
+        "생성 8일 · 스타 910"
+      ],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
+    },
+    {
+      "rank": 13,
       "full_name": "pingdotgg/t3code",
-      "stars": 77344,
-      "stars_gained": 2730,
+      "stars": 79319,
+      "stars_gained": 1987,
       "language": "TypeScript",
       "description": "The best way to control Claude Code, Codex and more from any computer or phone",
       "social": [
@@ -701,84 +746,20 @@
         "x"
       ],
       "created_at": "2026-02-08T23:46:22Z",
-      "age_days": 289,
-      "score": 7497,
+      "age_days": 290,
+      "score": 4197,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 3,
-      "rank_delta": -8,
+      "rank_prev": 11,
+      "rank_delta": -2,
       "status": "down",
-      "stars_delta": 2758
-    },
-    {
-      "rank": 12,
-      "full_name": "XinaTian/MROffice",
-      "stars": 3749,
-      "stars_gained": 1007,
-      "language": "TypeScript",
-      "description": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
-      "social": [
-        "hackernews",
-        "x"
-      ],
-      "created_at": "2026-11-10T17:54:07Z",
-      "age_days": 14,
-      "score": 7328,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 19,
-      "rank_delta": 7,
-      "status": "up",
-      "stars_delta": 1008
-    },
-    {
-      "rank": 13,
-      "full_name": "cathrynlavery/diagram-design",
-      "stars": 71969,
-      "stars_gained": 1033,
-      "language": "HTML",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "social": [
-        "hackernews",
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-04-16T18:01:16Z",
-      "age_days": 222,
-      "score": 6610,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "stars_delta": 1975
     },
     {
       "rank": 14,
-      "full_name": "stablyai/orca",
-      "stars": 136006,
-      "stars_gained": 1552,
-      "language": "TypeScript",
-      "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2026-03-17T03:28:57Z",
-      "age_days": 252,
-      "score": 6500,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 10,
-      "rank_delta": -4,
-      "status": "down",
-      "stars_delta": 1574
-    },
-    {
-      "rank": 15,
       "full_name": "HKUDS/CLI-Anything",
-      "stars": 64686,
-      "stars_gained": 1103,
+      "stars": 65617,
+      "stars_gained": 937,
       "language": "Python",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "social": [
@@ -786,28 +767,72 @@
         "x"
       ],
       "created_at": "2026-03-08T13:52:57Z",
-      "age_days": 261,
-      "score": 5810,
+      "age_days": 262,
+      "score": 4099,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "rank_prev": 15,
+      "rank_delta": 1,
+      "status": "up",
+      "stars_delta": 931
+    },
+    {
+      "rank": 15,
+      "full_name": "zed-industries/gpui",
+      "stars": 2086,
+      "stars_gained": 556,
+      "language": "",
+      "description": "A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes.",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2022-06-20T19:43:39Z",
+      "age_days": 1619,
+      "score": 4047,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 6,
+      "rank_delta": -9,
+      "status": "down",
+      "stars_delta": 531
     },
     {
       "rank": 16,
-      "full_name": "anhao/ai-pose-gallery-zh",
-      "stars": 8558,
-      "stars_gained": 639,
+      "full_name": "XinaTian/MROffice",
+      "stars": 4550,
+      "stars_gained": 790,
       "language": "TypeScript",
-      "description": "ä¸­æç AI å§¿å¿åèå¾åº Â· 1439 ç» / 2878 å¼ å¾ç / å®æ´æ±å Â· é¶ä¾èµéæç»å»",
+      "description": "MR Office â the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
       "social": [
+        "hackernews",
         "x"
       ],
-      "created_at": "2026-10-27T12:24:37Z",
-      "age_days": 28,
-      "score": 5300,
+      "created_at": "2026-11-10T17:54:07Z",
+      "age_days": 15,
+      "score": 3995,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 12,
+      "rank_delta": -4,
+      "status": "down",
+      "stars_delta": 801
+    },
+    {
+      "rank": 17,
+      "full_name": "mvanhorn/last30days-skill",
+      "stars": 75036,
+      "stars_gained": 893,
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
+      ],
+      "created_at": "2026-01-23T20:37:37Z",
+      "age_days": 306,
+      "score": 3961,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -816,51 +841,10 @@
       "stars_delta": null
     },
     {
-      "rank": 17,
-      "full_name": "nickrunning/wechat-selkies",
-      "stars": 4323,
-      "stars_gained": 650,
-      "language": "Python",
-      "description": "åºäºSelkiesçLinuxç½é¡µçå¾®ä¿¡/QQ/Telegramï¼æ¯ææ¬å°ä¸­æè¾å¥æ³ï¼æ¯æä¸æ¹åºç¨ï¼æ¯æAMD64åARM64ã",
-      "social": [
-        "x"
-      ],
-      "created_at": "2025-10-12T10:03:40Z",
-      "age_days": 408,
-      "score": 5286,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 20,
-      "rank_delta": 3,
-      "status": "up",
-      "stars_delta": 665
-    },
-    {
       "rank": 18,
-      "full_name": "zhouxiaoka/autoclip",
-      "stars": 15290,
-      "stars_gained": 931,
-      "language": "Python",
-      "description": "AutoClipï½ä¸ä¸ªé¾æ¥ï¼ä¸é®åºçãå¼æº AI è§é¢åªè¾æ¡é¢å·¥å·ï¼å°æ­å®¢ãè®¿è°ãè¯¾ç¨ç­é¿è§é¢èªå¨åªæç­è§é¢ï¼çæå­å¹ãå°é¢ååå¸ææ¡ï¼ééæé³ãå°çº¢ä¹¦ãTikTokãReels ä¸ YouTube ShortsãOpen-source AI video clipping & content repurposing.",
-      "social": [
-        "reddit",
-        "x"
-      ],
-      "created_at": "2025-07-08T04:51:15Z",
-      "age_days": 504,
-      "score": 5116,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 14,
-      "rank_delta": -4,
-      "status": "down",
-      "stars_delta": 936
-    },
-    {
-      "rank": 19,
       "full_name": "XiaoYouChR/Ghost-Downloader-3",
-      "stars": 17242,
-      "stars_gained": 1000,
+      "stars": 18172,
+      "stars_gained": 911,
       "language": "Python",
       "description": "The only downloader you need. ä¸è½½å¨çéå¤§æèã",
       "social": [
@@ -868,29 +852,48 @@
         "x"
       ],
       "created_at": "2023-08-16T04:23:44Z",
-      "age_days": 1196,
-      "score": 4972,
+      "age_days": 1197,
+      "score": 3914,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 9,
-      "rank_delta": -10,
-      "status": "down",
-      "stars_delta": 1005
+      "rank_prev": 19,
+      "rank_delta": 1,
+      "status": "up",
+      "stars_delta": 930
+    },
+    {
+      "rank": 19,
+      "full_name": "ubiquitarianism/leonida",
+      "stars": 2308,
+      "stars_gained": 463,
+      "language": "Python",
+      "description": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-11-23T23:54:39Z",
+      "age_days": 1,
+      "score": 3871,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     },
     {
       "rank": 20,
-      "full_name": "firecrawl/firecrawl",
-      "stars": 208847,
-      "stars_gained": 1008,
-      "language": "TypeScript",
-      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "full_name": "antigravity-cn-community/Antigravity-Chinese-Localization",
+      "stars": 2371,
+      "stars_gained": 468,
+      "language": "JavaScript",
+      "description": "antigravityä¸é®æ±å",
       "social": [
-        "reddit",
         "x"
       ],
-      "created_at": "2024-04-15T21:02:29Z",
-      "age_days": 953,
-      "score": 4594,
+      "created_at": "2026-05-25T01:35:04Z",
+      "age_days": 184,
+      "score": 3764,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -900,38 +903,39 @@
     },
     {
       "rank": 21,
-      "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
-      "stars": 828,
-      "stars_gained": 552,
-      "language": "Rust",
-      "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
-      "social": [],
-      "created_at": "2026-11-22T18:50:17Z",
-      "age_days": 2,
-      "score": 4471,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "생성 2일 · 스타 828"
+      "full_name": "zhouxiaoka/autoclip",
+      "stars": 16107,
+      "stars_gained": 819,
+      "language": "Python",
+      "description": "AutoClipï½ä¸ä¸ªé¾æ¥ï¼ä¸é®åºçãå¼æº AI è§é¢åªè¾æ¡é¢å·¥å·ï¼å°æ­å®¢ãè®¿è°ãè¯¾ç¨ç­é¿è§é¢èªå¨åªæç­è§é¢ï¼çæå­å¹ãå°é¢ååå¸ææ¡ï¼ééæé³ãå°çº¢ä¹¦ãTikTokãReels ä¸ YouTube ShortsãOpen-source AI video clipping & content repurposing.",
+      "social": [
+        "reddit",
+        "x"
       ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "created_at": "2025-07-08T04:51:15Z",
+      "age_days": 505,
+      "score": 3688,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 18,
+      "rank_delta": -3,
+      "status": "down",
+      "stars_delta": 817
     },
     {
       "rank": 22,
-      "full_name": "wquguru/cicada",
-      "stars": 3152,
-      "stars_gained": 545,
-      "language": "Swift",
-      "description": "ç¥äº Cicada Â· ä»»ä½ä¼è®®åç´æ­çå®æ¶å­å¹ãåå£°ä¼ è¯ãAI ä¼è®®çºªè¦ï¼MacãWindowsãLinuxãAndroid åè´¹å¼æºãLive subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "full_name": "BaaRai/ARTEX",
+      "stars": 20711,
+      "stars_gained": 1482,
+      "language": "Go",
+      "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
       "social": [
+        "hackernews",
         "x"
       ],
-      "created_at": "2026-11-01T05:41:23Z",
-      "age_days": 23,
-      "score": 4470,
+      "created_at": "2026-10-08T21:14:39Z",
+      "age_days": 48,
+      "score": 3456,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -941,23 +945,20 @@
     },
     {
       "rank": 23,
-      "full_name": "deterministic-machines/deslop-please",
-      "stars": 677,
-      "stars_gained": 544,
-      "language": "Rust",
-      "description": "Bring (back) sanity to your code",
+      "full_name": "jingyaogong/minimind",
+      "stars": 70897,
+      "stars_gained": 756,
+      "language": "Python",
+      "description": "ð§  ä¸¤å°æ¶ä» 0 è®­åºä½ ç 64M å¤§æ¨¡åãTrain your own 64M LLM from scratch in 2 hours.",
       "social": [
-        "hackernews",
+        "reddit",
         "x"
       ],
-      "created_at": "2026-11-22T05:36:03Z",
-      "age_days": 2,
-      "score": 4397,
-      "suspect": true,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상",
-        "생성 2일 · 스타 677"
-      ],
+      "created_at": "2024-07-27T04:34:12Z",
+      "age_days": 851,
+      "score": 3428,
+      "suspect": false,
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -965,19 +966,21 @@
     },
     {
       "rank": 24,
-      "full_name": "ksjhk/api",
-      "stars": 1038,
-      "stars_gained": 548,
-      "language": "",
-      "description": "å¡ä¸çå¼æ¾å¹³å° API å®æ¹ææ¡£ä¸è°ç¨ç¤ºä¾ï¼PHP / Python / Node.js / curlï¼ââ 200+ åçå¡å¸è´§æºï¼å¬å¼æ¥è´§ãç­¾åä¸åãèªå¨åè´§",
-      "social": [],
-      "created_at": "2026-10-26T06:20:39Z",
-      "age_days": 29,
-      "score": 4384,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
+      "full_name": "getpaseo/paseo",
+      "stars": 25418,
+      "stars_gained": 395,
+      "language": "TypeScript",
+      "description": "Orchestrate multiple coding agents from desktop and mobile",
+      "social": [
+        "hackernews",
+        "reddit",
+        "x"
       ],
+      "created_at": "2025-10-13T12:27:02Z",
+      "age_days": 408,
+      "score": 3172,
+      "suspect": false,
+      "suspect_reasons": [],
       "rank_prev": null,
       "rank_delta": null,
       "status": "new",
@@ -985,23 +988,23 @@
     },
     {
       "rank": 25,
-      "full_name": "kunkundi/crossdesk",
-      "stars": 7273,
-      "stars_gained": 635,
-      "language": "C++",
-      "description": "A lightweight, cross-platform remote desktop software with support for Web Client access | ä¸æ¬¾æ¯æ Web å®¢æ·ç«¯è®¿é®çè½»éçº§è·¨å¹³å°è¿ç¨æ¡é¢è½¯ä»¶ã",
+      "full_name": "elementalsouls/Claude-BugHunter",
+      "stars": 22853,
+      "stars_gained": 1504,
+      "language": "Python",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "social": [
         "x"
       ],
-      "created_at": "2023-11-20T06:31:52Z",
-      "age_days": 1100,
-      "score": 4333,
+      "created_at": "2026-05-05T11:22:32Z",
+      "age_days": 204,
+      "score": 3077,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 17,
-      "rank_delta": -8,
-      "status": "down",
-      "stars_delta": 639
+      "rank_prev": null,
+      "rank_delta": null,
+      "status": "new",
+      "stars_delta": null
     }
   ],
   "weekly": [
@@ -1017,40 +1020,40 @@
         "x"
       ],
       "created_at": "2026-11-20T20:07:13Z",
-      "age_days": 4,
+      "age_days": 5,
       "score": 110077,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 1,
       "rank_delta": 0,
       "status": "same",
-      "stars_delta": 1848
+      "stars_delta": 0
     },
     {
       "rank": 2,
       "full_name": "xcl-dev/xcl",
-      "stars": 7726,
-      "stars_gained": 7496,
+      "stars": 8287,
+      "stars_gained": 8008,
       "language": "Rust",
       "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
       "social": [
         "x"
       ],
       "created_at": "2026-11-20T20:03:21Z",
-      "age_days": 4,
-      "score": 92713,
+      "age_days": 5,
+      "score": 99700,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "rank_prev": 2,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 561
     },
     {
       "rank": 3,
       "full_name": "Marvisak/VIctory",
-      "stars": 11161,
-      "stars_gained": 8901,
+      "stars": 12532,
+      "stars_gained": 10275,
       "language": "Rust",
       "description": "An attempt at running GTA VI on PC",
       "social": [
@@ -1058,20 +1061,40 @@
         "x"
       ],
       "created_at": "2026-11-23T21:47:25Z",
-      "age_days": 1,
-      "score": 69385,
+      "age_days": 2,
+      "score": 86035,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "rank_prev": 3,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 1371
     },
     {
       "rank": 4,
+      "full_name": "4lwayz/portwatch-vi",
+      "stars": 3935,
+      "stars_gained": 3898,
+      "language": "JavaScript",
+      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-11-21T23:16:41Z",
+      "age_days": 4,
+      "score": 47054,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 5,
+      "rank_delta": 1,
+      "status": "up",
+      "stars_delta": 1270
+    },
+    {
+      "rank": 5,
       "full_name": "AFK-surf/xnulinux",
-      "stars": 3282,
-      "stars_gained": 3235,
+      "stars": 3898,
+      "stars_gained": 3834,
       "language": "Objective-C++",
       "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
       "social": [
@@ -1079,42 +1102,20 @@
         "x"
       ],
       "created_at": "2026-11-20T10:18:31Z",
-      "age_days": 4,
-      "score": 39209,
+      "age_days": 5,
+      "score": 46535,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 2,
-      "rank_delta": -2,
+      "rank_prev": 4,
+      "rank_delta": -1,
       "status": "down",
-      "stars_delta": 1430
-    },
-    {
-      "rank": 5,
-      "full_name": "4lwayz/portwatch-vi",
-      "stars": 2665,
-      "stars_gained": 2626,
-      "language": "JavaScript",
-      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-11-21T23:16:41Z",
-      "age_days": 3,
-      "score": 31667,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "stars_delta": 616
     },
     {
       "rank": 6,
       "full_name": "pingdotgg/t3code",
-      "stars": 77344,
-      "stars_gained": 5813,
+      "stars": 79319,
+      "stars_gained": 7833,
       "language": "TypeScript",
       "description": "The best way to control Claude Code, Codex and more from any computer or phone",
       "social": [
@@ -1123,40 +1124,40 @@
         "x"
       ],
       "created_at": "2026-02-08T23:46:22Z",
-      "age_days": 289,
-      "score": 27894,
+      "age_days": 290,
+      "score": 43772,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 4,
-      "rank_delta": -2,
-      "status": "down",
-      "stars_delta": 2758
+      "rank_prev": 6,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 1975
     },
     {
       "rank": 7,
       "full_name": "Hut-hzf/ung220z-tool",
-      "stars": 4400,
-      "stars_gained": 2062,
+      "stars": 4808,
+      "stars_gained": 2460,
       "language": "Python",
       "description": "ung220z-tool æ¯ä¸ä¸ªéå¯¹ UNG220Zï¼å¦å«ä¸­å´/ç½ç«/åä¸º/ä¹èå¤ååééãåºä»¶æçº¹è¯å«ä¸åå®¶ææéå»ºè®®çä¸é®å­æ®æåå·¥å·ï¼ä»éå¨ä½ èªå·±çè®¾å¤ä¸ç¨äºæ¾åå¿è®°çç®¡çå¯ç ãè¿ç§»å®½å¸¦éç½®æå®å¨èªæ¥ã",
       "social": [
         "x"
       ],
       "created_at": "2026-11-15T11:16:46Z",
-      "age_days": 9,
-      "score": 25968,
+      "age_days": 10,
+      "score": 31011,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 7,
       "rank_delta": 0,
       "status": "same",
-      "stars_delta": 1281
+      "stars_delta": 408
     },
     {
       "rank": 8,
       "full_name": "google-gemini/gemini-api-cli",
-      "stars": 2286,
-      "stars_gained": 1713,
+      "stars": 3029,
+      "stars_gained": 2456,
       "language": "Go",
       "description": "An (experimental) CLI for the Gemini API",
       "social": [
@@ -1164,192 +1165,20 @@
         "x"
       ],
       "created_at": "2026-04-29T14:54:25Z",
-      "age_days": 209,
-      "score": 20742,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": 11,
-      "rank_delta": 3,
-      "status": "up",
-      "stars_delta": 1210
-    },
-    {
-      "rank": 9,
-      "full_name": "shirudo-dev/shirudo",
-      "stars": 1648,
-      "stars_gained": 1568,
-      "language": "C",
-      "description": "eBPF-based security platform",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-10-13T16:06:37Z",
-      "age_days": 42,
-      "score": 19224,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 10,
-      "full_name": "LadybirdBrowser/ladybird",
-      "stars": 68722,
-      "stars_gained": 1486,
-      "language": "Rust",
-      "description": "Truly independent web browser",
-      "social": [
-        "x"
-      ],
-      "created_at": "2024-05-30T09:18:10Z",
-      "age_days": 908,
-      "score": 17977,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 20,
-      "rank_delta": 10,
-      "status": "up",
-      "stars_delta": 1090
-    },
-    {
-      "rank": 11,
-      "full_name": "os6/nospeaker",
-      "stars": 1740,
-      "stars_gained": 1351,
-      "language": "Swift",
-      "description": "make your macbook's trackpad talk using its haptic motor",
-      "social": [
-        "hackernews",
-        "x"
-      ],
-      "created_at": "2026-11-22T12:05:54Z",
-      "age_days": 2,
-      "score": 16406,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": 5,
-      "rank_delta": -6,
-      "status": "down",
-      "stars_delta": 384
-    },
-    {
-      "rank": 12,
-      "full_name": "pierridotite/mobile-agent-testers",
-      "stars": 1804,
-      "stars_gained": 1323,
-      "language": "Python",
-      "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-11-16T19:11:44Z",
-      "age_days": 8,
-      "score": 16233,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": 6,
-      "rank_delta": -6,
-      "status": "down",
-      "stars_delta": 385
-    },
-    {
-      "rank": 13,
-      "full_name": "nickrunning/wechat-selkies",
-      "stars": 4323,
-      "stars_gained": 1207,
-      "language": "Python",
-      "description": "åºäºSelkiesçLinuxç½é¡µçå¾®ä¿¡/QQ/Telegramï¼æ¯ææ¬å°ä¸­æè¾å¥æ³ï¼æ¯æä¸æ¹åºç¨ï¼æ¯æAMD64åARM64ã",
-      "social": [
-        "x"
-      ],
-      "created_at": "2025-10-12T10:03:40Z",
-      "age_days": 408,
-      "score": 14925,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 10,
-      "rank_delta": -3,
-      "status": "down",
-      "stars_delta": 665
-    },
-    {
-      "rank": 14,
-      "full_name": "elementalsouls/Claude-BugHunter",
-      "stars": 21377,
-      "stars_gained": 3653,
-      "language": "Python",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-05-05T11:22:32Z",
-      "age_days": 203,
-      "score": 14610,
+      "age_days": 210,
+      "score": 29809,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 8,
-      "rank_delta": -6,
-      "status": "down",
-      "stars_delta": 1716
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 743
     },
     {
-      "rank": 15,
-      "full_name": "xerj-org/xerj",
-      "stars": 21355,
-      "stars_gained": 1937,
-      "language": "Rust",
-      "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
-      "social": [
-        "x"
-      ],
-      "created_at": "2026-06-30T04:32:45Z",
-      "age_days": 147,
-      "score": 13331,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 21,
-      "rank_delta": 6,
-      "status": "up",
-      "stars_delta": 1108
-    },
-    {
-      "rank": 16,
-      "full_name": "zed-industries/gpui",
-      "stars": 1555,
-      "stars_gained": 1469,
-      "language": "",
-      "description": "A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes.",
-      "social": [
-        "hackernews",
-        "x"
-      ],
-      "created_at": "2022-06-20T19:43:39Z",
-      "age_days": 1618,
-      "score": 13252,
-      "suspect": false,
-      "suspect_reasons": [
-        "하루 증가분이 총 스타의 절반 이상"
-      ],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
-    },
-    {
-      "rank": 17,
+      "rank": 9,
       "full_name": "stablyai/orca",
-      "stars": 136006,
-      "stars_gained": 3062,
+      "stars": 137857,
+      "stars_gained": 4958,
       "language": "TypeScript",
       "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
       "social": [
@@ -1357,20 +1186,104 @@
         "x"
       ],
       "created_at": "2026-03-17T03:28:57Z",
-      "age_days": 252,
-      "score": 13215,
+      "age_days": 253,
+      "score": 25422,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 17,
+      "rank_delta": 8,
+      "status": "up",
+      "stars_delta": 1851
+    },
+    {
+      "rank": 10,
+      "full_name": "shirudo-dev/shirudo",
+      "stars": 2151,
+      "stars_gained": 2045,
+      "language": "C",
+      "description": "eBPF-based security platform",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-10-13T16:06:37Z",
+      "age_days": 43,
+      "score": 25152,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": 9,
+      "rank_delta": -1,
+      "status": "down",
+      "stars_delta": 503
+    },
+    {
+      "rank": 11,
+      "full_name": "LadybirdBrowser/ladybird",
+      "stars": 69162,
+      "stars_gained": 1894,
+      "language": "Rust",
+      "description": "Truly independent web browser",
+      "social": [
+        "x"
+      ],
+      "created_at": "2024-05-30T09:18:10Z",
+      "age_days": 909,
+      "score": 23124,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 10,
+      "rank_delta": -1,
+      "status": "down",
+      "stars_delta": 440
+    },
+    {
+      "rank": 12,
+      "full_name": "elementalsouls/Claude-BugHunter",
+      "stars": 22853,
+      "stars_gained": 5186,
+      "language": "Python",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-05-05T11:22:32Z",
+      "age_days": 204,
+      "score": 22934,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": 14,
-      "rank_delta": -3,
-      "status": "down",
-      "stars_delta": 1574
+      "rank_delta": 2,
+      "status": "up",
+      "stars_delta": 1476
     },
     {
-      "rank": 18,
+      "rank": 13,
+      "full_name": "pierridotite/mobile-agent-testers",
+      "stars": 2285,
+      "stars_gained": 1797,
+      "language": "Python",
+      "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-11-16T19:11:44Z",
+      "age_days": 9,
+      "score": 22042,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": 12,
+      "rank_delta": -1,
+      "status": "down",
+      "stars_delta": 481
+    },
+    {
+      "rank": 14,
       "full_name": "BaaRai/ARTEX",
-      "stars": 19194,
-      "stars_gained": 2965,
+      "stars": 20711,
+      "stars_gained": 4482,
       "language": "Go",
       "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
       "social": [
@@ -1378,20 +1291,20 @@
         "x"
       ],
       "created_at": "2026-10-08T21:14:39Z",
-      "age_days": 47,
-      "score": 11788,
+      "age_days": 48,
+      "score": 19576,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 17,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 1519
+      "rank_prev": 18,
+      "rank_delta": 4,
+      "status": "up",
+      "stars_delta": 1517
     },
     {
-      "rank": 19,
+      "rank": 15,
       "full_name": "morluto/rea",
-      "stars": 477041,
-      "stars_gained": 2995,
+      "stars": 478408,
+      "stars_gained": 4362,
       "language": "TypeScript",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "social": [
@@ -1400,61 +1313,86 @@
         "x"
       ],
       "created_at": "2026-04-14T00:51:32Z",
-      "age_days": 224,
-      "score": 11610,
+      "age_days": 225,
+      "score": 18511,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 16,
-      "rank_delta": -3,
-      "status": "down",
-      "stars_delta": 1520
+      "rank_prev": 19,
+      "rank_delta": 4,
+      "status": "up",
+      "stars_delta": 1367
     },
     {
-      "rank": 20,
+      "rank": 16,
+      "full_name": "zed-industries/gpui",
+      "stars": 2086,
+      "stars_gained": 2035,
+      "language": "",
+      "description": "A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes.",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2022-06-20T19:43:39Z",
+      "age_days": 1619,
+      "score": 18363,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": 16,
+      "rank_delta": 0,
+      "status": "same",
+      "stars_delta": 531
+    },
+    {
+      "rank": 17,
+      "full_name": "os6/nospeaker",
+      "stars": 1875,
+      "stars_gained": 1487,
+      "language": "Swift",
+      "description": "make your macbook's trackpad talk using its haptic motor",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-11-22T12:05:54Z",
+      "age_days": 3,
+      "score": 18080,
+      "suspect": false,
+      "suspect_reasons": [
+        "하루 증가분이 총 스타의 절반 이상"
+      ],
+      "rank_prev": 11,
+      "rank_delta": -6,
+      "status": "down",
+      "stars_delta": 135
+    },
+    {
+      "rank": 18,
       "full_name": "havenicec/google-qr-sms-helper",
-      "stars": 5083,
-      "stars_gained": 2031,
+      "stars": 5855,
+      "stars_gained": 2802,
       "language": "JavaScript",
       "description": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
       "social": [
         "x"
       ],
       "created_at": "2026-10-26T10:44:47Z",
-      "age_days": 29,
-      "score": 11076,
+      "age_days": 30,
+      "score": 17725,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 13,
-      "rank_delta": -7,
-      "status": "down",
-      "stars_delta": 784
+      "rank_prev": 20,
+      "rank_delta": 2,
+      "status": "up",
+      "stars_delta": 772
     },
     {
-      "rank": 21,
-      "full_name": "EL4CTEO/fast-anything",
-      "stars": 3570,
-      "stars_gained": 1725,
-      "language": "Rust",
-      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-      "social": [
-        "hackernews",
-        "x"
-      ],
-      "created_at": "2026-11-21T14:40:27Z",
-      "age_days": 3,
-      "score": 11043,
-      "suspect": false,
-      "suspect_reasons": [],
-      "rank_prev": 9,
-      "rank_delta": -12,
-      "status": "down",
-      "stars_delta": 502
-    },
-    {
-      "rank": 22,
+      "rank": 19,
       "full_name": "XiaoYouChR/Ghost-Downloader-3",
-      "stars": 17242,
-      "stars_gained": 2178,
+      "stars": 18172,
+      "stars_gained": 3099,
       "language": "Python",
       "description": "The only downloader you need. ä¸è½½å¨çéå¤§æèã",
       "social": [
@@ -1462,20 +1400,61 @@
         "x"
       ],
       "created_at": "2023-08-16T04:23:44Z",
-      "age_days": 1196,
-      "score": 10536,
+      "age_days": 1197,
+      "score": 17422,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 19,
-      "rank_delta": -3,
-      "status": "down",
-      "stars_delta": 1005
+      "rank_prev": 22,
+      "rank_delta": 3,
+      "status": "up",
+      "stars_delta": 930
     },
     {
-      "rank": 23,
+      "rank": 20,
+      "full_name": "XinaTian/MROffice",
+      "stars": 4550,
+      "stars_gained": 2476,
+      "language": "TypeScript",
+      "description": "MR Office â the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
+      "social": [
+        "hackernews",
+        "x"
+      ],
+      "created_at": "2026-11-10T17:54:07Z",
+      "age_days": 15,
+      "score": 16654,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 24,
+      "rank_delta": 4,
+      "status": "up",
+      "stars_delta": 801
+    },
+    {
+      "rank": 21,
+      "full_name": "nickrunning/wechat-selkies",
+      "stars": 4440,
+      "stars_gained": 1324,
+      "language": "Python",
+      "description": "åºäºSelkiesçLinuxç½é¡µçå¾®ä¿¡/QQ/Telegramï¼æ¯ææ¬å°ä¸­æè¾å¥æ³ï¼æ¯æä¸æ¹åºç¨ï¼æ¯æAMD64åARM64ã",
+      "social": [
+        "x"
+      ],
+      "created_at": "2025-10-12T10:03:40Z",
+      "age_days": 409,
+      "score": 16539,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 13,
+      "rank_delta": -8,
+      "status": "down",
+      "stars_delta": 117
+    },
+    {
+      "rank": 22,
       "full_name": "zhouxiaoka/autoclip",
-      "stars": 15290,
-      "stars_gained": 1883,
+      "stars": 16107,
+      "stars_gained": 2710,
       "language": "Python",
       "description": "AutoClipï½ä¸ä¸ªé¾æ¥ï¼ä¸é®åºçãå¼æº AI è§é¢åªè¾æ¡é¢å·¥å·ï¼å°æ­å®¢ãè®¿è°ãè¯¾ç¨ç­é¿è§é¢èªå¨åªæç­è§é¢ï¼çæå­å¹ãå°é¢ååå¸ææ¡ï¼ééæé³ãå°çº¢ä¹¦ãTikTokãReels ä¸ YouTube ShortsãOpen-source AI video clipping & content repurposing.",
       "social": [
@@ -1483,29 +1462,30 @@
         "x"
       ],
       "created_at": "2025-07-08T04:51:15Z",
-      "age_days": 504,
-      "score": 9426,
+      "age_days": 505,
+      "score": 15935,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": 22,
-      "rank_delta": -1,
-      "status": "down",
-      "stars_delta": 936
+      "rank_prev": 23,
+      "rank_delta": 1,
+      "status": "up",
+      "stars_delta": 817
     },
     {
-      "rank": 24,
-      "full_name": "XinaTian/MROffice",
-      "stars": 3749,
-      "stars_gained": 1680,
-      "language": "TypeScript",
-      "description": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
+      "rank": 23,
+      "full_name": "cathrynlavery/diagram-design",
+      "stars": 72939,
+      "stars_gained": 2694,
+      "language": "HTML",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "social": [
         "hackernews",
+        "reddit",
         "x"
       ],
-      "created_at": "2026-11-10T17:54:07Z",
-      "age_days": 14,
-      "score": 9331,
+      "created_at": "2026-04-16T18:01:16Z",
+      "age_days": 223,
+      "score": 15684,
       "suspect": false,
       "suspect_reasons": [],
       "rank_prev": null,
@@ -1514,10 +1494,10 @@
       "stars_delta": null
     },
     {
-      "rank": 25,
+      "rank": 24,
       "full_name": "HKUDS/CLI-Anything",
-      "stars": 64686,
-      "stars_gained": 1938,
+      "stars": 65617,
+      "stars_gained": 2890,
       "language": "Python",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "social": [
@@ -1525,108 +1505,96 @@
         "x"
       ],
       "created_at": "2026-03-08T13:52:57Z",
-      "age_days": 261,
-      "score": 8729,
+      "age_days": 262,
+      "score": 15199,
       "suspect": false,
       "suspect_reasons": [],
-      "rank_prev": null,
-      "rank_delta": null,
-      "status": "new",
-      "stars_delta": null
+      "rank_prev": 25,
+      "rank_delta": 1,
+      "status": "up",
+      "stars_delta": 931
+    },
+    {
+      "rank": 25,
+      "full_name": "xerj-org/xerj",
+      "stars": 21505,
+      "stars_gained": 2087,
+      "language": "Rust",
+      "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+      "social": [
+        "x"
+      ],
+      "created_at": "2026-06-30T04:32:45Z",
+      "age_days": 148,
+      "score": 14973,
+      "suspect": false,
+      "suspect_reasons": [],
+      "rank_prev": 15,
+      "rank_delta": -10,
+      "status": "down",
+      "stars_delta": 150
     }
   ],
-  "daily_suspect_count": 2,
-  "daily_clean_count": 23,
+  "daily_suspect_count": 1,
+  "daily_clean_count": 24,
   "weekly_suspect_count": 0,
   "weekly_clean_count": 25,
   "note": "weekly는 주 시작 직후에는 daily와 거의 동일하다. suspect=true 항목은 스타 농장 스팸 의심이니 리포트에서 제외하거나 따로 표시할 것.",
-  "prev_generated_at_kst": "2026-11-24 08:50:00",
+  "prev_generated_at_kst": "2026-11-25 08:50:00",
   "daily_dropped": [
     {
-      "full_name": "ItsNotRexed/Leonida",
-      "rank_prev": 1
+      "full_name": "xcl-dev/xcl",
+      "rank_prev": 2
     },
     {
-      "full_name": "havenicec/google-qr-sms-helper",
+      "full_name": "shirudo-dev/shirudo",
       "rank_prev": 4
     },
     {
-      "full_name": "EL4CTEO/fast-anything",
+      "full_name": "Hut-hzf/ung220z-tool",
       "rank_prev": 5
     },
     {
-      "full_name": "ivall/xcl",
-      "rank_prev": 6
-    },
-    {
-      "full_name": "os6/nospeaker",
-      "rank_prev": 7
-    },
-    {
-      "full_name": "pierridotite/mobile-agent-testers",
+      "full_name": "AFK-surf/xnulinux",
       "rank_prev": 8
     },
     {
-      "full_name": "thtbee/nectarlink",
-      "rank_prev": 13
+      "full_name": "xerj-org/xerj",
+      "rank_prev": 9
     },
     {
-      "full_name": "mjmirza/app-store-compliance",
-      "rank_prev": 15
+      "full_name": "LadybirdBrowser/ladybird",
+      "rank_prev": 10
     },
     {
-      "full_name": "elementalsouls/Claude-BugHunter",
-      "rank_prev": 16
+      "full_name": "nickrunning/wechat-selkies",
+      "rank_prev": 17
     },
     {
-      "full_name": "lixiaoxiao9888-create/manju-laoli-skill",
-      "rank_prev": 18
-    },
-    {
-      "full_name": "jingyaogong/minimind",
+      "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
       "rank_prev": 21
     },
     {
-      "full_name": "ChiefGyk3D/Clouds-Against-Humanity",
+      "full_name": "wquguru/cicada",
       "rank_prev": 22
     },
     {
-      "full_name": "ScrapeCreators/social-media-research-skills",
+      "full_name": "deterministic-machines/deslop-please",
       "rank_prev": 23
     },
     {
-      "full_name": "janestreet/agent_skills",
+      "full_name": "ksjhk/api",
       "rank_prev": 24
+    },
+    {
+      "full_name": "kunkundi/crossdesk",
+      "rank_prev": 25
     }
   ],
   "weekly_dropped": [
     {
-      "full_name": "ivall/xcl",
-      "rank_prev": 3
-    },
-    {
-      "full_name": "erkamyaman/safe-anything",
-      "rank_prev": 12
-    },
-    {
-      "full_name": "lixiaoxiao9888-create/manju-laoli-skill",
-      "rank_prev": 15
-    },
-    {
-      "full_name": "thtbee/nectarlink",
-      "rank_prev": 18
-    },
-    {
-      "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "rank_prev": 23
-    },
-    {
-      "full_name": "mjmirza/app-store-compliance",
-      "rank_prev": 24
-    },
-    {
-      "full_name": "trina-app/trina-ax",
-      "rank_prev": 25
+      "full_name": "EL4CTEO/fast-anything",
+      "rank_prev": 21
     }
   ]
 }
